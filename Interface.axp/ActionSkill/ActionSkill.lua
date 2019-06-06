@@ -4,7 +4,7 @@ local Current_Xinfa = 1;
 local Current_Skill = -1;
 local Current_Nuqi = -1;
 
---local XINFA_LEVEL = {};
+--local XINFA_LEVEL = {};FFFFFFFFFFFFFF
 local XINFA_INDEX = {};
 local XINFA_BUTTONS_NUM = 8;
 local XINFA_BUTTONS = {};
