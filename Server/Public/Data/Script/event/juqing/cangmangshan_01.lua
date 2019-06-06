@@ -12,7 +12,7 @@ x200030_g_ScriptId = 200030
 --副本名称
 x200030_g_CopySceneName = "Th呓ng Mang S絥"
 
-x200030_g_CopySceneType = FUBEN_JUQING	--副本类型,定义T読 ScriptGlobal.lua里面
+x200030_g_CopySceneType = FUBEN_JUQING_CANGMANGSHAN	--副本类型,定义T読 ScriptGlobal.lua里面
 
 x200030_g_CopySceneMap = "cangmang_1.nav"
 x200030_g_Exit = "cangmang_1.ini"

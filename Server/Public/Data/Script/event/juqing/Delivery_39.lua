@@ -24,7 +24,7 @@ x200096_g_SceneID=0
 x200096_g_AccomplishNPC_Name="Hách Liên Thiªt Thø"
 
 --Ä¿±êNPC
-x200096_g_Name	="Mai Kiªm "
+x200096_g_Name	="Mai Kiªm"
 
 --ÈÎÎñ¹éÀà
 x200096_g_MissionKind = 49

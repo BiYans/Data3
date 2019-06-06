@@ -5,14 +5,21 @@ x880201_g_scriptId = 880201
 --
 --**********************************
 function x880201_OnDefaultEvent( sceneId, selfId,targetId )
+	--DelMission(sceneId, selfId, 1187)
+	--DelMission(sceneId, selfId, 1188)
+	--DelMission(sceneId, selfId, 1189)
+	
+	AddMission(sceneId, selfId, 1187, 500621,0,0,0)
+	--AddMission(sceneId, selfId, 1188, 500622)
+	--AddMission(sceneId, selfId, 1189, 500623)
 	BeginEvent(sceneId)
 		AddText(sceneId,"Chào m×ng các hÕ ðªn v¾i thª gi¾i Thiên Long Bát Bµ, ta là sÑ giä do GM gØi ðªn ð¬ h² trþ cho tân thü nh§p thª.")
 		AddNumText( sceneId, x880201_g_scriptId, "Nh§n Kim Nguyên Bäo", 4, 1 )
 		AddNumText( sceneId, x880201_g_scriptId, "Nh§n H² Trþ Giao TØ", 5, 2 )
 		AddNumText( sceneId, x880201_g_scriptId, "Nh§n H² Trþ Ngân Lßþng", 5, 3 )
 		AddNumText( sceneId, x880201_g_scriptId, "Nh§n Trang B¸ Môn Phái", 6, 4 )
-		--AddNumText( sceneId, x880201_g_scriptId, "#GCampaignTrack", 6, 5 )
-		--AddNumText( sceneId, x880201_g_scriptId, "#GMissionTrack", 6, 6 )
+		AddNumText( sceneId, x880201_g_scriptId, "#GCampaignTrack", 6, 5 )
+		AddNumText( sceneId, x880201_g_scriptId, "#GMissionTrack", 6, 6 )
 		AddNumText( sceneId, x880201_g_scriptId, "R¶i ði", 8, 0 )
 	EndEvent(sceneId)
 	DispatchEventList(sceneId,selfId,targetId)

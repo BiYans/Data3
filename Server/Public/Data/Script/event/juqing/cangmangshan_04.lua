@@ -13,7 +13,7 @@ x200033_g_MissionId = 29
 x200033_g_PreMissionId = 28
 
 --Ä¿±êNPC
-x200033_g_Name = "Gia Lu§t H°ng C½ "
+x200033_g_Name = "Gia Lu§t H°ng C½"
 
 --Ðúng·ñÐúngTinhÓ¢ÈÎÎñ
 x200033_g_IfMissionElite = 1
@@ -152,7 +152,7 @@ end
 --·ÅÆú
 --**********************************
 function x200033_OnAbandon( sceneId, selfId )
-  DelMission( sceneId, selfId, x200033_g_MissionId )
+	DelMission( sceneId, selfId, x200033_g_MissionId )
 end
 
 --**********************************

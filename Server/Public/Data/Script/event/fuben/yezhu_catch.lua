@@ -60,9 +60,18 @@ x402105_g_BossRand_2 = 10
 --ÈÎÎñÈë¿Úº¯Êý
 --**********************************
 function x402105_OnDefaultEvent( sceneId, selfId, targetId )
+	local FbTime = CallScriptFunction(741307,"ThongBaoBaoTri",sceneId,selfId)
+	if FbTime ~= 0 then
+		BeginEvent(sceneId)
+			AddText(sceneId, "Còn "..FbTime.." phút næa máy chü s¨ tiªn hành bäo trì, các phø bän ðã ðóng.")
+		EndEvent(sceneId)
+		DispatchEventList(sceneId,selfId,targetId)
+		return
+	end
+	
 	if GetNumText()==1010 then
 		BeginEvent(sceneId)
-				AddText(sceneId,"#{YZBZ_20070930_004}");
+			AddText(sceneId,"#{YZBZ_20070930_004}");
 		EndEvent(sceneId)
 		DispatchEventList(sceneId,selfId,targetId)
 		return
@@ -78,11 +87,11 @@ function x402105_OnDefaultEvent( sceneId, selfId, targetId )
 	end
 	
 	-- 2,¼ì²âÍæ¼ÒÐúng²»Ðúng×é¶ÓÁË
-	x402105_g_LimitMembers = CallScriptFunction(741307,"FubenMinMember",sceneId,selfId,402105)
-	if GetTeamSize(sceneId,selfId) < x402105_g_LimitMembers  then
+	local Fb1, Fb2, Fb3, Fb4 = CallScriptFunction(741307,"FubenChecker",sceneId,selfId,402102,0)
+	if GetTeamSize(sceneId,selfId) < Fb1  then
 		BeginEvent(sceneId)
 			AddText(sceneId,"#BÐu±i b¡t Dã Trß Vß½ng");
-			AddText(sceneId,"  Nhi«u ngß¶i sÑc mÕnh l¾n, chúng ta quay v« g÷i thêm trþ thü. #R(BÕn phäi là ðµi trß·ng, và trong ðµi có ít nh¤t 3 ngß¶i)");
+			AddText(sceneId,"  Nhi«u ngß¶i sÑc mÕnh l¾n, chúng ta quay v« g÷i thêm trþ thü. #R(BÕn phäi là ðµi trß·ng, và trong ðµi có ít nh¤t "..Fb1.." ngß¶i)");
 		EndEvent(sceneId)
 		DispatchEventList(sceneId,selfId,targetId)
 		return
@@ -92,7 +101,7 @@ function x402105_OnDefaultEvent( sceneId, selfId, targetId )
 	if GetTeamLeader(sceneId,selfId) ~= selfId    then
 		BeginEvent(sceneId)
 			AddText(sceneId,"#BÐu±i b¡t Dã Trß Vß½ng");
-			AddText(sceneId,"  Nhi«u ngß¶i sÑc mÕnh l¾n, chúng ta quay v« g÷i thêm trþ thü. #R(BÕn phäi là ðµi trß·ng, và trong ðµi có ít nh¤t 3 ngß¶i)");
+			AddText(sceneId,"  Nhi«u ngß¶i sÑc mÕnh l¾n, chúng ta quay v« g÷i thêm trþ thü. #R(BÕn phäi là ðµi trß·ng, và trong ðµi có ít nh¤t "..Fb1.." ngß¶i)");
 		EndEvent(sceneId)
 		DispatchEventList(sceneId,selfId,targetId)
 		return
@@ -102,7 +111,7 @@ function x402105_OnDefaultEvent( sceneId, selfId, targetId )
 	if GetTeamSize(sceneId,selfId) ~= GetNearTeamCount(sceneId,selfId)  then
 		BeginEvent(sceneId)
 			AddText(sceneId,"#BÐu±i b¡t Dã Trß Vß½ng");
-			AddText(sceneId,"  Nhi«u ngß¶i sÑc mÕnh l¾n, chúng ta quay v« g÷i thêm trþ thü. #R(BÕn phäi là ðµi trß·ng, và trong ðµi có ít nh¤t 3 ngß¶i)");
+			AddText(sceneId,"  Nhi«u ngß¶i sÑc mÕnh l¾n, chúng ta quay v« g÷i thêm trþ thü. #R(BÕn phäi là ðµi trß·ng, và trong ðµi có ít nh¤t "..Fb1.." ngß¶i)");
 		EndEvent(sceneId)
 		DispatchEventList(sceneId,selfId,targetId)
 		return
@@ -131,7 +140,7 @@ function x402105_OnDefaultEvent( sceneId, selfId, targetId )
  	
 	for i=0, nPlayerNum-1  do
 		local nPlayerId = GetNearTeamMember(sceneId,selfId, i)
-		if GetLevel(sceneId, nPlayerId) < 40  then
+		if GetLevel(sceneId, nPlayerId) < Fb2  then
 			ret = 0
 			strName[i+1] = GetName(sceneId, nPlayerId)
 		end
@@ -152,7 +161,7 @@ function x402105_OnDefaultEvent( sceneId, selfId, targetId )
 		end
 		BeginEvent(sceneId)
 			AddText(sceneId,"#BÐu±i b¡t Dã Trß Vß½ng");
-			AddText(sceneId,"  Nªu mu¯n ðánh bÕi Dã Trß Vß½ng, c¤p b§c th¤p không th¬ ðßþc.#r#RTrong ðµi ngû có thành viên " .. szAllName .. " c¤p nhö h½n 40.");
+			AddText(sceneId,"  Nªu mu¯n ðánh bÕi Dã Trß Vß½ng, c¤p b§c th¤p không th¬ ðßþc.#r#RTrong ðµi ngû có thành viên " .. szAllName .. " c¤p nhö h½n "..Fb2..".");
 		EndEvent(sceneId)
 		DispatchEventList(sceneId,selfId,targetId)
 		return

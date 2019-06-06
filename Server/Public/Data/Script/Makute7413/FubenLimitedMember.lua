@@ -16,18 +16,18 @@ function x741307_FubenChecker(sceneId,selfId,ScriptID,type)
 		FubenDetail[808034] = {3,20,1,1} --ok-tested-Danh Len Nga My--
 		FubenDetail[401001] = {3,10,1,1} --ok-tested-Tran Long Ky Cuoc--
 		FubenDetail[232002] = {1,20,1,1} --ok-tested-Thuy Lao Phan Loan--
-		FubenDetail[402030] = {4,10,1,1} --Diet Phi Kinh Ho--
-		FubenDetail[050100] = {4,10,1,1} --Phu Ban QTC 1--
-		FubenDetail[050101] = {4,10,1,1} --Phu Ban QTC 2--
-		FubenDetail[050102] = {4,10,1,1} --Phu Ban QTC 3--
-		FubenDetail[050220] = {4,10,1,1} --Phu Ban QLL 1--
-		FubenDetail[050221] = {4,10,1,1} --Phu Ban QLL 2--
-		FubenDetail[050222] = {4,10,1,1} --Phu Ban QLL 3--
-		FubenDetail[808039] = {4,10,1,1} --Lau Lan Tam Bao--
-		FubenDetail[402263] = {1,90,0,3} --ok-tested-Phieu Mieu Phong 90--
-		FubenDetail[402276] = {1,75,0,3} --ok-tested-Phieu Mieu Phong 75--
-		FubenDetail[402102] = {4,10,1,1} --Tiep Cuu Linh Thu--
-		FubenDetail[402105] = {4,10,1,1} --Da Tru Vuong--
+		FubenDetail[402030] = {3,10,1,1} --ok-tested-Diet Phi Kinh Ho--
+		FubenDetail[050100] = {3,30,1,1} --ok-tested-Phu Ban QTC 1--
+		FubenDetail[050101] = {3,30,1,1} --ok-tested-Phu Ban QTC 2--
+		FubenDetail[050102] = {4,30,1,1} --ok-tested-Phu Ban QTC 3--
+		FubenDetail[050220] = {3,75,45,1} --ok-tested-Phu Ban QLL 1--
+		FubenDetail[050221] = {3,75,45,1} --ok-tested-Phu Ban QLL 2--
+		FubenDetail[050222] = {3,75,45,1} --ok-tested-Phu Ban QLL 3--
+		FubenDetail[808039] = {3,75,1,1} --ok-tested-Lau Lan Tam Bao--
+		FubenDetail[402263] = {3,90,0,3} --ok-tested-Phieu Mieu Phong 90--
+		FubenDetail[402276] = {3,75,0,3} --ok-tested-Phieu Mieu Phong 75--
+		FubenDetail[402102] = {3,40,1,1} --ok-tested-Tiep Cuu Linh Thu--
+		FubenDetail[402105] = {3,40,1,1} --ok-tested-Da Tru Vuong--
 	
 	if type == 0 then
 		return FubenDetail[ScriptID][1],FubenDetail[ScriptID][2],FubenDetail[ScriptID][3],FubenDetail[ScriptID][4];

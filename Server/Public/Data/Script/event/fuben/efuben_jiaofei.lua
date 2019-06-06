@@ -90,52 +90,53 @@ function x402030_OnDefaultEvent( sceneId, selfId, targetId )
 		return
 	end
 	
-	if GetName(sceneId, targetId) ~= x402030_g_Name  then
-		return
-	end
-
-	-- ¸ù¾ÝÍæ¼ÒtoÕ ðµ Çé¿ö,½«Íæ¼ÒËÍµ½²»Í¬toÕ ðµ ¸±±¾
-	-- 1,¼ì²é»î¶¯Ê±¼ä (Ã¿ÖÜÁùtoÕ ðµ ÏÂÎç1: 00µ½10: 00Ö®¼ä)
-	local nWeek = GetTodayWeek()
-	if nWeek~=6  then
+	local FbTime = CallScriptFunction(741307,"ThongBaoBaoTri",sceneId,selfId)
+	if FbTime ~= 0 then
 		BeginEvent(sceneId)
-			AddText(sceneId,"#B Di®t phï Kính H°");
-			AddText(sceneId,"  Di®t phï chï có th¬ tiªn hành trong th¶i gian thÑ 7 hàng tu¥n vào lúc 1:00 ðªn 8:00, xin ðªn th¶i gian này hãy ðªn tham gia.");
+			AddText(sceneId, "Còn "..FbTime.." phút næa máy chü s¨ tiªn hành bäo trì, các phø bän ðã ðóng.")
 		EndEvent(sceneId)
 		DispatchEventList(sceneId,selfId,targetId)
-		
 		return
 	end
 	
-	--begin modified by zhangguoxin 090207
-	--local nHour = GetHourTime()
-	--local temp = floor(nHour/100)*100
-	--if nHour - temp < 52  or nHour - temp >= 88   then
-	local nQuarter = mod(GetQuarterTime(),100);
-	if nQuarter < 52 or nQuarter >= 88 then
-	--end modified by zhangguoxin 090207
+	local Fb1, Fb2, Fb3, Fb4 = CallScriptFunction(741307,"FubenChecker",sceneId,selfId,402030,0)
+	
+	if GetName(sceneId, targetId) ~= x402030_g_Name then
+		return
+	end
+
+	local nWeek = GetTodayWeek()
+	if nWeek ~= 6  then
 		BeginEvent(sceneId)
 			AddText(sceneId,"#B Di®t phï Kính H°");
 			AddText(sceneId,"  Di®t phï chï có th¬ tiªn hành trong th¶i gian thÑ 7 hàng tu¥n vào lúc 1:00 ðªn 8:00, xin ðªn th¶i gian này hãy ðªn tham gia.");
 		EndEvent(sceneId)
 		DispatchEventList(sceneId,selfId,targetId)
-		
+		return
+	end
+	
+	local nQuarter = mod(GetQuarterTime(),100);
+	if nQuarter < 52 or nQuarter >= 88 then
+		BeginEvent(sceneId)
+			AddText(sceneId,"#B Di®t phï Kính H°");
+			AddText(sceneId,"  Di®t phï chï có th¬ tiªn hành trong th¶i gian thÑ 7 hàng tu¥n vào lúc 1:00 ðªn 8:00, xin ðªn th¶i gian này hãy ðªn tham gia.");
+		EndEvent(sceneId)
+		DispatchEventList(sceneId,selfId,targetId)
 		return
 	end
 
-	x402030_g_MinHumanCount = CallScriptFunction(741307,"FubenMinMember",sceneId,selfId,402030)
 	-- 2,¼ì²âÍæ¼ÒÐúng²»Ðúng×é¶ÓÁË
-	if GetTeamSize(sceneId,selfId) < x402030_g_MinHumanCount  then
+	if GetTeamSize(sceneId,selfId) < Fb1 then
 		BeginEvent(sceneId)
 			AddText(sceneId,"#B Di®t phï Kính H°");
-			AddText(sceneId,"  Kính H° thüy trÕi ngß¶i ðông thª mÕnh, các hÕ ð½n thân ðµc mã th§t sñ r¤t nguy hi¬m, chí ít cûng phäi ðü "..x402030_g_MinHumanCount.." ngß¶i r°i hãy ðªn tham gia.");
+			AddText(sceneId,"  Kính H° thüy trÕi ngß¶i ðông thª mÕnh, các hÕ ð½n thân ðµc mã th§t sñ r¤t nguy hi¬m, chí ít cûng phäi ðü "..Fb1.." ngß¶i r°i hãy ðªn tham gia.");
 		EndEvent(sceneId)
 		DispatchEventList(sceneId,selfId,targetId)
 		return
 	end
 
 	-- 3,¼ì²âÍæ¼ÒÐúng²»Ðúng¶Ó³¤
-	if GetTeamLeader(sceneId,selfId) ~= selfId    then
+	if GetTeamLeader(sceneId,selfId) ~= selfId then
 		BeginEvent(sceneId)
 			AddText(sceneId,"#B Di®t phï Kính H°");
 			AddText(sceneId,"  Chï có ðµi trß·ng m¾i có th¬ nh§n lînh nhi®m vø di®t phï.");
@@ -145,7 +146,7 @@ function x402030_OnDefaultEvent( sceneId, selfId, targetId )
 	end
 	
 	-- 4,¼ì²âÐúng²»ÐúngÈË¶¼µ½Î»ÁË
-	if GetTeamSize(sceneId,selfId) ~= GetNearTeamCount(sceneId,selfId)  then
+	if GetTeamSize(sceneId,selfId) ~= GetNearTeamCount(sceneId,selfId) then
 		BeginEvent(sceneId)
 			AddText(sceneId,"#B Di®t phï Kính H°");
 			AddText(sceneId,"  Xin l²i, ðµi vi®n cüa các hÕ không · phø c§n, không th¬ nh§n lînh nhi®m vø.");
@@ -156,14 +157,14 @@ function x402030_OnDefaultEvent( sceneId, selfId, targetId )
 	
 	-- ÏÈ¼ì²â¶Ó³¤×Ô¼ºÐúng²»Ðúng×ã¹»Ìõ¼þ½ø¸±±¾
 	--  ÏÈ×öÍê¶Ó³¤toÕ ðµ cáiÈË¼ì²âÖ®ºó,ÔÙ¼ì²âÐµi viên Ðúng²»Ðúng¹»Ìõ¼þ
-	if LuaFnGetAvailableItemCount(sceneId, selfId, x402030_g_Item) < 1  then
+	if LuaFnGetAvailableItemCount(sceneId, selfId, x402030_g_Item) < 1 then
 		BeginEvent(sceneId)
 			AddText(sceneId,"#B Di®t phï Kính H°");
 			AddText(sceneId,"  Xin l²i, trên ngß¶i các hÕ không có mang theo Ngân Bì L®nh Ti­n, không th¬ tham gia l¥n hành ðµng di®t phï này.");
 		EndEvent(sceneId)
 		DispatchEventList(sceneId,selfId,targetId)
 		return
-	end	
+	end
 	local nTimes = GetMissionData(sceneId,selfId, MD_JIAOFEI_TIMES) 
 	local nPreTime = GetMissionData(sceneId,selfId, MD_JIAOFEI_PRE_TIME)
 	local nCurTime = LuaFnGetCurrentTime()
@@ -174,7 +175,7 @@ function x402030_OnDefaultEvent( sceneId, selfId, targetId )
 		SetMissionData(sceneId, selfId, MD_JIAOFEI_TIMES, nTimes)
 		SetMissionData(sceneId, selfId, MD_JIAOFEI_PRE_TIME, nPreTime)
 	end
-	if nTimes >= 1   then
+	if nTimes >= 1 then
 		BeginEvent(sceneId)
 			AddText(sceneId,"#B Di®t phï Kính H°");
 			AddText(sceneId,"  Hôm nay các hÕ ðã t×ng tham gia qua hành ðµng di®t phï. Xin tu¥n sau hãy ðªn tham gia.");
@@ -287,7 +288,6 @@ function x402030_OnEnumerate( sceneId, selfId, targetId )
 	if GetName(sceneId, targetId) == x402030_g_Name  then
 		AddNumText( sceneId, x402030_g_ScriptId, "Ðßa ta ðªn Kính H° thüy trÕi",10 ,-1  )
 		AddNumText( sceneId, x402030_g_ScriptId, "Liên quan ðªn di®t phï Kính H°",8 ,1  )
-		
 	end
 	
 end

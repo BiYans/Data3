@@ -3955,6 +3955,10 @@ MGR_TXT
 500619=\event\InductSeries\eMission_lixiankuizeng.lua
 500620=\event\InductSeries\eMission_ExchangeEquip.lua
 
+500621=\event\InductSeries\eMission_BaoShiKuiZeng.lua
+500622=\event\InductSeries\eMission_ChangShiDaKong.lua
+500623=\event\InductSeries\eMission_ZhuangBeiMoreStrong.lua
+
 ;怪物脚本(宠物岛宠形怪)
 501000=\obj\monster\petdropper.lua
 ;	501001=\obj\monster\petisland\opetisland_tuzi_5.lua

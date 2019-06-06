@@ -232,9 +232,10 @@ function x050101_OnAccept( sceneId, selfId, targetId )
 			x050101_NotifyFailBox( sceneId, selfId, targetId, "    Nhi®m vø ghi chép ðã ð¥y, không th¬ nh§n thêm nhi®m vø" )
 			return
 		end
-
-		if GetLevel( sceneId, selfId ) < x050101_g_LevelLimit then
-			x050101_NotifyFailBox( sceneId, selfId, targetId, "    ÐÆng c¤p cüa ngß½i quá th¤p, nhi®m vø này ð¯i v¾i ngß½i quá nguy hi¬m, hãy luy®n t§p trß¾c khi t¾i" )
+		
+		local Fb1, Fb2, Fb3, Fb4 = CallScriptFunction(741307,"FubenChecker",sceneId,selfId,050101,0)
+		if GetLevel( sceneId, selfId ) < Fb2 then
+			x050101_NotifyFailBox( sceneId, selfId, targetId, "    ÐÆng c¤p cüa ngß½i quá th¤p, không th¬ chiªn th¡ng. ÐÕt c¤p "..Fb2.." hãy ðªn tìm ta" )
 			return
 		end
 
@@ -297,6 +298,12 @@ function x050101_AcceptEnterCopyScene( sceneId, selfId, targetId )
 				x050101_NotifyFailBox( sceneId, selfId, targetId, "    R¤t tiªc, nhi®m vø cüa ngß½i ðã th¤t bÕi" )
 			end
 
+			return
+		end
+
+		local FbTime = CallScriptFunction(741307,"ThongBaoBaoTri",sceneId,selfId)
+		if FbTime ~= 0 then
+			x050101_NotifyFailBox( sceneId, selfId, targetId, "Còn "..FbTime.." phút næa máy chü s¨ tiªn hành bäo trì, các phø bän ðã ðóng." )
 			return
 		end
 
@@ -363,9 +370,9 @@ function x050101_AcceptEnterCopyScene( sceneId, selfId, targetId )
 		--	end
 		--	return 
 		--end
-		x050101_g_LimitMembers = CallScriptFunction(741307,"FubenMinMember",sceneId,selfId,050101)
-		if nearMemberCount < x050101_g_LimitMembers then
-			x050101_NotifyFailBox( sceneId, selfId, targetId, "    Trong r×ng trúc g¤u dæ r¤t nhi«u ít nh¤t các ngß½i phäi có "..x050101_g_LimitMembers.." ngß¶i ð°ng hành, ta m¾i yên tâm ð¬ các ngß½i ði." )
+		local Fb1, Fb2, Fb3, Fb4 = CallScriptFunction(741307,"FubenChecker",sceneId,selfId,050101,0)
+		if nearMemberCount < Fb1 then
+			x050101_NotifyFailBox( sceneId, selfId, targetId, "    Trong r×ng trúc g¤u dæ r¤t nhi«u ít nh¤t các ngß½i phäi có "..Fb1.." ngß¶i ð°ng hành, ta m¾i yên tâm ð¬ các ngß½i ði." )
 			return
 		end
 
@@ -497,9 +504,16 @@ function x050101_OnCopySceneReady( sceneId, destsceneId )
 			members[validmembercount] = member
 		end
 	end
-	x050101_g_LimitMembers = CallScriptFunction(741307,"FubenMinMember",sceneId,selfId,050101)
-	if validmembercount < x050101_g_LimitMembers then
-		x050101_NotifyFailTips( sceneId, leaderObjId, "    Trong r×ng trúc g¤u dæ r¤t nhi«u, trong nhóm c¥n có "..x050101_g_LimitMembers.." nhân v§t ít nh¤t t× c¤p 30 tr· lên." )
+	
+	local FbTime = CallScriptFunction(741307,"ThongBaoBaoTri",sceneId,selfId)
+	if FbTime ~= 0 then
+		x050101_NotifyFailBox( sceneId, selfId, targetId, "Còn "..FbTime.." phút næa máy chü s¨ tiªn hành bäo trì, các phø bän ðã ðóng." )
+		return
+	end
+	
+	local Fb1, Fb2, Fb3, Fb4 = CallScriptFunction(741307,"FubenChecker",sceneId,selfId,050101,0)
+	if validmembercount < Fb1 then
+		x050101_NotifyFailTips( sceneId, leaderObjId, "    Trong r×ng trúc g¤u dæ r¤t nhi«u, trong nhóm c¥n có "..Fb1.." nhân v§t tr· lên." )
 		return
 	end
 

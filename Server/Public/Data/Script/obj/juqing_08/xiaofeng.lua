@@ -17,7 +17,7 @@ function x120001_UpdateEventList( sceneId, selfId,targetId )
 	AddText(sceneId,"#{JQ_CMS_B_001}")
 	
 	-- 如果C醝 n鄖 玩家完成了“四面楚歌,”
-  if IsMissionHaveDone(sceneId,selfId,31) > 0 then
+	if IsMissionHaveDone(sceneId,selfId,31) > 0 then
 		AddNumText(sceneId,x120001_g_scriptId,"Kim Qua 秀ng Kh Ngao Binh",10,123);
 	end
 	

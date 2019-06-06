@@ -300,6 +300,12 @@ function x050220_AcceptEnterCopyScene( sceneId, selfId, targetId )
 			return
 		end
 
+		local FbTime = CallScriptFunction(741307,"ThongBaoBaoTri",sceneId,selfId)
+		if FbTime ~= 0 then
+			x050220_NotifyFailBox( sceneId, selfId, targetId, "Còn "..FbTime.." phút næa máy chü s¨ tiªn hành bäo trì, các phø bän ðã ðóng." )
+			return
+		end
+		
 		if LuaFnHasTeam( sceneId, selfId ) == 0 then
 			x050220_NotifyFailBox( sceneId, selfId, targetId, "#{LLFB_80816_9}" )
 			return
@@ -312,12 +318,14 @@ function x050220_AcceptEnterCopyScene( sceneId, selfId, targetId )
 		
 		local teamMemberCount = GetTeamMemberCount(sceneId, selfId);
 		local nearMemberCount = GetNearTeamCount(sceneId, selfId);
-		x050220_g_LimitMembers = CallScriptFunction(741307,"FubenMinMember",sceneId,selfId,050220)
-		if not nearMemberCount or nearMemberCount < x050220_g_LimitMembers then
-			x050220_NotifyFailBox( sceneId, selfId, targetId, "#{LLFB_80816_11}" )
+		
+		local Fb1, Fb2, Fb3, Fb4 = CallScriptFunction(741307,"FubenChecker",sceneId,selfId,050220,0)
+		
+		if not nearMemberCount or nearMemberCount < Fb2 then
+			x050220_NotifyFailBox( sceneId, selfId, targetId, "  T¯i thi¬u có "..Fb1.." thành viên trong t± ðµi m¾i có th¬ yên tâm ðªn Huy«n Lôi Pha. (M÷i ngß¶i trong ðµi ngû ðÆng c¤p phäi ðÕt #Gc¤p "..Fb2.."#W, tâm pháp ðÕt #Gc¤p "..Fb3.."#W)" )
 			return
 		end
-
+				
 		if not teamMemberCount or teamMemberCount ~= nearMemberCount then
 			x050220_NotifyFailBox( sceneId, selfId, targetId, "#{LLFB_80816_12}" )
 			return
@@ -331,17 +339,17 @@ function x050220_AcceptEnterCopyScene( sceneId, selfId, targetId )
 		for	i = 0, nearMemberCount - 1 do
 			memberID = GetNearTeamMember( sceneId, selfId, i )
 			outmessage = outmessage.."#r#Bthành viên  "..GetName(sceneId, memberID)
-			if GetLevel(sceneId, memberID) >= 75 then
-				outmessage = outmessage.."#{FB1}"
+			if GetLevel(sceneId, memberID) >= Fb2 then
+				outmessage = outmessage.."#r#G  ÐÆng c¤p yêu c¥u "..Fb2.."      ðÕt"
 			else
-				outmessage = outmessage.."#{FB2}"
+				outmessage = outmessage.."#r#cff0000  ÐÆng c¤p yêu c¥u "..Fb2.."      chßa ðÕt"
 				issatisfy = 0
 			end
 			
-			if x050220_CheckAllXinfaLevel(sceneId, memberID, 45) == 1 then
-				outmessage = outmessage.."#{FB3}"
+			if x050220_CheckAllXinfaLevel(sceneId, memberID, Fb3) == 1 then
+				outmessage = outmessage.."#r#G  Tâm pháp yêu c¥u "..Fb3.."     ðÕt"
 			else
-				outmessage = outmessage.."#{FB4}"
+				outmessage = outmessage.."#r#cff0000  Tâm pháp yêu c¥u "..Fb3.."      chßa ðÕt"
 				issatisfy = 0
 			end
 			

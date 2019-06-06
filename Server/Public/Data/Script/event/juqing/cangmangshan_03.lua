@@ -18,7 +18,7 @@ x200032_g_SceneID=19
 x200032_g_AccomplishNPC_Name="Gia Lu§t Dß Ð²"
 
 --Ä¿±êNPC
-x200032_g_Name = "Gia Lu§t Dß Ð² "
+x200032_g_Name = "Gia Lu§t Dß Ð²"
 
 --Ðúng·ñÐúngTinhÓ¢ÈÎÎñ
 x200032_g_IfMissionElite = 1

@@ -707,7 +707,11 @@ end
 --³É¹¦: 1 th¤t bÕi: 0
 --**********************************
 function x808039_CheckEnterCondition(sceneId, selfId)
- 	--×é¶Ó?
+ 	local FbTime = CallScriptFunction(741307,"ThongBaoBaoTri",sceneId,selfId)
+	if FbTime ~= 0 then
+		return 0, "Còn "..FbTime.." phút næa máy chü s¨ tiªn hành bäo trì, các phø bän ðã ðóng.";
+	end
+	--×é¶Ó?
  	if LuaFnHasTeam(sceneId, selfId) == 0 then
 		return 0, "#{LLXB_8815_10}";	
  	end
@@ -717,9 +721,10 @@ function x808039_CheckEnterCondition(sceneId, selfId)
  	end
  	--¶ÓÎé´ïµ½ÈËÊýÒªÇó?
  	local teamSize = GetTeamSize(sceneId, selfId);
-	x808039_g_LimitMembers = CallScriptFunction(741307,"FubenMinMember",sceneId,selfId,808039)
- 	if teamSize < x808039_g_LimitMembers then
-		return 0, "#{LLXB_8815_12}";		
+	local Fb1, Fb2, Fb3, Fb4 = CallScriptFunction(741307,"FubenChecker",sceneId,selfId,808039,0)
+ 	
+	if teamSize < Fb1 then
+		return 0, "C¥n t¯i thi¬u "..Fb1.." ngß¶i m¾i có th¬ tham gia Sñ ki®n Lâu Lan T¥m Bäo, ðµi ngû không ðü thành viên.";		
  	end
   --Ðµi viên ¶¼TÕi ¸½½ü?
   if GetNearTeamCount(sceneId, selfId) < teamSize then

@@ -260,7 +260,7 @@ end
 --½øÈëÇøÓòÊÂ¼þ
 --**********************************
 function x200031_OnEnterArea( sceneId, selfId, zoneId )
-	
+	--AddGlobalCountNews(sceneId, LuaFnGetCopySceneData_Param(sceneId, 0))
 	local misIndex = GetMissionIndexByID(sceneId,selfId,x200031_g_MissionId)			-- ði¬mµ½ÈÎÎñtoÕ ðµ ÐòÁÐºÅ
 	
 	if zoneId == 0 and
@@ -268,7 +268,7 @@ function x200031_OnEnterArea( sceneId, selfId, zoneId )
 		if GetMissionParam(sceneId, selfId, misIndex, 0) == 0 then
 			BeginEvent(sceneId)
 				AddText(sceneId, "Ðã løc soát S· Vß½ng ÐÕi Doanh: 1/1")
-	  	EndEvent(sceneId)
+			EndEvent(sceneId)
 			DispatchMissionTips(sceneId,selfId)
 			
 			SetMissionByIndex(sceneId,selfId,misIndex,0,1)
@@ -279,7 +279,7 @@ function x200031_OnEnterArea( sceneId, selfId, zoneId )
 		if GetMissionParam(sceneId, selfId, misIndex, 1) == 0 then
 			BeginEvent(sceneId)
 				AddText(sceneId, "Ðã løc soát ngân kh¯ riêng cüa Hoàng Thái Thúc: 1/1")
-	  	EndEvent(sceneId)
+			EndEvent(sceneId)
 			DispatchMissionTips(sceneId,selfId)
 			
 			SetMissionByIndex(sceneId,selfId,misIndex,1,1)
@@ -290,7 +290,7 @@ function x200031_OnEnterArea( sceneId, selfId, zoneId )
 		if GetMissionParam(sceneId, selfId, misIndex, 2) == 0 then
 			BeginEvent(sceneId)
 				AddText(sceneId, "Ðã løc soát ðß¶ng phía Ðông núi Thß½ng Mang: 1/1")
-	  	EndEvent(sceneId)
+			EndEvent(sceneId)
 			DispatchMissionTips(sceneId,selfId)
 			
 			SetMissionByIndex(sceneId,selfId,misIndex,2,1)
@@ -301,7 +301,7 @@ function x200031_OnEnterArea( sceneId, selfId, zoneId )
 		if GetMissionParam(sceneId, selfId, misIndex, 3) == 0 then
 			BeginEvent(sceneId)
 				AddText(sceneId, "Ðã løc soát ðß¶ng phía Tây núi Thß½ng Mang: 1/1")
-	  	EndEvent(sceneId)
+			EndEvent(sceneId)
 			DispatchMissionTips(sceneId,selfId)
 			
 			SetMissionByIndex(sceneId,selfId,misIndex,3,1)

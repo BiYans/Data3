@@ -43,21 +43,23 @@ x200035_g_Custom	= { {id="Ðã tìm ðßþc Tiêu Phong",num=1} }
 --ÈÎÎñÈë¿Úº¯Êý
 --**********************************
 function x200035_OnDefaultEvent( sceneId, selfId, targetId )
+
 	--Èç¹ûÍæ¼ÒÍê³É¹ýCái này ÈÎÎñ
 	if (IsMissionHaveDone(sceneId,selfId,x200035_g_MissionId) > 0 ) then
 		return
 	elseif( IsHaveMission(sceneId,selfId,x200035_g_MissionId) > 0)  then
 		-- ¼ì²âÐúng²»ÐúngTÕi ¸±±¾,ÔÙ¼ì²âÐúng²»Ðúng,Èç¹ûÐúng¾Í¿ÉÒÔÖ±Hoàn t¤t nhi®m vø,^_^
-		local sceneType = LuaFnGetSceneType(sceneId) 
+		
+		local sceneType = LuaFnGetSceneType(sceneId)
 		if sceneType == 1 then --³¡¾°ÀàÐÍÐúng¸±±¾
 			-- ¼ì²âÏÂTên,°²È« ði¬m ði¬m
-			if GetName(sceneId, targetId) == x200035_g_Name  then
-		    BeginEvent(sceneId)
-				AddText(sceneId,x200035_g_MissionName)
-				AddText(sceneId,x200035_g_MissionComplete)
-				AddMoneyBonus( sceneId, x200035_g_MoneyBonus )
-		    EndEvent( )
-		    DispatchMissionContinueInfo(sceneId,selfId,targetId,x200035_g_ScriptId,x200035_g_MissionId)
+			if GetName(sceneId, targetId) == x200035_g_Name then
+				BeginEvent(sceneId)
+					AddText(sceneId,x200035_g_MissionName)
+					AddText(sceneId,x200035_g_MissionComplete)
+					AddMoneyBonus( sceneId, x200035_g_MoneyBonus )
+				EndEvent( )
+				DispatchMissionContinueInfo(sceneId,selfId,targetId,x200035_g_ScriptId,x200035_g_MissionId)
 			end
 		end
 	
@@ -80,17 +82,16 @@ end
 --ÁÐ¾ÙÊÂ¼þ
 --**********************************
 function x200035_OnEnumerate( sceneId, selfId, targetId )
-
+	
 	--Èç¹ûÍæ¼ÒÍê³É¹ýCái này ÈÎÎñ
 	if IsMissionHaveDone(sceneId,selfId,x200035_g_MissionId) > 0 then
 		return 
 	--Èç¹ûÒÑ½Ó´ËÈÎÎñ
 	elseif IsHaveMission(sceneId,selfId,x200035_g_MissionId) > 0 then
 		--C¥n TÕi ¸±±¾²Å¿ÉÒÔ
-		if GetName(sceneId, targetId) == x200035_g_Name    then
+		if GetName(sceneId, targetId) == x200035_g_Name then
 			AddNumText(sceneId, x200035_g_ScriptId,x200035_g_MissionName,2,-1);
 		end
-		
 	--Thöa mãnÈÎÎñ½ÓÊÕÌõ¼þ
 	elseif x200035_CheckAccept(sceneId,selfId,targetId) > 0 then	
 		AddNumText(sceneId,x200035_g_ScriptId,x200035_g_MissionName,1,-1);
@@ -117,7 +118,7 @@ function x200035_CheckAccept( sceneId, selfId, targetId )
 	end
 	
 	--¼ì²âÐúng²»Ðúng»ÊµÛ
-	if GetName(sceneId, targetId) ~= "Gia Lu§t H°ng C½ "    then
+	if GetName(sceneId, targetId) ~= "Gia Lu§t H°ng C½"    then
 		return 0
 	end
 	

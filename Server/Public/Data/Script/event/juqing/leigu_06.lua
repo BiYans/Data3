@@ -26,7 +26,7 @@ x200045_g_MissionLevel = 60
 x200045_g_MissionKind = 53
 
 --ÈÎÎñÎÄ±¾ÃèÊö
-x200045_g_MissionName="#{MISSIONNAME_JUQING_2}"
+x200045_g_MissionName="Ğóng cØa b¡t trµm"
 x200045_g_MissionInfo="#{Mis_juqing_0037}"
 x200045_g_MissionTarget="#{Mis_juqing_Tar_0037}"	--Møc tiêu nhi®m vø
 x200045_g_MissionContinue="  #{TM_20080313_08}"
