@@ -1,0 +1,8 @@
+[System]
+navmapname=zhengding3.nav
+monsterfile=zhengding3_monster.ini
+patrolpoint=zhengding3_patrolpoint.ini
+growpointdata=zhengding3_growpoint.txt
+growpointsetup=zhengding3_growpointsetup.txt
+eventfile=zhengding3_area.ini
+platformfile=zhengding3_platform.ini

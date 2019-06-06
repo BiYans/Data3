@@ -1,0 +1,8 @@
+[System]
+navmapname=banghuishenbingge_3.nav
+monsterfile=banghuishenbingge_3_monster.ini
+patrolpoint=banghuishenbingge_3_patrolpoint.ini
+growpointdata=banghuishenbingge_3_growpoint.txt
+growpointsetup=banghuishenbingge_3_growpointsetup.txt
+eventfile=banghuishenbingge_3_area.ini
+platformfile=banghuishenbingge_3_platform.ini

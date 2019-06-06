@@ -1,0 +1,8 @@
+[System]
+navmapname=murenxiang_8.nav
+monsterfile=murenxiang_8_monster.ini
+patrolpoint=murenxiang_8_patrolpoint.ini
+growpointdata=murenxiang_8_growpoint.txt
+growpointsetup=murenxiang_8_growpointsetup.txt
+eventfile=murenxiang_8_area.ini
+petfile=murenxiang_8_pet.ini

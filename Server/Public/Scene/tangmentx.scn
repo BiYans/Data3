@@ -1,0 +1,8 @@
+[System]
+navmapname=tangmentx.nav
+monsterfile=tangmentx_monster.ini
+patrolpoint=tangmentx_patrolpoint.ini
+growpointdata=tangmentx_growpoint.txt
+growpointsetup=tangmentx_growpointsetup.txt
+eventfile=tangmentx_area.ini
+platformfile=tangmentx_platform.ini

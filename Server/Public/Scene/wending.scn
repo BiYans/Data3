@@ -1,0 +1,8 @@
+[System]
+navmapname=wending.nav
+monsterfile=wending_monster.ini
+patrolpoint=wending_patrolpoint.ini
+growpointdata=wending_growpoint.txt
+growpointsetup=wending_growpointsetup.txt
+eventfile=wending_area.ini
+platformfile=wending_platform.ini

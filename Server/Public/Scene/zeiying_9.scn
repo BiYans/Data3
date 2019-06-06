@@ -1,0 +1,6 @@
+[System]
+navmapname=zeiying_9.nav
+monsterfile=zeiying_9_monster.ini
+patrolpoint=zeiying_9_patrolpoint.ini
+growpointdata=zeiying_9_growpoint.ini
+eventfile=zeiying_9_area.ini

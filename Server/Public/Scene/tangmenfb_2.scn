@@ -1,0 +1,8 @@
+[System]
+navmapname=tangmenfb_2.nav
+monsterfile=tangmenfb_2_monster.ini
+patrolpoint=tangmenfb_2_patrolpoint.ini
+growpointdata=tangmenfb_2_growpoint.txt
+growpointsetup=tangmenfb_2_growpointsetup.txt
+eventfile=tangmenfb_2_area.ini
+platformfile=tangmenfb_2_platform.ini

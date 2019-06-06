@@ -1,0 +1,85 @@
+
+x002032_g_scriptId = 002032
+
+--**********************************
+--
+--**********************************
+function x002032_OnDefaultEvent( sceneId, selfId,targetId )
+	--LuaFnEquipLevelUp(sceneId,selfId,0,0)
+	--LuaFnSetItemCreator(sceneId,selfId,0,"*0601")
+	--LuaFnSetItemCreator(sceneId,selfId,0,"*070")
+	--LuaFnSetItemCreator(sceneId,selfId,0,"*07000102020")
+	--LuaFnSetItemCreator(sceneId,selfId,0,"*07011900000978531717170241260244")
+	--LuaFnItemBind(sceneId,selfId,0)
+	BeginEvent(sceneId)
+		AddText(sceneId,"Ta là sÑ giä ðßþc GM phái ðªn ðây ð¬ ban thß·ng cho các ngß½i...")
+		AddNumText( sceneId, x002032_g_scriptId, "Luy®n Ti«m Nång Chân Ðan", 6, 1 )
+		AddNumText( sceneId, x002032_g_scriptId, "R¶i ði...", 8, 0 )
+	EndEvent(sceneId)
+	DispatchEventList(sceneId,selfId,targetId)
+end
+
+--**********************************
+--
+--**********************************
+function x002032_OnEventRequest( sceneId, selfId, targetId, eventId )
+	local key = GetNumText()
+	if key == 1 then
+		BeginEvent(sceneId)
+			AddText(sceneId,"Ð¬ luy®n thành #GTi«m Nång Chân Ðan #Wc¥n tiêu t¯n #G7 #Wcái #GTi«m Nång Tán#W, ngß½i có mu¯n tiªp tøc?")
+			AddNumText( sceneId, x002032_g_scriptId, "Ta ð°ng ý", 6, 11 )
+			AddNumText( sceneId, x002032_g_scriptId, "R¶i ði...", 8, 0 )
+		EndEvent(sceneId)
+		DispatchEventList(sceneId,selfId,targetId)
+	end
+	
+	if key == 11 then
+		if LuaFnGetAvailableItemCount(sceneId,selfId,30900080) < 7 then
+			BeginEvent(sceneId)
+				AddText(sceneId,"Ngß½i không có ðü #GTi«m Nång Tán#W ð¬ tiªn hành luy®n ðan.")
+				AddNumText( sceneId, x002032_g_scriptId, "R¶i ði...", 8, 0 )
+			EndEvent(sceneId)
+			DispatchEventList(sceneId,selfId,targetId)
+			return
+		end
+		
+		if LuaFnGetPropertyBagSpace(sceneId,selfId) < 1 then
+			BeginEvent(sceneId)
+				AddText(sceneId,"Hãy s¡p xªp mµt ô tr¯ng trong túi ÐÕo Cø.")
+				AddNumText( sceneId, x002032_g_scriptId, "R¶i ði...", 8, 0 )
+			EndEvent(sceneId)
+			DispatchEventList(sceneId,selfId,targetId)
+			return
+		end
+		
+		LuaFnDelAvailableItem(sceneId,selfId,30900080,7)
+		local Pos = TryRecieveItem(sceneId,selfId,30900078,1)
+		local iteminfo = GetBagItemTransfer( sceneId, selfId, Pos )
+		local playername = GetName(sceneId, selfId)	
+		local strText = format("#{_INFOUSR%s} #cFF0000· ÐÕi Lý ðã nh¶ Tôn Bát Gia dùng 7 viên #WTi«m Nång Tán #cFF0000luy®n thành mµt #{_INFOMSG%s}.", playername,iteminfo)
+		BroadMsgByChatPipe(sceneId,selfId, strText, 4)
+		BeginEvent(sceneId)
+			AddText(sceneId,"Chúc m×ng ngß½i ðã ðÕt ðßþc kÏ ph¦m hiªm có trong thiên hÕ.")
+			AddNumText( sceneId, x002032_g_scriptId, "R¶i ði...", 8, 0 )
+		EndEvent(sceneId)
+		DispatchEventList(sceneId,selfId,targetId)
+		LuaFnSendSpecificImpactToUnit(sceneId,selfId,selfId,selfId,148,0)
+	end
+	
+	if key == 0 then
+		BeginUICommand( sceneId )
+			UICommand_AddInt( sceneId, targetId )
+			EndUICommand( sceneId )
+		DispatchUICommand( sceneId, selfId, 1000 )
+	end
+end
+
+--**********************************
+--
+--**********************************
+function x002032_ShowMsg( sceneId, selfId, strMsg)
+	BeginEvent( sceneId )
+		AddText( sceneId, strMsg )
+	EndEvent( sceneId )
+	DispatchMissionTips( sceneId, selfId )    
+end

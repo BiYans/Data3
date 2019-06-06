@@ -1,0 +1,8 @@
+[System]
+navmapname=tangmensg.nav
+monsterfile=tangmensg_monster.ini
+patrolpoint=tangmensg_patrolpoint.ini
+growpointdata=tangmensg_growpoint.txt
+growpointsetup=tangmensg_growpointsetup.txt
+eventfile=tangmensg_area.ini
+platformfile=tangmensg_platform.ini
