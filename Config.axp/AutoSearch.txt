@@ -1,0 +1,1782 @@
+INT	INT	INT	INT	STRING	STRING	STRING	INT	INT
+INT	INT	INT	INT	STRING	STRING	STRING	INT	INT
+1	0	33	130	Bän ð°: Ðôn Hoàng		V§n chuy¬n	99	2
+2	0	159	287	Bän ð°: Tung S½n		V§n chuy¬n	99	2
+3	0	286	129	Bän ð°: NhÕn Nam		V§n chuy¬n	99	2
+4	0	59	83	A TØ	Nhi®m vø k¸ch tình		7	5
+5	0	160	134	Châu Thiên Sß	Ðào Lý Thiên HÕ 	NV	7	5
+6	0	234	140	Ngô ThØ Nhân	Bát Phß½ng Lai Khách	NV	7	5
+7	0	118	184	L§p Ph°n	HÕo Ng÷c Næ Hi®p	NV	7	5
+8	0	252	62	B¯c H¯i KÏ		NV	7	5
+9	0	113	75	Ba Thiên ThÕch			7	5
+10	0	177	102	Khâu Bích Ð£c	Ái Th¥n	Ái Th¥n	7	5
+11	0	136	164	BÕch Manh Sinh	Dßþc ðiªm lão bän	Bán thu¯c	6	3
+12	0	136	169	BÕch Dînh Minh	ÐÕi sß dßþc lý h÷c	 Dßþc lý 	5	4
+13	0	133	164	BÕch Dînh Trung	Dßþc ðiªm lão bän	Bán thu¯c	6	3
+14	0	253	111	Bäo Châu			7	5
+15	0	122	74	B¡c Ði«u Trung Th¡ng			7	5
+16	0	90	208	T¤t Thång			7	5
+17	0	158	32	Sái Bi®n	Bang hµi ð°ng minh	Ð°ng minh	5	4
+18	0	125	97	Thái Bính Th¥n			7	5
+19	0	126	96	Thái Kinh			7	5
+20	0	144	68	Tr¥n Phu Chi	Danh xßng kªt bái	Kªt bái	5	4
+21	0	238	152	Tr¥n Th÷ Ðình			7	5
+22	0	83	149	Tr¥n tiên sinh	Ti«n Trang chß·ng qu¥y	Ti«n trang	5	4
+23	0	172	90	Tr¥n Vînh Nhân	Lînh 2 l¥n kinh nghi®m	Lînh song	5	4
+24	0	98	205	Trình An			7	5
+25	0	88	205	Trình HÕo			7	5
+26	0	85	208	Trình Di			7	5
+27	0	83	155	ChØ tiên sinh	Ti«n Trang chß·ng qu¥y	Ti«n trang	5	4
+28	0	220	200	Xuân Nhi			7	5
+29	0	230	176	Ð½n Chính			7	5
+30	0	177	176	Ð±ng Xß½ng	Ti¬u nh¸ cüa ti®m trang sÑc	Trang sÑc	6	3
+31	0	158	181	Ðông Ðông	GØi bán vàng và nguyên bäo	GØi bán 	5	4
+32	0	255	134	Ð§u Ngô Ð°ng	Giang h° du y	Khôi phøc	5	4
+33	0	140	95	PhÕm Thu¥n Nhân	Quän lý bang hµi	Bang hµi	5	2
+34	0	138	140	PhÕm Th¯ng	TØu ðiªm lão bän	Thñc ph¦m	6	3
+35	0	142	113	PhÕm Di Thành	Di dân tiªp ðãi sÑ	Di dân 	5	4
+36	0	209	152	Phong H° TØ	Sß phø vû khí trang b¸	Cß¶ng hóa	5	4
+37	0	87	155	Phùng tiên sinh	Ti«n Trang chß·ng qu¥y	Ti«n trang	5	4
+38	0	155	174	Phùng Ðào Thiªt	ÐÕi sß gia công nguyên li®u	Gia công	5	4
+39	0	193	172	Phù Mçn Chi	ÐÕi sß may vá	C¡t may	5	4
+40	0	84	116	Cái Thiên Minh			7	5
+41	0	198	58	Cao C¥u			7	5
+42	0	110	162	Cung Thái L®	Âm Kim Bäo Sß½ng sÑ giä	Ð±i	5	4
+43	0	268	46	Quan Hán Th÷	Xóa nhân v§t	Xóa nhân v§t	5	4
+44	0	162	237	Quan Th¡ng			7	5
+45	0	175	64	Quách Thiên Tín			7	5
+46	0	161	244	Hàn Ngân Di®p	Giang h° du y	Khôi phøc	5	4
+47	0	248	129	Hà Linh Chi	Thþ nhuµm tóc	Nhuµm tóc	5	4
+48	0	95	152	Hà Sinh Tài	Thß½ng nhân nguyên li®u	NL	6	3
+49	0	255	106	Hà Sinh Phú	Thß½ng nhân nguyên li®u	NL	6	3
+50	0	113	63	Hách Liên Thiªt Thø			7	5
+51	0	46	61	Hoa Tiên			7	5
+52	0	232	181	Hoài Bính			7	5
+53	0	81	117	C± Uy Tín			7	5
+54	0	179	177	Giä Tác Trân	Trang sÑc ðiªm chß·ng qu¥y	Trang sÑc	6	3
+55	0	127	154	Khß½ng Lý	TØu ðiªm lão bän	Thñc ph¦m	6	3
+56	0	207	184	Khß½ng Ngß	Hu¤n luy®n kÛ nång câu cá	 Câu cá 	5	4
+57	0	205	172	Kim Løc Gia	Ti«n trang tiªp Ñng sÑ	Ti«n trang	5	2
+58	0	109	73	Kim Tä Hoán			7	5
+59	0	230	215	Khang Mçn			7	5
+60	0	65	134	Kha Bách Nhân	Giang h° du y	Khôi phøc	5	4
+61	0	265	44	Kh±ng Tông Uyên	Xóa bö v§t ph¦m nhi®m vø	Xóa v§t ph¦m	5	4
+62	0	63	147	Lang phu nhân	Chu bäo thß½ng nhân	Bäo thÕch	6	3
+63	0	256	139	Lôi Hoành			7	5
+64	0	134	152	Lý ÐÕi ChuÖ	ÐÕi sß n¤u ån	 N¤u nß¾ng 	5	4
+65	0	249	111	Lý ma ma			7	5
+66	0	253	112	Lý Sß Sß			7	5
+67	0	212	156	Lâm Kim Long	Ti¬u nh¸ cüa ti®m vû khí	Vû khí	6	3
+68	0	157	35	Lßu Quang Thª			7	5
+69	0	150	90	Lßu Ki®n Minh	Lînh 2 l¥n kinh nghi®m	Lînh song	5	4
+70	0	219	262	Lßu Di®c Nông	ÐÕi sß tr°ng tr÷t	 Tr°ng tr÷t 	5	4
+71	0	199	57	Li­u Phúc Sinh			7	5
+72	0	100	170	Long Bá Thiên	Khôi phøc khí huyªt	Khôi phøc	5	4
+73	0	60	146	Long Tam Thiªu	Sß phø kÛ nång công ngh®	 Công ngh® 	5	4
+74	0	109	210	Lã Hu® Khanh			7	5
+75	0	112	64	N² Nhi Häi			7	5
+76	0	174	33	Bùi Tuyên			7	5
+77	0	177	184	Bành Hoài Ng÷c	Bäo ThÕch công tßþng	Bäo thÕch	5	4
+78	0	112	72	Phác Minh Thi®n			7	5
+79	0	132	154	Tß¶ng V	ÐÕi sß dßÞng sinh h÷c	DßÞng sinh	5	4
+80	0	230	156	Ki«u Phúc Th¸nh	CØu Châu thß½ng hµi lão bän	Thß½ng ðiªm	6	3
+81	0	225	152	Ki«u Thanh Th¸nh			7	5
+82	0	175	115	Ki«u Trí Quäng	LÕc Dß½ng thß½ng nhân	Bào thß½ng	6	3
+83	0	136	185	Khâu Hành LÕc	Nhi®m vø ðßa thß	Ðßa thß	7	5
+84	0	128	98	C¥u Hßng			7	5
+85	0	254	146	Nhuª Phúc Tß¶ng	Chß·ng quÛ ti®m tÕp hóa	TÕp hóa	6	3
+86	0	208	213	Thß ð°ng			7	5
+87	0	207	212	Tß Mã Quang	Nhi®m vø anh hùng		7	5
+88	0	162	34	Tô Triªt			7	5
+89	0	180	213	Ðàm Công			7	5
+90	0	179	212	Ðàm Bà			7	5
+91	0	180	185	Ðào Ð¡c Bäo	Ti¬u nh¸ cüa ti®m qu¥n áo	Phøc sÑc	6	3
+92	0	121	73	Ð¢ng Nguyên Tá Vi			7	5
+93	0	136	180	Ði«n Kiêu Minh	Mua thú cßÞi tân thü	KÜ	6	3
+94	0	159	181	Ðinh Ðinh	GØi bán vàng và nguyên bäo	GØi bán 	5	4
+95	0	204	57	Ð°ng Quán	Giäi túc c¥u liêm phóng sÑ	Túc C¥u	5	2
+96	0	230	129	Uông HÕn	CØu Châu thß½ng hµi v§n chuy¬n	V§n chuy¬n	5	1
+97	0	120	196	Xa Truy«n Nghîa	Ông chü d¸ch trÕm	V§n chuy¬n	5	1
+98	0	213	160	Vß½ng ÐÑc Phúc	Ðúc kiªm sß phø	 ðúc khuôn 	5	4
+99	0	210	154	Vß½ng ÐÑc Quý	ÐÕi ðß½ng gia cüa ti®m vû khí	Vû khí	6	3
+100	0	271	88	Vß½ng Tích Tân	Ngß¶i tiªp dçn kÏ cuµc	KÏ cuµc	5	4
+101	0	212	151	Tiªt Ð°ng ChuÏ	Sß phø kÛ nång khai khoáng	 Khai khoáng 	5	4
+102	0	250	106	V® tiên sinh	Ti«n Trang chß·ng qu¥y	Ti«n trang	5	4
+103	0	139	182	Ngô ÐÑc Xß½ng	Ông chü d¸ch trÕm	V§n chuy¬n	5	1
+104	0	89	111	Ngû Ðinh	Thß½ng nhân d¸ch dung	D¸ch dung	6	3
+105	0	120	63	Võ Ði«n Tín Xß½ng			7	5
+106	0	177	94	HÖ Lai LÕc	Ngß¶i quän lý kªt hôn tu¥n du	Hôn Khánh	5	4
+107	0	155	107	HÕ H¥u Nhân	Tung S½n phong thi«n ðài	CÕnh KÜ	5	2
+108	0	262	53	Châu Nhiên	Ngß¶i d¸ch chuy¬n ðªn chiªn trß¶ng	Chinh Thäo	5	2
+109	0	280	141	Thôi Vi	Ngß¶i khôi phøc biªn thân chiªn trß¶ng	Biªn thân	5	2
+110	0	110	52	Tiêu Phøng Tiên			7	5
+111	0	210	201	T× Kinh Lôi			7	5
+112	0	120	169	Nghiêm Bách Thäo	Hái dßþc ðÕi sß	 Hái dßþc 	5	4
+113	0	252	130	Nhan Nhß Ng÷c	Sß phø thay ð±i dung mÕo	Thay ð±i dung mÕo	5	4
+114	0	112	202	Yªn Thanh	Ám Khí ÐÕi Sß	Ám Khí	5	4
+115	0	250	129	Yªn Nhß Tuyªt	Quán phát sß phø	Quän lý ki¬u tóc	5	4
+116	0	107	203	Dß½ng Th¶i			7	5
+117	0	79	152	Dß½ng Hy Bình			7	5
+118	0	234	69	Dß½ng Tranh			7	5
+119	0	118	62	Gia Lu§t ÐÕi ThÕch			7	5
+120	0	77	54	Nghi®p Phàn			7	5
+121	0	75	70	Nghi®p Không			7	5
+122	0	106	200	Du Tác			7	5
+123	0	57	82	Du Thän Chi			7	5
+124	0	160	101	Vu CØu Liên	Tung S½n phong thi«n ðài	CÕnh KÜ	5	4
+125	0	47	62	Nguy®t Lão	Ðång kí kªt hôn	Kªt bái phu thê	5	4
+126	0	182	155	Vân Hàm Nhi	Ngß¶i v§n chuy¬n Huy«n Vû Ðäo	Huy«n vû	5	2
+127	0	182	157	Vân Diêu Diêu	Phß¶ng chü Trùng Ði¬u phß¶ng	Thú	6	3
+128	0	172	141	Vân Thanh Thanh	Trân thú døng ph¦m thß½ng nhân	Thú	6	3
+129	0	67	126	Trß½ng Bá Trí			7	5
+130	0	200	61	Trß½ng Tu¤n			7	5
+131	0	137	164	Trß½ng Minh Cänh	ÐÕi sß chª duþc	 Chª dßþc 	5	4
+132	0	200	103	Chß½ng Ðôn	Ð±i danh xßng Bình T£c	Bình t£c	5	4
+133	0	150	114	Tri®u Bán ThuÖ	Chß½ng trình l­ hµi ðêm xuân	Ðêm xuân	5	4
+134	0	228	175	Tri®u Minh Thành	LÕc Dß½ng Tào v§n sÑ	V§n chuy¬n	5	4
+135	0	86	89	Tri®u Ti«n Tôn			7	5
+136	0	182	183	Chân Duy Tß	Phòng sÑc ðiªm lão bän	Phøc sÑc	6	3
+137	0	77	72	Trí Quang ÐÕi Sß			7	5
+138	0	79	52	Trí Thanh ÐÕi Sß			7	5
+139	0	245	96	Châu Bang NgÕn			7	5
+140	0	63	131	Chu Ð°ng			7	5
+141	0	194	180	Gia Cát Kh±ng Minh			7	5
+142	0	112	51	Tông Ca Ban			7	5
+143	0	120	54	Tông Ca ÐÕt			7	5
+144	0	121	55	Tông Tán			7	5
+145	0	144	116	Quách Bäo Toàn	Tuyên truy«n an toàn	An toàn	5	3
+146	0	246	129	Y Thiên Thái	Th¶i Trang ÐÕi Sß	Th¶i trang	5	3
+147	0	220	170	Trß½ng Hàng Long	Ðiêu Vån ÐÕi Sß	Ðiêu Vån	5	3
+148	1	32	162	Bän ð°: Kính H°		V§n chuy¬n	99	2
+149	1	181	33	Bän ð°: Thái H°		V§n chuy¬n	99	2
+150	1	182	287	Bän ð°: Tây H°		V§n chuy¬n	99	2
+151	1	128	74	A Bích	Nhi®m vø k¸ch tình		7	5
+152	1	87	140	Ngäi H±			7	5
+153	1	115	71	Bao B¤t Ð°ng			7	5
+154	1	190	168	Bao Thª Vinh	PhÕn ðiªm lão bän	Thñc ph¦m	6	3
+155	1	95	181	H¥u bàn Tào	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+156	1	96	79	Tri«u B± Chi			7	5
+157	1	131	230	Tr¥n Quý Thß¶ng			7	5
+158	1	183	263	Trình Vi­n Chí	Giang h° du y	Khôi phøc	5	4
+159	1	265	127	S· Di­n			7	5
+160	1	239	128	Ð£ng M§u	Ông chü d¸ch trÕm Thiªt Tßþng Ph¯	V§n chuy¬n	5	1
+161	1	132	70	Ð£ng Bách Xuyên			7	5
+162	1	111	133	PhÕm ÐÕi Thành	Bäo ThÕch thß½ng nhân	Bäo thÕch	6	3
+163	1	127	74	Phong Ba Ác			7	5
+164	1	133	70	Công Dã Càn			7	5
+165	1	96	75	HÕ Chú			7	5
+166	1	244	215	Hô Diên Báo	Nhi®m vø ThuÖ lao	ThuÖ lao	7	5
+167	1	99	155	H° Ph°n	Dßþc ph¦m thß½ng nhân	Bán thu¯c	6	3
+168	1	251	108	Hoa Kiªm Vû	Nhi®m vø liên hoàn phó bän	Liên hoàn	5	4
+169	1	186	182	Lß½ng ÐÕo Sî	Tr÷ng HÕ	Tr÷ng HÕ	5	4
+170	1	88	181	H¥u bàn Hoa	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+171	1	238	77	Tß·ng Bình	ÐÕi sß kÛ nång câu cá	 Câu cá 	5	4
+172	1	98	181	H¥u bàn Kh±ng	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+173	1	81	267	Lão C¯			7	5
+174	1	111	160	Lý Th×a Phong	Ông chü d¸ch trÕm	V§n chuy¬n	5	1
+175	1	240	158	Xa Truy«n An	Ông chü d¸ch trÕm	V§n chuy¬n	5	1
+176	1	191	94	Lý LÕc Thi	Thi®n ác tr¸ thß½ng nhân	Thi®n Ác	6	3
+177	1	224	184	PhÕm Thu¥n Tuý	Ngß¶i d¸ch chuy¬n bang hµi	Bang hµi	5	2
+178	1	169	138	Lß½ng Sß Thành	Quan phø trách ngñ tÑ v§t ph¦m	Ngñ TÑ	5	4
+179	1	178	129	Lâm Tri«u Hùng	Hàn Ng÷c C¯c d¸ch chuy¬n sÑ	Hàn Ng÷c	5	2
+180	1	64	200	Lâm Hoà T¸nh	ÐÕi sß tr°ng tr÷t	 Tr°ng tr÷t 	5	4
+181	1	123	112	Li­u Kim Thi«m			7	5
+182	1	239	101	Vi ðÕi thúc	Biªn ðá thành vàng	Ði¬m Kim	5	2
+183	1	130	230	Li­u Nguy®t H°ng	ÐÕi sÑ rút thåm may m¡n	Rút thåm	5	2
+184	1	234	78	Løc Sî Tranh	Tô Châu Tào v§n sÑ	V§n chuy¬n	5	4
+185	1	129	76	Mµ Dung Phøc	Nhi®m vø k¸ch tình		7	5
+186	1	87	80	Âu Dß½ng Tu			7	5
+187	1	266	140	Âu Dã TØ	Sß phø vû khí trang b¸	Cß¶ng hóa	5	4
+188	1	266	143	Âu Tr¸ Vu	Th¥n Khí Luy®n H°n Sß	Luy®n h°n	5	4
+189	1	268	213	Phan Tu¤n	N½i ðång kí quyªt ð¤u	Quyªt ð¤u	5	4
+190	1	106	111	Bàng An Th¶i	ÐÕi sß chª duþc	 Chª dßþc 	5	4
+191	1	106	114	Bàng Song			7	5
+192	1	85	162	Bình Sa NhÕn	Giang h° du y	Khôi phøc	5	4
+193	1	62	162	Ti«n Hoành Vû	Nhi®m vø liên hoàn phó bän	Liên hoàn	5	4
+194	1	164	80	Th¦m Trình	Quan viên lînh g¤p ðôi kinh nghi®m	Lînh song	5	4
+195	1	222	94	Thí trang	Ti®m th¶i trang	Th¶i trang	6	3
+196	1	193	138	Tô Kiªm Lînh	SÑ giä Hoa S½n Lu§n Kiªm	Lu§n kiªm	5	4
+197	1	97	204	Tô ThÑc			7	5
+198	1	194	128	Tô Song	Thß½ng nhân cüa Tô Châu	Bào thß½ng	6	3
+199	1	173	130	TuÏ Báo Minh	Báo danh ðÕi hµi tï võ	Tï võ	5	4
+200	1	114	72	Tôn S½n			7	5
+201	1	128	173	Tôn TØ Vû	TÕp hóa thß½ng nhân	TÕp hóa	6	3
+202	1	267	116	Vß½ng An ThÕch			7	5
+203	1	94	177	Vß½ng phu nhân	Dây nhi®m vø	NV	5	4
+204	1	264	126	Vß½ng Khuê			7	5
+205	1	106	109	Vß½ng Th¦m Chi	ÐÕi sß hái thu¯c	 Hái dßþc 	5	4
+206	1	94	206	NguÜ Hán Tân			7	5
+207	1	224	226	NguÜ Chân			7	5
+208	1	168	168	Vån NgÕn Bác	Bách Biªn Ki¬m Ph±	Biªn thân	5	5
+209	1	127	133	Ngô Gi¾i	Nhi®m vø ðä ð°	Ðä ð°	7	5
+210	1	187	129	HÕ ToÕi Lß½ng	Tung S½n phong thi«n ðài	CÕnh KÜ	5	2
+211	1	96	127	Ti¬u Cao		Ph¯i Phß½ng	6	3
+212	1	109	135	TÕ Thßþng			7	5
+213	1	255	151	Tiªt Phi	Thþ sØa chæa trang b¸ cao c¤p	SØa chæa	5	4
+214	1	251	151	Tiªt Chúc	ÐÕi sß luy®n kim	 ðúc khuôn 	5	4
+215	1	200	83	Tuyªt Trúc Liên	Thanh tr× sát khí	Thanh tâm	5	4
+216	1	91	181	H¥u bàn Nghiêm	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+217	1	270	131	Lß½ng Höa Kª	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+218	1	96	86	Nhan Tra Tán			7	5
+219	1	211	80	Dß Hoá Long	ÐÕi sß may vá	C¡t may	5	4
+220	1	96	89	Vû M£c			7	5
+221	1	187	147	Vu Thiên Thiên	Túc c¥u ð£c sÑ	Túc C¥u	5	2
+222	1	192	148	NhÕc Thß¶ng Viên			7	5
+223	1	87	142	Vân Phi Phi	Phß¶ng chü Trùng Ði¬u phß¶ng	Thú	6	3
+224	1	88	76	T¢ng Cüng			7	5
+225	1	109	130	T¢ng Tam Tïnh	ÐÕi sß mÛ ngh®	 Công ngh® 	5	4
+226	1	90	177	Trß½ng Tiªn Bäo	Thß½ng nhân nguyên li®u nguyên bäo	NL	6	3
+227	1	96	83	Trß½ng L²i			7	5
+228	1	267	210	Trß½ng Thø M§u			7	5
+229	1	259	132	Trß½ng Ti¬u Hà	Sß phø kÛ nång khai khoáng	 Khai khoáng 	5	4
+230	1	251	130	Trß½ng Ti¬u Tuy«n	Vû khí ðiªm lão bän	Vû khí	6	3
+231	1	174	147	Trß½ng D¸ch Qu¯c	Ngß¶i tiªp dçn kÏ cuµc	KÏ cuµc	5	4
+232	1	173	179	Trß½ng TrÕch Ðoan			7	5
+233	1	234	227	Tr¸nh Thiên Th÷			7	5
+234	1	189	173	Trí Hoá	ÐÕi sß n¤u ån	 N¤u nß¾ng 	5	4
+235	1	124	113	Châu Ðôn Di			7	5
+236	1	160	72	Chu Ðan Th¥n			7	5
+237	1	181	74	H¥u bàn Chu	Giang h° du y	Khôi phøc	5	4
+238	1	270	150	Châu Phong	Sß phø chª tÕo	Chª tÕo	5	4
+239	1	237	168	Chúc Tam Ni®m	Thþ buôn nguyên v§t li®u	NL	6	3
+240	1	217	88	Tä Quý Cao	Phòng cø ðiªm chß·ng qu¥y	Phøc sÑc	6	3
+241	1	129	213	Tä Ð°ng	LÕc thi®n sÑ giä	Thiên t¥m	7	2
+242	1	91	84	Thánh hoä ðàn			7	2
+243	1	217	81	Tä Vô Song	Thþ buôn ð° trang sÑc	Trang sÑc	6	3
+244	1	87	143	Vân Tß Nhi	Ngß¶i v§n chuy¬n Huy«n Vû Ðäo	Huy«n vû	5	2
+245	1	248	184	Vân San San	Trang B¸ Trân Thú	Thú Giáp	5	3
+246	1	251	184	Vân Tuyªt Nhi	Trang B¸ Trân Thú	Thú Giáp	5	3
+247	2	159	287	Bän ð°: Nhî Häi		V§n chuy¬n	99	2
+248	2	31	151	Bän ð°: Kiªm Các		V§n chuy¬n	99	2
+249	2	288	151	Bän ð°: Vô Lßþng S½n		V§n chuy¬n	99	2
+250	2	160	157	Tri®u Thiên Sß	TÑ ÐÕi Thi®n Nhân	Thi®n nhân	7	2
+251	2	182	118	PhÕm Thu¥n L­	Ngß¶i d¸ch chuy¬n bang hµi	Bang hµi	5	2
+252	2	182	141	H°ng ÐÕi Quý	Quan viên lînh g¤p ðôi kinh nghi®m	Lînh song	5	4
+253	2	274	95	Lßu Tr÷ng Phü	Ngß¶i tiªp dçn kÏ cuµc	KÏ cuµc	5	4
+254	2	178	133	BÕch Sùng Nghîa	Tung S½n phong thi«n ðài	CÕnh KÜ	5	2
+255	2	278	152	BÕch Tri¬n Nguyên	Giang h° du y	Khôi phøc	5	4
+256	2	132	125	Trình Thanh Sß½ng	Thiên S½n phái tiªp dçn sÑ	Thiên S½n	5	2
+257	2	235	228	S½ Kích Bình	Thß½ng nhân giám ð¸nh bùa	Giám ð¸nh	6	3
+258	2	58	38	ChØ VÕn Lý			7	5
+259	2	90	72	Thôi Bách Tuy«n			7	5
+260	2	241	137	Thôi Phùng CØu	Ông chü d¸ch trÕm	V§n chuy¬n	5	1
+261	2	250	103	Xa Truy«n Chí	Ông chü d¸ch trÕm	V§n chuy¬n	5	1
+262	2	188	134	Ðàm Ðài TØ Vû	Tiêu Dao phái tiªp dçn môn hÕ	Tiêu Dao	5	2
+263	2	49	56	Ðao BÕch Phøng			7	5
+264	2	158	164	Ðô ÐÕi Säng	SÑ giä Tài phúc	Tài phú	5	4
+265	2	117	157	Ð² TØ Phi	ÐÕi sß n¤u ån	 N¤u nß¾ng 	5	4
+266	2	110	159	Ð² TØ Ð¢ng	TØu ðiªm lão bän	Thñc ph¦m	6	3
+267	2	215	284	Ðoàn Diên Khánh	Nhi®m vø k¸ch tình		7	5
+268	2	63	36	Ðoàn Chính Thu¥n	ÐÕi Lý Tr¤n Nam Vß½ng		7	5
+269	2	60	39	Ðoàn Chính Minh	ÐÕi Lý Hoàng Ðª		7	5
+270	2	163	41	PhÕm Hoa			7	5
+271	2	97	222	Phøng Tri«u Dß½ng	Võ quán quán chü	Tï võ	5	4
+272	2	100	129	Phó Ðß½ng Quy	ÐÕi sß chª duþc	 Chª dßþc 	5	4
+273	2	73	41	Phó Tß Quy			7	5
+274	2	237	279	Cam Bäo Bäo			7	5
+275	2	64	37	Cao Thång Thái			7	5
+276	2	58	133	Cao Thång Tß¶ng	TÕp hóa thß½ng nhân	TÕp hóa	6	3
+277	2	36	146	Các La Ách	Ngß¶i nuôi Ðiêu c±ng Tây		5	4
+278	2	151	255	Các La L²	Ngß¶i nuôi Ðiêu c±ng Nam		5	4
+279	2	281	146	Các La Thi®n	Ngß¶i nuôi Ðiêu c±ng Ðông		5	4
+280	2	281	164	Các La Thích	Ngß¶i nuôi Ðiêu c±ng Ðông		5	4
+281	2	209	279	Các La Ngµt	Ngß¶i nuôi Ðiêu c±ng Nam		5	4
+282	2	56	134	Các La Y	Ngß¶i nuôi Ðiêu c±ng Tây		5	4
+283	2	277	168	Công Tôn ÐÕi Thúc	ÐÕi sß tr°ng tr÷t c±ng Ðông	 Tr°ng tr÷t 	5	4
+284	2	171	123	Cüng Thái Vân	SÑ giä hoÕt ðµng ph¥n thß·ng	HoÕt ðµng	5	4
+285	2	77	41	C± Ð¯c Thành			7	5
+286	2	218	110	Quá Tam ChuÏ	ÐÕi sß luy®n kim	 ðúc khuôn 	5	4
+287	2	70	120	Quá NgÕn Chi			7	5
+288	2	134	121	Häi Phong TØ	Tinh Túc phái tiªp dçn ð® tØ	Tinh Túc	5	2
+289	2	81	162	Hàn Vînh An	Ðß½ng ph¯ lão bän	NL	6	3
+290	2	207	172	Hà Sinh Kim	Thß½ng nhân nguyên li®u	NL	6	3
+291	2	223	171	H¥u bàn Hà	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+292	2	75	51	Hoa Hách C¤n	Tß ð° ÐÕi Lý		7	5
+293	2	238	172	Hoàng Công ÐÕo	Chß·ng quî ti®m phøc trang	Phøc sÑc	6	3
+294	2	243	172	Hoàng Lång Ba	ÐÕi sß may vá	 May m£c 	5	4
+295	2	275	49	Hoàng Mi Tång	Trø trì cüa Niêm Hoa tñ		7	5
+296	2	187	122	Tu® D¸ch	Thiªu Lâm tñ tiªp dçn môn hÕ	Thiªu Lâm	5	2
+297	2	127	135	Giän Ninh	Cái Bang tiªp dçn trß·ng lão	Cái Bang	5	2
+298	2	216	194	Kim Ngû Gia			7	5
+299	2	48	55	Lan Lan			7	5
+300	2	160	128	Lý Công Bµ	TÑ ÐÕi Thi®n Nhân	Thi®n nhân	7	5
+301	2	99	133	Lßu Ký Nô	ÐÕi sß hái thu¯c	 Hái dßþc 	5	4
+302	2	103	132	Lô Tam Th¤t	Dßþc ðiªm lão bän	Ti®m thu¯c	6	3
+303	2	208	196	L² Minh Nguy®t	ÐÕi sß mÛ ngh®	 Công ngh® 	5	4
+304	2	192	130	Lµ Tam Nß½ng	Nga My phái tiªp dçn cô cô	Nga My	5	2
+305	2	224	173	H¥u bàn Lã	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+306	2	95	223	Loan Bßu			7	5
+307	2	99	223	Loan H±			7	5
+308	2	219	255	M­ Ph¤t			7	5
+309	2	107	136	Mµc Uy¬n Thanh	Nhi®m vø k¸ch tình		7	5
+310	2	103	157	Møc TØ Lång	kÛ nång câu cá	 Câu cá 	5	4
+311	2	142	134	Nhiªp Chính	Ngß¶i gi¾i thi®u bái sß	Bái sß	5	4
+312	2	44	131	Âu Dß½ng ÐÕi Thúc	ÐÕi sß tr°ng tr÷t c±ng Tây	 Tr°ng tr÷t 	5	4
+313	2	190	125	Phá Tham	Thiên Long tñ tiªp dçn môn hÕ	Thiên Long	5	2
+314	2	217	134	B° Lß½ng	Binh khí ðiªm lão bän	Vû khí	6	3
+315	2	145	139	Ti«n Long	TÑ ÐÕi Thi®n Nhân	Thi®n nhân	7	5
+316	2	198	171	H¥u bàn T¥n	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+317	2	39	165	Nhuª Tß	Mã Hí Ðoàn sÑ giä	Mã hí	5	4
+318	2	256	127	Thân Tình	Ngß¶i chï ðÕo Trân Thú	Thú	5	4
+319	2	186	74	Th¦m Hàm Hß½ng	Cô gái bán hoa	Ti®m bán hoa	6	3
+320	2	222	103	Th¦m Quát	Nhi®m vø anh hùng		7	5
+321	2	223	176	H¥u bàn Thi	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+322	2	130	122	ThÕch Bäo	Minh Giáo tiªp dçn sÑ	Minh Giáo	5	2
+323	2	173	146	Tôn Bát Gia	TÑ ÐÕi Thi®n Nhân	Thi®n nhân	7	5
+324	2	160	253	Ðàm Cänh Thiên	Giang h° du y	Khôi phøc	5	4
+325	2	39	152	Ðào Tiên Thu	Giang h° du y	Khôi phøc	5	4
+326	2	192	131	Thiên S½n Muµi Muµi			7	5
+327	2	216	117	Ð°ng Hoá Thiªt	ÐÕi sß khai thác mö	 Khai khoáng 	5	4
+328	2	55	193	Vß½ng Nhßþc Vû	ÐÕi Lý Tào v§n SÑ	V§n chuy¬n	5	4
+329	2	217	255	Vß½ng Thi«u			7	5
+330	2	211	173	Vß½ng Dînh	Ti«n trang lão bän		5	4
+331	2	209	174	Lam Höa Kª	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+332	2	213	174	Ho¡c Höa Kª	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+333	2	282	94	HÕ Thanh Thanh	Túc c¥u ð£c sÑ	Túc C¥u	5	2
+334	2	248	172	Ti¬u Thoa	A ð¥u ti®m qu¥n áo	Trang sÑc	6	3
+335	2	199	255	Ti¬u Kh¤t Cái			7	5
+336	2	198	177	H¥u bàn HÑa	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+337	2	36	149	Dß½ng Bách Lý			7	5
+338	2	156	256	Dß½ng Thiên Lý			7	5
+339	2	285	156	Dß½ng Th§p Lý			7	5
+340	2	54	266	Di®p Nh¸ Nß½ng			7	5
+341	2	198	174	H¥u Bàn ¿u	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+342	2	80	133	Dß Trþ Chi	Nhi®m vø Quan thanh lý	NV	5	4
+343	2	265	129	Vân Phiêu Phiêu	Phß¶ng chü Trùng Ði¬u phß¶ng	Thú	6	3
+344	2	52	267	Vân Trung HÕc			7	5
+345	2	224	179	H¥u bàn Trß½ng	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+346	2	128	132	Trß½ng HoÕch	Võ Ðang tiªp dçn ðÕo trß·ng	Võ Ðang	5	2
+347	2	55	211	Trß½ng Linh Quân	TÕo ra bùa ð¸nh v¸	Ð¸nh v¸	5	4
+348	2	87	163	Trß½ng Thª Bình	ÐÕi Lý thß½ng nhân	Bào thß½ng	6	3
+349	2	236	279	Chung VÕn Thù			7	5
+350	2	81	136	Châu Xß½ng	Xóa nhân v§t	Xóa nhân v§t	5	4
+351	2	198	168	H¥u bàn Chu	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+352	2	50	175	Phó Kiªp Sinh	T§n sÑc tr× ác	Tr× ác	5	2
+353	2	139	180	Vô Nhai TØ	Võ H°n	Võ H°n	5	2
+354	2	141	180	Võ Ð°ng	Võ H°n	Ti¬u Thß Ð°ng	5	4
+355	2	130	76	Khô Vinh ðÕi sß	Nhi®m vø Sát Tinh	Sát Tinh	7	4
+356	2	132	75	Phá Tr¥n			7	4
+357	2	129	76	Phá Phàm			7	4
+358	2	150	123	Chúc Phúc Quý	Ngß¶i phát lß½ng	Ti«n Lß½ng	5	2
+359	2	243	56	Täo Ð¸a Th¥n Tång	Ngß¶i truy«n thø tu luy®n	Tu luy®n	5	2
+360	2	181	75	A lý	Tr°ng hoa ðßþc hoa	Ngß¶i tr°ng hoa	5	3
+361	2	179	78	Ba Cái Lý	Tr°ng hoa ðßþc hoa	Hoa Thß½ng	5	3
+362	3	34	55	Bän ð°: LÕc Dß½ng		V§n chuy¬n	99	2
+363	3	285	135	Bän ð°: Thiªu Lâm Tñ		V§n chuy¬n	99	2
+364	3	286	247	Bän ð°: Thái H°		V§n chuy¬n	99	2
+365	3	50	179	BÕch NgÕch H±			1	5
+366	3	200	67	Sài Tiªn			2	5
+367	3	198	66	Ðinh L®			2	5
+368	3	203	66	Ðinh Diªn			2	5
+369	3	60	98	Ác Viên			1	5
+370	3	281	243	Giang h° du y	Khôi phøc khí huyªt	Khôi phøc	2	5
+371	3	280	202	Lß Nhai Ð°ng Nhân			1	5
+372	3	181	82	Løc Ngßng Sß½ng			2	5
+373	3	183	81	Løc Tùng			2	5
+374	3	128	68	Môn Ðôn			1	5
+375	3	46	56	Sách Lâm			2	5
+376	3	282	79	Ð°ng QuÛ			1	5
+377	3	210	79	Tiêu Nhßþng			2	5
+378	3	89	74	Di Khí Mµc Nhân			1	5
+379	3	246	239	Di Khí Ð°ng Nhân			1	5
+380	3	196	193	Dînh ThuÖ Lang			1	5
+381	4	280	32	Bän ð°: Cái Bang		V§n chuy¬n	99	2
+382	4	286	230	B¯i cänh: Quang Minh Ði®n		V§n chuy¬n	99	2
+383	4	91	23	Bän ð°: Tung S½n		V§n chuy¬n	99	2
+384	4	215	281	Bän ð°: Tô Châu		V§n chuy¬n	99	2
+385	4	116	183	Tào Thu¥n			2	5
+386	4	67	77	Hô Diên Khánh	Nhi®m vø ThuÖ lao	ThuÖ lao	2	5
+387	4	90	29	Giang h° du y	Khôi phøc khí huyªt	Khôi phøc	2	5
+388	4	67	78	Kh¤u Tuân			2	5
+389	4	70	119	Lý Cß½ng			2	5
+390	4	113	190	Nghê Vân			2	5
+391	4	244	142	Ðào Yêu Yêu	Ðào Hoa Tr§n	Dàn tr§n	2	2
+392	5	285	44	Bän ð°: Tô Châu		V§n chuy¬n	99	2
+393	5	38	284	Bän ð°: Vô Lßþng S½n		V§n chuy¬n	99	2
+394	5	50	142	Trß·ng cänh: Mµ Dung		V§n chuy¬n	99	2
+395	5	29	232	Bän ð°: Núi Võ Ðang		V§n chuy¬n	99	2
+396	5	199	54	T« Sát Vân	Kính H° Th± Phï	Sào huy®t cüa phï	2	5
+397	5	108	140	Nguy­n Tinh Trúc			2	5
+398	6	32	176	Bän ð°: ÐÕi Lý		V§n chuy¬n	99	2
+399	6	287	77	Bän ð°: Kính H°		V§n chuy¬n	99	2
+400	6	116	32	Bän ð°: Lång Ba Ðµng		V§n chuy¬n	99	2
+401	6	94	286	Bän ð°: Thiên Long Tñ		V§n chuy¬n	99	2
+402	6	45	167	Tân Nhân B¢ng	Hß¾ng dçn tân thü	Tân thü	2	3
+403	6	235	131	B¯ Nhî Thi®n			1	5
+404	6	138	80	ÐÕi Hoàng Phong			1	5
+405	6	273	210	ÐÕi Thiªt Võng			1	5
+406	6	197	160	Phß½ng Quang Trí			2	5
+407	6	240	181	Can Quang Hào			2	5
+408	6	87	159	Cao S½n BÕch Viên			1	5
+409	6	240	173	Cát Quang Bµi			2	5
+410	6	271	202	Cung Quang Ki®t			2	5
+411	6	197	153	H¥u Quang các hÕ			2	5
+412	6	235	184	Giä Quang ÐÕt			2	5
+413	6	178	138	Ti­n Kính Ti¬u T£c			1	5
+414	6	274	77	Giang h° du y	Khôi phøc khí huyªt	Khôi phøc	2	5
+415	6	234	175	Lý Quang Bích			2	5
+416	6	190	137	Lô Vi Thäo Nhân			1	5
+417	6	92	128	Mã Ngû ÐÑc			2	5
+418	6	128	192	S½n Thù			1	5
+419	6	202	82	Thi¬m Ði®n Báo			1	5
+420	6	234	176	Tôn Quang Lßþng			2	5
+421	6	133	125	Vß½ng Khuê			2	5
+422	6	133	123	Vß½ng Ti¬u Nha			2	5
+423	6	240	175	Tân Song Thanh			2	5
+424	6	101	143	Tiªt ðÕi nß½ng			2	5
+425	6	111	117	Tiªt V§n Lai			2	5
+426	6	237	171	T× Quang NgÕn			2	5
+427	6	254	171	Chung Linh	Nhi®m vø k¸ch tình		2	5
+428	6	240	180	Tä TØ Møc			2	5
+429	7	36	286	Bän ð°: ÐÕi Lý		V§n chuy¬n	99	2
+430	7	105	40	Bän ð°: Ðôn Hoàng		V§n chuy¬n	99	2
+431	7	285	172	Bän ð°: Núi Nga My		V§n chuy¬n	99	2
+432	7	41	273	Tân Nhân Hæu	Hß¾ng dçn tân thü	Tân thü	2	3
+433	7	197	216	BÕch Mao Thäo Nhân			1	5
+434	7	167	150	ÐÕi Ki¬m			1	5
+435	7	147	229	Phù Ki«u			1	5
+436	7	209	146	QuÖ Di®n Chu Nho			1	5
+437	7	208	68	Khß½ng Hoá			2	5
+438	7	215	43	Khß½ng Quª Chi			2	5
+439	7	221	68	Khß½ng MÕt			2	5
+440	7	220	76	Khß½ng Nam			2	5
+441	7	110	45	Giang h° du y	Khôi phøc khí huyªt	Khôi phøc	2	5
+442	7	263	201	Th¶i MÕi			2	5
+443	7	279	194	Th¶i Thiên			2	5
+444	7	65	252	Thøc ÐÕo BÕch Viên			1	5
+445	7	67	133	Thøc ÐÕo H¡c Viên			1	5
+446	7	67	168	Võ Không			1	5
+447	7	233	139	Tu La Ti¬u QuÖ			1	5
+448	7	126	141	Án Kì ÐÕo			2	5
+449	7	230	119	Du Mµc Kh±i L²i			1	5
+450	7	248	71	Doanh Vô Danh	Ð±i l¤y bµ trang b¸ T¥n Hoàng	Ð±i	2	4
+451	7	281	81	Long Giä	T¥n Ð¸a Cung	V§n chuy¬n	2	1
+452	7	147	48	Ðào Yêu Yêu	Ðào Hoa Tr§n	Dàn tr§n	2	2
+453	8	149	38	Bän ð°: Bäo Tàng Ðµng		V§n chuy¬n	99	2
+454	8	231	286	Bän ð°: Kiªm Các		V§n chuy¬n	99	2
+455	8	284	146	Bän ð°: LÕc Dß½ng		V§n chuy¬n	99	2
+456	8	55	34	Bän ð°: Thiên S½n		V§n chuy¬n	99	2
+457	8	33	277	Bän ð°: Tinh Túc Häi		V§n chuy¬n	99	2
+458	8	71	107	Uông Diên	Höa Di®m S½n	V§n chuy¬n	2	2
+459	8	155	180	Tàn Phá Binh Võng			1	5
+460	8	64	63	Tào Diên Hu®			2	5
+461	8	249	144	Tào Diên Th÷			2	5
+462	8	55	202	Ác Viên			1	5
+463	8	194	97	Hoang Nguyên Báo			1	5
+464	8	252	177	H°i C¯t Vß½ng Næ			2	5
+465	8	227	279	Giang h° du y	Khôi phøc khí huyªt	Khôi phøc	2	5
+466	8	62	98	Cßu Ma Trí	Nhi®m vø k¸ch tình		2	5
+467	8	81	99	Lý Tr÷ng Quý			1	5
+468	8	109	261	Sa MÕc Mã Phï			1	5
+469	8	238	165	Sa Pha Lang			1	5
+470	8	252	144	Dß½ng Vån Quäng			2	5
+471	8	223	216	Du Mµc Kh±i L²i			1	5
+472	8	63	90	Tri®u Hành ÐÑc			2	5
+473	8	150	45	Chu ÐÑc Hßng			2	5
+474	8	63	81	Chu Vß½ng L­			2	5
+475	8	166	95	Ðào Yêu Yêu	Ðào Hoa Tr§n	Dàn tr§n	2	2
+476	9	96	156	Bän ð°: Tung S½n		V§n chuy¬n	99	2
+477	9	125	88	Phß½ng Huy«n Lao			99	5
+478	9	38	102	H°ng Thái Vân	Ngß¶i dÕy khinh công Thiªu Lâm	Khinh công	5	5
+479	9	96	82	Tu® Phß½ng	Ngß¶i giao nhi®m vø phái Thiªu Lâm	Sß môn	5	3
+480	9	93	132	Tu® Luân	Thiªu Lâm chuy¬n v§n sÑ	V§n chuy¬n	5	2
+481	9	144	149	Mµ Dung Bác			99	5
+482	9	70	105	Phan Huy«n Canh			99	5
+483	9	122	143	Täo ð¸a lão tång			99	5
+484	9	61	57	V® Huy«n V÷ng			99	5
+485	9	39	152	Tiêu Vi­n S½n			99	5
+486	9	89	72	Huy«n T¸ch	Ngß¶i bái sß cüa Thiªu Lâm	Bái sß	5	4
+487	9	38	98	Huy«n T×	Ð±i v§t ph¦m danh xßng	Chß·ng môn	5	4
+488	9	91	71	Huy«n NÕn	Ngß¶i dÕy võ phái Thiªu Lâm	Võ công	5	4
+489	9	57	88	Huy«n Di®t	Ngß¶i truy«n thø kÛ nång cßÞi h±	KÜ	5	4
+490	9	60	82	Huy«n Sinh	Ngß¶i quän lý h±	H±	5	4
+491	9	135	90	Huy«n Minh	Ngß¶i truy«n thø kÛ nång ph§t pháp	 Ph§t pháp 	5	4
+492	9	128	86	Huy«n Ðµ	Ngß¶i truy«n thø kÛ nång khai quang	 khai quang 	5	4
+493	9	61	62	Huy«n Tr×ng			5	4
+494	9	98	145	Huy«n ChÑng	Cao tång hµ tñ	Ðánh quái	5	4
+495	9	100	127	Tri khách tång			5	4
+496	10	91	158	Bän ð°: Thái H°		V§n chuy¬n	99	2
+497	10	89	100	BÕch Thª Kính	Trß·ng lão ch¤p pháp Cái Bang		99	5
+498	10	93	152	Âu Dß½ng Quä	Hµ v® t±ng ðà Cái Bang	Ðánh quái	5	4
+499	10	41	144	Ph§t „n			5	4
+500	10	92	77	H°ng Thông	Ngß¶i giao nhi®m vø Cái Bang	Sß môn	5	3
+501	10	91	98	Tr¥n Cô NhÕn	Ngß¶i bái sß cüa Cái Bang	Bái sß	5	3
+502	10	92	64	T¯ng T×	Ð±i v§t ph¦m danh xßng	Chß·ng môn	5	3
+503	10	94	99	H« Tam Kì	Ngß¶i dÕy võ công Cái Bang	Võ công	5	3
+504	10	38	89	Tß·ng Quang Ðình	Ngß¶i dÕy kÛ nång cßÞi sói	KÜ	5	3
+505	10	54	86	Lý Nh§t Vi®t	Ngß¶i quän lý thú cßÞi: Sói	T÷a lang	5	3
+506	10	114	91	Ngô Trß¶ng Phong	kÛ nång n¤u rßþu	 N¤u rßþu 	5	3
+507	10	120	63	Toàn Quán Thanh			99	5
+508	10	131	83	Thßþng Quan Trß¶ng Vû	Ngß¶i truy«n thø kÛ nång Liên Hoa LÕc	Liên Hoa	99	5
+509	10	112	90	Ngô Tuyªt Ki«u	Ngß¶i dÕy khinh công Cái Bang	Khinh công	5	4
+510	10	117	61	Lßu Trúc Trang			99	4
+511	10	95	120	Trß½ng Toàn Tß¶ng	Cái Bang chuy¬n v§n sÑ	V§n chuy¬n	5	2
+512	10	89	111	Tri Khách Cái	Ngß¶i chï ðß¶ng môn phái		5	4
+513	11	97	173	Bän ð°: Thái H°		V§n chuy¬n	99	2
+514	11	133	117	Phß½ng Bách Hoa	Minh Giáo khinh công truy«n thø sÑ	Khinh công	5	4
+515	11	89	56	Phß½ng LÕp			5	4
+516	11	102	167	Phß½ng Th¤t Ph§t	Minh giáo t¯ng ti­n sÑ	V§n chuy¬n	5	2
+517	11	98	105	Lâm Nham	Minh Giáo nhi®m vø tuyên ðÕt sÑ	Sß môn	5	3
+518	11	108	56	Lã Sß Tß½ng	Ngß¶i bái sß cüa Minh Giáo	Bái sß	5	3
+519	11	98	52	Lâm Thª Trß¶ng	Ð±i v§t ph¦m danh xßng	Chß·ng môn	5	3
+520	11	109	59	Bàng VÕn Xuân	Ngß¶i dÕy võ cüa Minh Giáo	Võ công	5	3
+521	11	66	118	Lþi Thiên Hæu	Ngß¶i dÕy cßÞi thú	KÜ	5	3
+522	11	64	115	Ð£ng Nguyên Giác	Chß·ng quän cßÞi thú	Sß TØ	5	3
+523	11	87	61	Thù ðÕo nhân	Ngß¶i truy«n thø kÛ nång thánh höa thu§t	Thánh Höa	5	3
+524	11	87	58	Phß½ng Thiên Ð¸nh	Ngß¶i truy«n thø Thái höa thu§t	Thái höa	5	3
+525	11	133	118	Mã LÕp			99	5
+526	11	95	161	ThÕc Cang	Minh giáo hµ v®	Ðánh quái	5	4
+527	11	101	137	Dß ÐÕo An			99	5
+528	11	93	167	Tri khách hµ v®	Ngß¶i chï ðß¶ng môn phái		5	4
+529	12	95	191	Bän ð°: Kính H°		V§n chuy¬n	99	2
+530	12	73	146	Trình Nhßþc Thanh			99	5
+531	12	101	69	Hoàng Thß¶ng			99	5
+532	12	65	109	Tînh S½ Tán Nhân	Ngß¶i dÕy khinh công Võ Ðang	Khinh công	5	4
+533	12	86	84	CØu Thiên Th¥n HÕc			99	5
+534	12	58	73	Lâm Linh T¯			5	4
+535	12	101	136	MÕc Thái Xung	Ngß¶i chuy¬n tiªp cüa Võ Ðang	V§n chuy¬n	5	2
+536	12	78	95	Trß½ng Trung Hành	Ngß¶i giao nhi®m vø Võ Ðang	Sß môn	5	3
+537	12	77	85	Trß½ng Huy«n T¯	Ngß¶i bái sß Võ Ðang	Bái sß	5	3
+538	12	82	84	Du Vi­n S½n	Ngß¶i dÕy võ công Võ Ðang	Võ công	5	3
+539	12	102	112	Trß½ng Quân Ti­n	Ngß¶i truy«n thø kÛ nång cßÞi hÕc	KÜ	5	3
+540	12	101	115	Trß½ng Quân Mµ	Ngß¶i quän lý tiên hÕc	Tiên hÕc	5	3
+541	12	44	56	HÕc Vân ÐÕo Nhân	Ngß¶i truy«n thø kÛ nång luy®n ð½n	 Luy®n ðan 	5	3
+542	12	41	58	Ninh Hß Tán Nhân	Ngß¶i truy«n thø kÛ nång ðÕo pháp	 ÐÕo pháp 	5	3
+543	12	102	109	Thanh Minh Th¥n HÕc			99	5
+544	12	74	85	Vô Cñc Th¥n HÕc			99	5
+545	12	100	181	Tiêu Thiên D§t	Hµ s½n ðÕo nhân	Ðánh quái	5	4
+546	12	98	70	Trß½ng Hàm Chi			99	5
+547	12	86	181	Tri khách ðÕo nhân			5	4
+548	12	98	139	Tri khách ðÕo nhân			5	4
+549	13	95	145	Bän ð°: Vô Lßþng S½n		V§n chuy¬n	99	2
+550	13	95	88	Bän Phàm	Ngß¶i ban phát nhi®m vø Thiên Long	Sß môn	5	3
+551	13	96	66	Bän Nhân	Ngß¶i bái sß Thiên Long	Bái sß	5	3
+552	13	97	67	Bän Quán	Ngß¶i truy«n thø võ công Thiên Long	Võ công	5	3
+553	13	148	92	Dß½ng Thanh Ngßu	Ngß¶i truy«n thø kÛ nång cßÞi ngña	KÜ	5	3
+554	13	146	95	Dß½ng BÕch Ngßu	Ngß¶i quän lý ngña	Ngña	5	3
+555	13	64	151	Bän Tham	Ngß¶i truy«n thø kÛ nång kinh mÕch	Kinh mÕch	5	3
+556	13	35	86	Bän Tß¾ng	Ngß¶i truy«n thø kÛ nång chª trùng	 Chª c± 	5	3
+557	13	99	142	Hµ tñ trß·ng lão	Thiên Long trß·ng lão	Ðánh quái	5	4
+558	13	158	130	Hà H°ng Lång			99	5
+559	13	92	126	Lâm Qu¯c Thanh			99	5
+560	13	99	120	Phá Sân	Thiên Long chuy¬n v§n sÑ	V§n chuy¬n	5	2
+561	13	85	68	Phá Si			99	5
+562	13	154	115	T× Qui Ði®p			99	5
+563	13	129	153	Tang Phi Yªn			99	5
+564	13	153	118	Th¸nh Nhß Lan	Ngß¶i dÕy khinh công Thiên Long	Khinh công	5	4
+565	13	94	126	Ngû Trung			99	5
+566	13	92	121	Tri khách tång			5	4
+567	14	37	130	Bän ð°: Vô Lßþng S½n		V§n chuy¬n	99	2
+568	14	152	153	PhÕm Bách Linh			99	5
+569	14	44	125	Công Dã TØ Trß·ng	Hµ phái ð® tØ	Ðánh quái	5	4
+570	14	69	142	Lý Khôi LuÛ	Tiêu Dao chuy¬n v§n sÑ	V§n chuy¬n	5	2
+571	14	47	71	Mµc Nhân Khôi L²i			99	5
+572	14	119	152	T¥n Quán	Ngß¶i giao nhi®m vø phái Tiêu Dao	Sß môn	5	3
+573	14	125	144	Tô Tinh Hà	Ngß¶i bái sß cüa Tiêu Dao	Bái sß	5	3
+574	14	125	142	Khang Quäng Lång	Ngß¶i dÕy võ phái Tiêu Dao	Võ công	5	3
+575	14	53	56	Ngô Lãnh Quân	Ngß¶i truy«n thø kÛ nång cßÞi lµc	KÜ	5	3
+576	14	65	55	C¦u Ðµc	Ngß¶i quän lý th¥n lµc	Th¥n Lµc	5	3
+577	14	62	68	Phùng A Tam	Ngß¶i truy«n thø kÛ nång kÏ môn ðµn giáp	KÏ môn	5	3
+578	14	52	151	ThÕch Thanh Lµ	Ngß¶i truy«n thø kÛ nång løc ngh® phong c¯t	Løc ngh®	5	3
+579	14	54	150	ThÕch Cam Sß½ng	Ngß¶i dÕy khinh công Tiêu Dao	Khinh công	5	4
+580	14	59	71	ThÕch Nhân Khôi L²i			99	5
+581	14	66	65	Ð°ng Nhân Khôi L²i			99	5
+582	14	74	150	Tri Khách Ð® TØ			5	4
+583	15	89	156	Bän ð°: Kiªm Các		V§n chuy¬n	99	2
+584	15	39	152	Ph§t Quang Phøng Hoàng			99	5
+585	15	45	42	Kim Ðïnh Phøng Hoàng			99	5
+586	15	146	46	Linh Tuy«n Phøng Hoàng			99	5
+587	15	94	147	Li­u Tam Muµi	Thü s½n ð® tØ	Ðánh quái	5	4
+588	15	95	86	Mãnh Long	Ngß¶i giao nhi®m vø phái Nga My	Sß môn	5	3
+589	15	96	51	Lý th§p nh¸ nß½ng	Ngß¶i bái sß cüa Nga My	Bái sß	5	3
+590	15	96	73	MÕnh Thanh Thanh	Ð±i v§t ph¦m danh xßng	Chß·ng môn	5	3
+591	15	98	51	Thôi Løc Hoa	Ngß¶i dÕy võ phái Nga My	Võ công	5	3
+592	15	141	51	Tiêu Tß½ng Thüy	Ngß¶i truy«n thø kÛ nång cßÞi phøng	KÜ	5	3
+593	15	145	53	Tiêu Tß½ng Ng÷c	Ngß¶i quän lý phøng hoàng	Phøng hoàng	5	3
+594	15	43	108	Hàn Ánh Tuyªt	Chï ðÕo chª phù	 Chª phù 	5	3
+595	15	39	109	H± Tam Nß½ng	Chï ðÕo kÛ nång linh tâm thu§t	Linh tâm	5	3
+596	15	105	58	Tôn Nh¸ Nß½ng	Ngß¶i dÕy khinh công Nga My	Khinh công	5	4
+597	15	156	99	Ðào hoa tiên			99	5
+598	15	156	112	Ðào Di®p Tiên			99	5
+599	15	156	106	Ðào Chi Tiên			99	5
+600	15	146	156	VÕn Niên Phøng Hoàng			99	5
+601	15	97	71	Ti¬u Danh			99	5
+602	15	94	71	Ti¬u Thi			99	5
+603	15	86	142	Dß½ng TÑ Nß½ng	Nga My d¸ch chuy¬n sÑ	V§n chuy¬n	5	2
+604	15	91	140	Tri Khách Ð® TØ			5	4
+605	16	96	159	Bän ð°: Ðôn Hoàng		V§n chuy¬n	99	2
+606	16	90	88	Xu¤t Tr¥n TØ	Ngß¶i dÕy khinh công Tinh Túc	Khinh công	5	4
+607	16	142	48	ÐÕi Lý Dßþc Lâu TØ			99	5
+608	16	128	78	H°ng Ng÷c			5	4
+609	16	136	48	Khiªt Ðan Dßþc Lâu TØ			99	5
+610	16	99	150	Thiên Lang TØ	Tinh Túc chuy¬n v§n sÑ	V§n chuy¬n	5	2
+611	16	100	143	Thiên Toàn TØ	Hµ v® sÑ	Ðánh quái	5	4
+612	16	96	92	Vß½ng NgÕn	Ngß¶i giao nhi®m vø phái Tinh Túc	Sß môn	5	3
+613	16	95	75	Hàn Thª Trung	Ngß¶i bái sß · phái Tinh Túc	Bái sß	5	3
+614	16	142	55	Ðinh Xuân Thu	Ð±i v§t ph¦m danh xßng	Chß·ng môn	5	3
+615	16	87	70	Thi Toàn	Ngß¶i dÕy võ phái Tinh Túc	Võ công	5	3
+616	16	94	46	Phá Quân TØ	Ngß¶i truy«n thø kÛ nång cßÞi trâu	KÜ	5	3
+617	16	97	46	Thiên ¿ng TØ	Ngß¶i quän lý Mao Ngßu	Tây TÕng Ngßu	5	3
+618	16	101	89	Sß Kh±ng TØ	Ngß¶i truy«n thø kÛ nång dçn trùng	Dçn trùng	5	3
+619	16	101	87	Trích Tinh TØ	Ngß¶i truy«n thø kÛ nång chª ðµc	Chª ðµc	5	3
+620	16	131	48	Tây vñc Dßþc Lâu TØ			99	5
+621	16	94	151	Tri Khách sÑ			5	4
+622	17	94	158	Bän ð°: Ðôn Hoàng		V§n chuy¬n	99	2
+623	17	96	148	Ð£ng Bà	Thiên S½n tu¥n s½n sÑ	Ðánh quái	5	4
+624	17	95	60	Phù Mçn Nghi	Ngß¶i giao nhi®m vø Thiên S½n	Sß môn	5	3
+625	17	91	44	Mai Kiªm	Ngß¶i bái sß cüa Thiên S½n	Bái sß	5	3
+626	17	88	44	Lan Kiªm	Ngß¶i dÕy võ phái Thiên S½n	Võ công	5	3
+627	17	45	69	Lß Vû Ðình	Ngß¶i truy«n thø kÛ nång cßÞi ðiêu	KÜ	5	3
+628	17	39	71	Nh§m Phi H°ng	Ngß¶i quän lý Th¥n ðiêu	Th¥n ðiêu	5	3
+629	17	123	67	ThÕch T¦u	Ngß¶i truy«n thø kÛ nång thái bång thu§t	Thái bång	5	3
+630	17	119	67	Dß Bà	Ngß¶i truy«n thø kÛ nång huy«n bång thu§t	Huy«n bång	5	3
+631	17	101	44	Cúc Kiªm			5	4
+632	17	90	120	Ô Lão ÐÕi	Thiên S½n chuy¬n v§n sÑ	V§n chuy¬n	5	2
+633	17	97	117	Tri Khách sÑ			5	4
+634	17	98	44	Trúc Kiªm	Ngß¶i dÕy khinh công Thiên S½n	Khinh công	5	4
+635	18	33	58	Bän ð°: Thäo Nguyên		V§n chuy¬n	99	2
+636	18	264	286	Bän ð°: LÕc Dß½ng		V§n chuy¬n	99	2
+637	18	34	39	Bän ð°: Ma Nhai Ðµng		V§n chuy¬n	99	2
+638	18	248	37	Bän ð°: NhÕn B¡c		V§n chuy¬n	99	2
+639	18	184	66	Khôi Hùng			1	5
+640	18	253	210	Kim Ti«n Báo			1	5
+641	18	241	74	Kh¤u Phong			2	5
+642	18	156	163	LÕc Phøng Tiên			1	5
+643	18	260	88	Mã Th×a Sänh			2	5
+644	18	130	49	Mã Thñc			2	5
+645	18	38	206	T¥n Bá Kh·i			1	5
+646	18	37	129	T¥n Gia TrÕi Lâu La			1	5
+647	18	68	201	T¥n Gia TrÕi Thân Binh			1	5
+648	18	127	123	T¥n Gia TrÕi Thám TØ			1	5
+649	18	82	73	Thâm thüy thánh thú			1	5
+650	18	240	262	Tây B¡c Lang			1	5
+651	18	102	36	NhÕn Nam Chinh B¡c Hi®u Úy		Thành th¸	2	2
+652	18	283	113	Nhan Nam Chinh Ðông Hi®u Úy		Thành th¸	2	2
+653	18	72	284	NhÕn Nam Chinh Nam Hi®u Úy		Thành th¸	2	2
+654	18	128	50	Gia Lu§t MÕc Ca			2	5
+655	18	263	46	Chüng Thª Hoành			2	5
+656	18	242	73	Châu Vô Uý			2	5
+657	19	59	60	Bän ð°: Thäo Liêu Trß¶ng		V§n chuy¬n	99	2
+658	19	139	259	Bän ð°: C± Mµ mµt		V§n chuy¬n	99	2
+659	19	228	280	Bän ð°: NhÕn Nam		V§n chuy¬n	99	2
+660	19	153	202	Bát träo thánh thú			1	5
+661	19	184	79	Ðä Thäo C¯c Liêu Binh			1	5
+662	19	233	93	H°ng Phong Hùng			1	5
+663	19	150	200	H°ng Phong Tri Thù			1	5
+664	19	225	131	H°ng quä phø			1	5
+665	19	246	129	H°ng Thiªt träo			1	5
+666	19	271	49	L² Bình			2	5
+667	19	231	203	Miêu Khánh			2	5
+668	19	280	60	Liêu Ðäo	Ð±i ð° bµ Yªn H¥u	Yªn H¥u	2	4
+669	19	40	153	T¥n Gia TrÕi Hµ V®			1	5
+670	19	36	249	T¥n Gia TrÕi Giáo Ð¥u			1	5
+671	19	163	136	T¥n Gia TrÕi Th± Phï			1	5
+672	19	233	192	Khúc Ðoan			2	5
+673	19	234	24	NhÕn B¡c Ðông B¡c Hi®u Úy		Thành th¸	2	2
+674	19	116	29	NhÕn B¡c Tây B¡c Hi®u Úy		Thành th¸	2	2
+675	19	32	128	NhÕn B¡c Chinh Tây Hi®u Úy		Thành th¸	2	2
+676	19	195	41	Gia Lu§t Dß Ð²			2	5
+677	20	271	33	Bän ð°: Trß¶ng BÕch S½n		V§n chuy¬n	99	2
+678	20	119	32	Bän ð°: Liêu Tây		V§n chuy¬n	99	2
+679	20	65	195	Bän ð°: Thüy Tinh H°		V§n chuy¬n	99	2
+680	20	287	258	Bän ð°: NhÕn Nam		V§n chuy¬n	99	2
+681	20	162	160	A Phi			2	5
+682	20	161	156	A Lâm			2	5
+683	20	77	124	BÕch Minh Kh·i			1	5
+684	20	177	250	Thäo Nguyên Lang			1	5
+685	20	97	281	Thäo Nguyên Tây Nam Hi®u Úy		Thành th¸	2	2
+686	20	271	191	Thäo Nguyên Chinh Ðông Hi®u Úy		Thành th¸	2	2
+687	20	46	206	Thäo Nguyên Chinh Tây Hi®u Úy		Thành th¸	2	2
+688	20	40	45	Ðä Thäo C¯c T¯ng Binh			1	5
+689	20	275	146	Ðoan Mµc nguyên			1	5
+690	20	199	202	Lão Li®t Ð¥u			2	5
+691	20	275	269	Mông C± H¡c Phong			1	5
+692	20	138	53	Nguy­n Thành			2	5
+693	20	190	200	Nguy­n lão thái thái			2	5
+694	20	198	202	Nguy­n Thñc			2	5
+695	20	78	246	Thi¬m Ði®n Mã Phï			1	5
+696	20	273	156	Loan Ðao Mã Phï			1	5
+697	20	163	158	Tiêu Tß¶ng			2	5
+698	20	198	104	Truy Phong Mã Phï			1	5
+699	21	61	297	Bän ð°: Thäo Nguyên		V§n chuy¬n	99	2
+700	21	37	211	Bän ð°: Tiên Vß½ng Mµ		V§n chuy¬n	99	2
+701	21	285	45	Bän ð°: Tuyªt Nguyên		V§n chuy¬n	99	2
+702	21	104	59	A SØ Na M£c C¯c			1	5
+703	21	158	195	Ba Ð°			2	5
+704	21	161	268	BÕch Lang Vß½ng			1	5
+705	21	164	199	Bá Nhan			2	5
+706	21	163	191	Bác Nhî Luân			2	5
+707	21	88	220	ÐÕi H¡c Phong			1	5
+708	21	71	96	H¡c Y Mã Phï			1	5
+709	21	208	59	H°ng Y Mã Phï			1	5
+710	21	173	187	Ki¬m ð¸nh	Thß½ng nhân giám ð¸nh bùa	Giám ð¸nh	2	3
+711	21	222	70	Lý Thông			1	5
+712	21	277	258	Liêu Tây Ðông Nam Hi®u Úy		Thành th¸	2	2
+713	21	75	35	Liêu Tây Tây B¡c Hi®u Úy		Thành th¸	2	2
+714	21	40	142	Liêu Tây Chinh Tây Hi®u Úy		Thành th¸	2	2
+715	21	279	48	Lßu Quí	Thß½ng nhân c¤u tÕo ð° 	Ðä tÕo	2	3
+716	21	242	52	Long Th¡ng			1	5
+717	21	277	204	Khinh Giáp Mãng Cái			1	5
+718	21	217	47	Tiêu Doãn			1	5
+719	21	170	206	Gia Lu§t Kim			2	5
+720	21	194	216	Nh¤t Ph¦m Ðß¶ng Thích Khách			1	5
+721	22	33	269	Bän ð°: Thäo Nguyên		V§n chuy¬n	99	1
+722	22	286	73	Bän ð°: Hoàng Long Phü		V§n chuy¬n	99	1
+723	22	153	107	Xa Truy«n Nhân	Ông chü d¸ch trÕm	V§n chuy¬n	2	1
+724	22	116	158	Bång Phong Kh±i L²i			1	5
+725	22	216	282	Trß¶ng BÕch Chinh Nam Hi®u Úy		Thành th¸	2	2
+726	22	39	63	Trß¶ng BÕch Tây B¡c Hi®u Úy		Thành th¸	2	2
+727	22	280	154	Trß¶ng BÕch Chinh Ðông Hi®u Úy		Thành th¸	2	2
+728	22	75	272	Ðông B¡c H±			1	5
+729	22	269	270	Hµt ThÕch Li®t A S½			1	5
+730	22	57	169	H¡c Hùng			1	5
+731	22	132	73	Liêu Nha Tuyªt Nhân			1	5
+732	22	147	123	Ð° Ðan Phúc T¤n			2	5
+733	22	234	78	Hoàn Nhan A C¯t Ðä			2	5
+734	22	178	113	Hoàn Nhan Ngoa Lý Ðóa			2	5
+735	22	117	108	Hoàn Nhan A Lý B¯			2	5
+736	22	166	94	Hoàn Nhan Cát Ly B¤t			2	5
+737	22	157	127	Hoàn Nhan Ngô Kh¤t Mãi			2	5
+738	22	118	107	Hoàn Nhan Ngµt thu§t			2	5
+739	22	147	121	Hoàn Nhan Doanh Ca			2	5
+740	22	147	120	Hoàn Nhan Niêm Mµt Khát			2	5
+741	22	117	112	Tiêu Phß½ng Trí			2	5
+742	22	201	190	Tuyªt Nhân			1	5
+743	22	230	141	Tuyªt S½n Li®p Nhân			1	5
+744	23	48	287	Bän ð°: Trß¶ng BÕch S½n		V§n chuy¬n	99	2
+745	23	201	255	Bän ð°: Tuyªt Lang H°		V§n chuy¬n	99	2
+746	23	279	201	Ba Luân Mãng Cái			1	5
+747	23	174	260	ÐÕi H¡c Hùng			1	5
+748	23	166	204	Phù T¸ch Nhan			2	5
+749	23	144	104	H°ng Bá	Bäo ThÕch thß½ng nhân	Bäo thÕch	2	3
+750	23	253	285	Hoàng Long Ðông Nam Hi®u Úy		Thành th¸	2	2
+751	23	28	54	Hoàng Long Tây B¡c Hi®u Úy		Thành th¸	2	2
+752	23	290	115	Hoàng Long Chinh Ðông Hi®u Úy		Thành th¸	2	2
+753	23	206	31	Nh§m Tri®u			2	4
+754	23	79	38	Ho¡c Tß			1	5
+755	23	190	48	Lßu NgÕo Thiên			2	5
+756	23	46	276	Mµ Dung Thiên Lang			2	5
+757	23	163	191	Thác BÕt Vån			2	5
+758	23	159	133	Tuyªt S½n Lang			1	5
+759	23	67	143	Tuyªt S½n Mãng Cái			1	5
+760	23	217	84	Mµc Vân Tuyªt Nhân			1	5
+761	23	155	195	Vû Vån Tô			2	5
+762	23	78	66	Tr÷ng Giáp Mãng Cái			1	5
+763	24	34	157	Bän ð°: Thß½ng S½n		V§n chuy¬n	99	2
+764	24	287	32	Bän ð°: ÐÕi Lý		V§n chuy¬n	99	2
+765	24	34	279	Bän ð°: ThÕch Lâm		V§n chuy¬n	99	2
+766	24	284	87	Bän ð°: Ôn Tuy«n Ðµng		V§n chuy¬n	99	2
+767	24	153	127	Xích Cß¾c Dã Nhân			1	5
+768	24	57	73	Ðao Lang Cang			2	5
+769	24	207	49	Ðao Nghiêu			2	5
+770	24	57	75	Ðao Anh LÕc			2	5
+771	24	111	130	Ác Lang Thü V®			1	5
+772	24	285	166	Nhî Häi Chinh Ðông Hi®u Úy		Thành th¸	2	2
+773	24	173	283	Nhî Häi Chinh Nam Hi®u Úy		Thành th¸	2	2
+774	24	34	100	Nhî Häi Chinh Tây Hi®u Úy		Thành th¸	2	2
+775	24	189	195	Phong Lang			1	5
+776	24	225	77	Hoa Ban Báo			1	5
+777	24	275	197	Giän Ðinh	Thß½ng nhân giám ð¸nh bùa	Giám ð¸nh	2	3
+778	24	134	276	Lang Tµc Kinh SÑ			1	5
+779	24	229	146	Lang Tµc Thám TØ			1	5
+780	24	99	121	Lang Tµc Chiªn Sî			1	5
+781	24	96	126	Tát Ninh			2	5
+782	24	191	269	Ðào Yêu Yêu	Ðào Hoa Tr§n	Dàn tr§n	2	2
+783	25	286	56	Bän ð°: Nhî Häi		V§n chuy¬n	99	2
+784	25	278	122	Bän ð°: Dã Nhân Câu		V§n chuy¬n	99	2
+785	25	258	181	B¯i Nhî			1	5
+786	25	37	172	Thß½ng S½n Tr¤n Tây hi®u quý		Thành th¸	2	2
+787	25	294	153	Thß½ng S½n Chinh Ðông Hi®u Úy		Thành th¸	2	2
+788	25	146	284	Thß½ng S½n Chinh Nam Hi®u Úy		Thành th¸	2	2
+789	25	52	89	Trß¶ng mao tuyªt quái			1	5
+790	25	264	202	Ð¸ch Á			1	5
+791	25	190	250	Lang Tµc Th¥n Hán			1	5
+792	25	138	236	Lang Tµc Ð¥u Nhân			1	5
+793	25	262	198	Lang Tµc Th± Ty			1	5
+794	25	158	70	Lang Tµc Dûng Sî			1	5
+795	25	70	47	Mã Ðâu Linh	Thß½ng nhân ði«u chª thu¯c	Ph¯i Phß½ng	2	3
+796	25	236	196	MÕc Phi			1	5
+797	25	195	113	Tát Ðô			2	5
+798	25	260	182	Tát L²			2	5
+799	25	164	53	Tôn Khôn	Thúc Hà C± Tr¤n	V§n chuy¬n	2	1
+800	25	155	205	Tát Mã			2	5
+801	25	202	108	Tát Tang			2	5
+802	25	76	91	Tát Tuyªt			2	5
+803	25	57	167	Soa Y Dã Nhân			1	5
+804	25	40	263	Huy«n Kích Kim Cß½ng			1	5
+805	25	47	104	Tuyªt Lang			1	5
+806	26	268	128	Bän ð°: Nhî Häi		V§n chuy¬n	99	2
+807	26	33	250	Bän ð°: Nam Chiêu		V§n chuy¬n	99	2
+808	26	109	272	Bän ð°: Thø Ðµng		V§n chuy¬n	99	2
+809	26	37	273	Toàn cänh: Diêm H°		V§n chuy¬n	99	2
+810	26	112	34	Bän ð°: Ng÷c Khê		V§n chuy¬n	99	2
+811	26	130	261	A Chi			1	5
+812	26	201	174	Hoa Cß½ng Sß Vß½ng			1	5
+813	26	76	185	Hoa Cß½ng ThÕch Nhân			1	5
+814	26	217	147	Hoa Cß½ng ThÕch Sß			1	5
+815	26	185	99	Lang Thù			1	5
+816	26	59	55	Lß½ng A Bà			2	5
+817	26	45	44	T¥n H°ng Miên			2	5
+818	26	226	36	ThÕch Lâm Chinh B¡c Hi®u Úy		Thành th¸	2	2
+819	26	278	281	ThÕch Lâm Chinh Nam Hi®u Úy		Thành th¸	2	2
+820	26	45	177	ThÕch Lâm Chinh Tây Hi®u Úy		Thành th¸	2	2
+821	26	167	196	Y¬n Sß ThÕch Nhân			1	5
+822	26	180	160	Dß½ng Liên TØ			2	5
+823	26	240	181	Dß½ng Thiªt Tín			2	5
+824	26	49	55	Hi®t Nham ThÕch Nhân			1	5
+825	26	183	167	Tr¸nh Viên			2	5
+826	26	183	166	Tr¸nh Quân Khä			2	5
+827	26	182	163	Tr¸nh Huy«n			2	5
+828	26	273	45	Tông Hùng			1	5
+829	27	36	46	Bän ð°: ThÕch Lâm		V§n chuy¬n	99	2
+830	27	54	167	Bän ð°: Ðào Hoa Nguyên		V§n chuy¬n	99	2
+831	27	280	47	A H¡c			2	5
+832	27	277	44	A Y Na			2	5
+833	27	246	273	ÐÕi Y¬n Sß			1	5
+834	27	276	45	C± L² LÕp			2	5
+835	27	57	73	K¸ch Ðµc Lang Thù			1	5
+836	27	87	258	Long Huyªt ThÕch Nhân			1	5
+837	27	46	51	La B¯c			2	5
+838	27	115	250	Næ Oa ThÕch Nhân			1	5
+839	27	254	147	Nhi®t B¯ Ba LÕp			1	5
+840	27	49	51	Sách Mçu LÕp			2	5
+841	27	222	213	Y¬n Sß Hµ Pháp			1	5
+842	27	33	251	Ng÷c Khê Tây Nam Hi®u Úy		Thành th¸	2	2
+843	27	177	39	Ng÷c Khê Chinh B¡c Hi®u Úy		Thành th¸	2	2
+844	27	197	280	Ng÷c Khê Chinh Nam Hi®u Úy		Thành th¸	2	2
+845	27	118	98	Vân Mçu ThÕch Nhân			1	5
+846	28	106	285	Bän ð°: Miêu Cß½ng		V§n chuy¬n	99	1
+847	28	280	45	Bän ð°: ThÕch Lâm		V§n chuy¬n	99	1
+848	28	187	43	Xa Truy«n Phúc	Ông chü d¸ch trÕm	V§n chuy¬n	2	1
+849	28	151	49	A Ngõa			2	5
+850	28	151	67	A Vßþng			2	5
+851	28	128	50	BÕch Cänh Võ			2	5
+852	28	147	47	BÕch Lan			2	5
+853	28	193	95	Tùng Lâm Phong			1	5
+854	28	102	271	H¡c Miêu Chiªn Sî			1	5
+855	28	282	143	H¡c Chi¬u Báo			1	5
+856	28	96	42	Nam Chiêu Tây B¡c Hi®u Úy		Thành th¸	2	2
+857	28	272	240	Nam Chiêu Ðông Nam Hi®u Úy		Thành th¸	2	2
+858	28	39	254	Nam Chiêu Tây Nam Hi®u Úy		Thành th¸	2	2
+859	28	182	210	Ð¢ng Giáp Dûng Sî			1	5
+860	28	68	189	Ð¢ng Giáp T£c			1	5
+861	28	103	210	Ð° Ba L²			1	5
+862	28	109	199	Ngµt C¯t Ðµt			1	5
+863	28	157	223	Dß½ng Minh			2	5
+864	29	67	32	Bän ð°: Nam Chiêu		V§n chuy¬n	99	2
+865	29	265	83	A TÏ Tu La			1	5
+866	29	92	266	A Hµi Nam			2	5
+867	29	201	256	A Tùng			2	5
+868	29	182	264	A Vû			2	5
+869	29	205	208	Ách Tu La			1	5
+870	29	196	161	C± Hán			1	5
+871	29	252	260	H°ng Thiên	Bäo ThÕch thß½ng nhân	Bäo thÕch	2	3
+872	29	250	45	Miêu Cß½ng Ðông B¡c Hi®u Úy		Thành th¸	2	2
+873	29	37	251	Miêu Cß½ng Tây Nam Hi®u Úy		Thành th¸	2	2
+874	29	281	160	Miêu Cß½ng Chinh Ðông Hi®u Úy		Thành th¸	2	2
+875	29	34	89	Miêu Vi®t Thích Khách			1	5
+876	29	186	271	ThÕch trung nham			2	5
+877	29	37	198	VÕn Kiªp Tu La			1	5
+878	29	162	48	Vînh DÕ Tu La			1	5
+879	29	44	40	Chi¬u TrÕch NgÕc Ngß			1	5
+880	30	287	54	Bän ð°: Long Tuy«n		V§n chuy¬n	99	2
+881	30	42	227	Bän ð°: Thuy«n ‘		V§n chuy¬n	99	2
+882	30	34	50	Bän ð°: Tô Châu		V§n chuy¬n	99	2
+883	30	265	286	Bän ð°: Võ Di		V§n chuy¬n	99	2
+884	30	91	45	Bän ð°: DÕ Tây H°		V§n chuy¬n	99	2
+885	30	64	240	BÕch Ðê Li­u QuÖ			1	5
+886	30	217	74	ÐoÕn Ki«u Hoa Yêu			1	5
+887	30	51	184	Quy Phong Trang Trang Khách			1	5
+888	30	68	48	Hoa Cäng Ðµc Phong			1	5
+889	30	141	47	Kim ÐÕi Kiên			2	5
+890	30	251	228	Long Tïnh ThuÖ T£c			1	5
+891	30	187	256	Mã Hán			2	5
+892	30	182	209	ThuÖ QuÖ Thám TØ			1	5
+893	30	164	262	Tô Phi			2	5
+894	30	46	55	Vß½ng Tri«u			2	5
+895	30	45	267	Tây H° Tây Nam Hi®u Úy		Thành th¸	2	2
+896	30	261	231	Tây H° Chinh Ðông Hi®u Úy		Thành th¸	2	2
+897	30	39	139	Tây H° Chinh Tây Hi®u Úy		Thành th¸	2	2
+898	30	155	55	Trß½ng Thúc DÕ			2	5
+899	31	172	280	Bän ð°: Kiªm Trüng		V§n chuy¬n	99	2
+900	31	34	274	Bän ð°: Tây H°		V§n chuy¬n	99	2
+901	31	284	154	Trß¶ng cänh: Thanh Nguyên		V§n chuy¬n	99	2
+902	31	51	115	A Thanh			2	5
+903	31	242	255	Thß¶ng Quy Vân			1	5
+904	31	227	47	Pháp Hà			2	5
+905	31	239	38	Pháp H°			2	5
+906	31	224	47	Pháp H°ng			2	5
+907	31	207	63	Pháp Ni®m			2	5
+908	31	221	70	Quy Phong Kiªm Phách			1	5
+909	31	242	162	Quy Phong Trang Kiªm Sß			1	5
+910	31	60	194	LÕn Lµ ThuÖ QuÖ			1	5
+911	31	165	137	Lôi Hoán			2	5
+912	31	79	250	Long Tuy«n Báo			1	5
+913	31	218	282	Long Tuy«n Ðông Nam Hi®u Úy		Thành th¸	2	2
+914	31	63	33	Long Tuy«n Chinh B¡c Hi®u Úy		Thành th¸	2	2
+915	31	35	121	Long Tuy«n Chinh Tây Hi®u Úy		Thành th¸	2	2
+916	31	129	98	Thüy QuÖ Thích Khách			1	5
+917	31	48	51	Thông Thiên			1	5
+918	31	150	126	Ông Bá Chi			2	5
+919	31	151	121	Ông Quý Chi			2	5
+920	31	154	131	Ông Thúc Chi			2	5
+921	31	174	260	TÕc Thuy«n ThuÖ QuÖ			1	5
+922	31	120	171	Tung Hoä ThuÖ QuÖ			1	5
+923	32	96	44	Bän ð°: Hoàng Long Ðµng		V§n chuy¬n	99	2
+924	32	283	180	Bän ð°: Mai Lînh		V§n chuy¬n	99	2
+925	32	248	286	Bän ð°: Nam Häi		V§n chuy¬n	99	2
+926	32	36	33	Bän ð°: Tây H°		V§n chuy¬n	99	2
+927	32	158	113	BÕch Hoa Tri Thù			1	5
+928	32	202	42	Phù Dung			2	5
+929	32	165	213	Hàm Tiªu			2	5
+930	32	212	47	Gianh Ðinh	Thß½ng nhân giám ð¸nh bùa	Giám ð¸nh	2	3
+931	32	51	229	Bång phách ngàn nåm			1	5
+932	32	194	52	Khúc Dß½ng			2	5
+933	32	169	239	S½n Vi®t Ðao Khách			1	5
+934	32	156	54	S½n Vi®t ÐÕo Phï			1	5
+935	32	152	47	S½n Vi®t Du H°n			1	5
+936	32	268	244	S½n Vi®t Chiªn Sî			1	5
+937	32	50	84	Thâm C¯c BÕch Viên			1	5
+938	32	258	125	Thø Giáp Tiêu Binh			1	5
+939	32	205	43	ThuÖ Tiên			2	5
+940	32	158	143	Vong Tr¥n			2	5
+941	32	254	38	Võ Di Ðông B¡c Hi®u Úy		Thành th¸	2	2
+942	32	113	280	Võ Di Chinh Nam Hi®u Úy		Thành th¸	2	2
+943	32	92	172	Võ Di Chinh Tây Hi®u Úy		Thành th¸	2	2
+944	32	195	42	TØ Vi			2	5
+945	33	192	279	Bän ð°: Miêu Nhân Ðµng		V§n chuy¬n	99	2
+946	33	33	275	Bän ð°: Võ Di		V§n chuy¬n	99	2
+947	33	276	29	Trß¶ng cänh: Thanh Nguyên		V§n chuy¬n	99	2
+948	33	109	105	Tùng Lâm Dã Nhân			1	5
+949	33	163	284	Ðông Thích			2	5
+950	33	162	274	Cam Thäo			2	5
+951	33	40	250	H°ng Bào Tri Thù			1	5
+952	33	161	286	Kinh Cúc			2	5
+953	33	169	240	Kh¡c Lý Tß Ðª An			2	5
+954	33	230	250	Lßu Kh¤u			1	5
+955	33	274	32	Mai Lînh Ðông B¡c Hi®u Úy		Thành th¸	2	2
+956	33	31	90	Mai Lînh Tây B¡c Hi®u Úy		Thành th¸	2	2
+957	33	282	236	Mai Lînh Chinh Ðông Hi®u Úy		Thành th¸	2	2
+958	33	167	174	B¢ng Dân			1	5
+959	33	222	53	S½n Vi®t Hµ Pháp			1	5
+960	33	120	71	S½n Vi®t Tß Tª			1	5
+961	33	170	74	Th¦m VÕn Tam			2	5
+962	33	195	48	Thái Dß½ng Hoa			2	5
+963	33	159	285	Ngân di®p			2	5
+964	33	192	70	Nguy®t Lý			2	5
+965	34	70	188	Bän ð°: Häi T£c Ðµng		V§n chuy¬n	99	1
+966	34	286	174	Bän ð°: QuÏnh Châu		V§n chuy¬n	99	1
+967	34	34	36	Bän ð°: Võ Di		V§n chuy¬n	99	1
+968	34	204	259	Xa Truy«n Tín	Ông chü d¸ch trÕm	V§n chuy¬n	2	1
+969	34	111	60	Ðinh Liên Y			2	5
+970	34	194	100	NgÕc Ngß Bang Ðä Thü			1	5
+971	34	158	80	NgÕc Ngß Bang T£c Ð°			1	5
+972	34	214	243	LÛ lão thái thái			2	5
+973	34	292	58	Nam Häi Ðông B¡c Hi®u Úy		Thành th¸	2	2
+974	34	70	135	Nam Häi NgÕc Ngß			1	5
+975	34	239	216	Nam Häi Häi ÐÕo			1	5
+976	34	108	227	Nam Häi Tây Nam Hi®u Úy		Thành th¸	2	2
+977	34	134	40	Nam Häi Chinh B¡c Hi®u Úy		Thành th¸	2	2
+978	34	250	186	ThÕch Cäm Ðß½ng			2	5
+979	34	165	167	ThÕch Lão Nhân			1	5
+980	34	115	58	Di®p Lßu Phàm			2	5
+981	34	265	193	NhÕc B¤t Bình			2	5
+982	34	206	237	NhÕc Tr÷ng Thu			2	5
+983	35	279	286	Bän ð°: Nam Häi		V§n chuy¬n	99	2
+984	35	169	95	NgÕc Ngß Bang Sát Thü			1	5
+985	35	111	200	NgÕc Ngß Bang Ðß¶ng Chü			1	5
+986	35	206	218	NgÕc Ngß Bang Dûng Sî			1	5
+987	35	246	138	H°ng Long	Bäo ThÕch thß½ng nhân	Bäo thÕch	2	3
+988	35	246	151	Lång ºc T×			2	5
+989	35	252	63	Nam Häi ÐÕo Th¥n			1	5
+990	35	273	52	QuÏnh Châu Ðông B¡c Hi®u Úy		Thành th¸	2	2
+991	35	243	150	QuÏnh Châu Chinh Ðông Hi®u Úy		Thành th¸	2	2
+992	35	80	139	QuÏnh Châu Chinh Tây Hi®u Úy		Thành th¸	2	2
+993	35	110	110	C¥u lão th¤t			1	5
+994	35	260	195	Th¸ Huyªt NgÕc Ngß			1	5
+995	35	274	269	Du Du			2	5
+996	35	241	159	Nguyên TØ Khâm			2	5
+997	35	256	242	NhÕc Lão Tam			2	5
+998	35	280	215	Võ Cát	Thþ ðúc Nam Häi	Thß½ng nhân 	2	5
+999	77	15	24	MÕnh Bà			99	2
+1000	112	290	60	Bän ð°: Thánh Thú S½n		V§n chuy¬n	99	2
+1001	112	82	30	Qui Giai		V§n chuy¬n	2	2
+1002	112	85	38	Sa Châu Lãnh			2	2
+1003	112	130	86	Th¯			3	3
+1004	112	169	66	Ô Quy			3	3
+1005	112	54	65	Yªn TØ			3	3
+1006	112	139	111	Nhím			3	4
+1007	112	234	57	Tu¤t			3	4
+1008	112	203	69	H¥u TØ			3	4
+1009	112	115	122	Hoán Hùng			3	5
+1010	112	200	162	Lang			3	5
+1011	112	175	128	Tùng ThØ			3	5
+1012	112	153	157	Anh Vû			3	5
+1013	112	228	166	Bi¬n BÑc			3	6
+1014	112	59	151	Ðß¶ng Lang			3	6
+1015	112	68	121	NgÕc Ngß			3	6
+1016	112	101	155	Tích D¸ch			3	6
+1017	112	62	256	Hoan			4	7
+1018	112	96	254	H±			4	7
+1019	112	61	218	Miêu Ð¥u ¿ng			4	7
+1020	112	127	254	Dã Trß			4	7
+1021	112	250	236	Báo			4	8
+1022	112	192	232	Bång T¢m			4	8
+1023	112	181	268	Ðà Ði¬u			4	8
+1024	112	216	270	¿ng			4	8
+1025	112	216	223	B¡c Cñc Hùng			4	9
+1026	112	276	121	Tinh Tinh			4	9
+1027	112	285	149	Kiªm Xï H±			4	9
+1028	112	263	166	Kh±ng Tß¾c			4	9
+1029	112	247	98	Bác Mã			4	10
+1030	112	275	85	Kiªm Long			4	10
+1031	112	227	92	Tê Ngßu			4	10
+1032	166	18	16	Bän ð°: Bäo Tàng Ðµng (t¥ng 2)		V§n chuy¬n	99	2
+1033	166	234	238	Bän ð°: Ðôn Hoàng		V§n chuy¬n	99	2
+1034	166	157	91	ÐÕo Mµ Ti¬u T£c			1	5
+1035	166	236	230	H° ÐÑc Häi			2	5
+1036	166	34	230	Hµ Bäo Th¥n Thú			1	5
+1037	166	175	100	Tôn ÐÑc Long			2	5
+1038	166	241	236	Diêu Phu			2	5
+1039	169	20	10	Bän ð°: Bäo Tàng Ðµng (t¥ng 3)		V§n chuy¬n	99	2
+1040	169	233	236	Bän ð°: Bäo Tàng Ðµng (t¥ng 1)		V§n chuy¬n	99	2
+1041	169	42	198	Hµ Bäo Th¥n Thú			1	5
+1042	169	215	206	Sa MÕc Mã Phï			1	5
+1043	169	236	226	Diêu Công			2	5
+1044	229	58	226	Bän ð°: Liêu Tây		V§n chuy¬n	99	2
+1045	229	53	219	Chu Du		Kháng bång Y sinh	5	4
+1046	229	215	55	Bác LÕp			2	4
+1047	229	59	80	Ð§u Ð§u			2	4
+1048	229	172	25	Ninh Linh Ca			2	4
+1049	229	58	80	Viên Bình			2	4
+1050	229	83	37	Xí Nga Vß½ng			1	5
+1051	229	38	222	Tuyªt Nguyên Lang			1	5
+1052	229	50	148	Ngân Ngai Tuyªt Nhân			1	5
+1053	229	168	210	Tuyªt Nguyên Mãng Cái			1	5
+1054	229	142	110	Linh Xí Nga Trß·ng Thành			1	5
+1055	229	180	163	Thánh Xí Nga Trß·ng Thành			1	5
+1056	191	17	237	Bän ð°: Bäo Tàng Ðµng (t¥ng 2)		V§n chuy¬n	99	2
+1057	191	245	16	Bän ð°: Bäo Tàng Ðµng (t¥ng 4)		V§n chuy¬n	99	2
+1058	191	205	48	Hµ Bäo Th¥n Thú			1	5
+1059	191	97	150	Hµ Bäo Ð°ng Nhân			1	5
+1060	191	25	240	Diêu Bá			2	5
+1061	192	26	249	Bän ð°: Bäo Tàng Ðµng (t¥ng 3)		V§n chuy¬n	99	2
+1062	192	246	22	Bän ð°: Bäo Tàng Ðµng (t¥ng 5)		V§n chuy¬n	99	2
+1063	192	234	165	Hµ Bäo Th¥n Thú			1	5
+1064	192	74	206	T¥m Bäo Hào Ki®t			1	5
+1065	192	21	235	Diêu Tr÷ng			2	5
+1066	193	128	247	Bän ð°: Bäo Tàng Ðµng (t¥ng 4)		V§n chuy¬n	99	2
+1067	193	123	213	Ðµng Huy®t ThÕch Nhân			1	5
+1068	193	127	25	Mµc Dûng Bá			1	5
+1069	193	135	238	Diêu Thúc			2	5
+1070	194	43	31	Trß½ng Chính Quý		Thân Oan	2	2
+1071	199	23	228	Bän ð°: NhÕn B¡c		V§n chuy¬n	99	2
+1072	199	135	30	Ðä Thäo C¯c Liêu Binh			1	5
+1073	199	207	215	H°ng Phong Hùng			1	5
+1074	199	221	149	H°ng Phong Tri Thù			1	5
+1075	199	48	25	Liêu Binh			1	5
+1076	199	44	218	T¥n Gia TrÕi Hµ V®			1	5
+1077	199	101	218	T¥n Gia TrÕi Giáo Ð¥u			1	5
+1078	199	162	219	T¥n Gia TrÕi Th± Phï			1	5
+1079	200	89	242	Bän ð°: Mai Lînh		V§n chuy¬n	99	2
+1080	200	84	169	H°ng Bào Tri Thù			1	5
+1081	200	185	43	Lßu Kh¤u			1	5
+1082	200	85	122	B¢ng Dân			1	5
+1083	200	121	15	S½n Vi®t Hµ Pháp			1	5
+1084	200	29	100	S½n Vi®t Tß Tª			1	5
+1085	201	235	230	Bän ð°: Huy«n Vû Ðäo		V§n chuy¬n	99	2
+1086	201	221	150	Bác Mã			4	5
+1087	201	30	48	ÐÕi ThØ			4	5
+1088	201	187	98	Kiªm Long			4	5
+1089	201	161	166	Tê Ngßu			4	5
+1090	201	71	207	Ti¬u Tßþng			4	5
+1091	201	190	230	Tuyªt Ðiêu			4	5
+1092	202	69	104	Bän ð°: NhÕn B¡c		V§n chuy¬n	99	2
+1093	202	29	68	Bän ð°: C± Mµ (t¥ng 2)		V§n chuy¬n	99	2
+1094	202	62	88	Yªn Bi®t Thu	Ðßa ðªn Yªn Vß½ng C± Mµ	NV	2	5
+1095	202	107	94	QuÖ Kiªm			1	5
+1096	202	65	34	Mê Änh Y¬n Sß			1	5
+1097	202	74	90	Thâu Li®p Giä			1	5
+1098	203	106	18	Bän ð°: C± Mµ (t¥ng 3)		V§n chuy¬n	99	2
+1099	203	87	93	Bän ð°: C± Mµ mµt		V§n chuy¬n	99	2
+1100	203	45	87	ThÕch Nhân			1	5
+1101	203	45	87	Thø Nhân			1	5
+1102	203	101	35	Nham Ma			1	5
+1103	204	7	24	Bän ð°: C± Mµ (t¥ng 2)		V§n chuy¬n	99	2
+1104	204	110	114	Bän ð°: C± Mµ (t¥ng 4)		V§n chuy¬n	99	2
+1105	204	105	104	Tri«n t½ tri chu vß½ng			1	5
+1106	204	103	65	Ðµc Ty Tri Thù Vß½ng			1	5
+1107	204	64	16	Huy®t Mµ Ðµc Phong			1	5
+1108	204	24	12	Huy®t Mµ Ðµc Thù			1	5
+1109	205	103	10	Bän ð°: C± Mµ (t¥ng 3)		V§n chuy¬n	99	2
+1110	205	63	52	Bän ð°: C± Mµ (t¥ng 5)		V§n chuy¬n	99	2
+1111	205	57	35	Xuân Th§p Tam Nß½ng			1	5
+1112	205	102	18	Khô Ban Ðµc Thù			1	5
+1113	205	66	112	H¤p Huyªt Biên Phúc			1	5
+1114	206	104	11	Bän ð°: C± Mµ (t¥ng 6)		V§n chuy¬n	99	2
+1115	206	20	19	Bän ð°: C± Mµ (t¥ng 4)		V§n chuy¬n	99	2
+1116	206	51	27	TuÖ Ðµc Thù			1	5
+1117	206	104	36	Phøc Ð¸a Ma			1	5
+1118	206	92	25	Quách Ð¬ Huy	Thß½ng nhân ði«u chª thu¯c	Ph¯i Phß½ng	2	3
+1119	206	51	27	Khô Tâu Binh			1	5
+1120	207	64	60	Bän ð°: C± Mµ (t¥ng 7)		V§n chuy¬n	99	2
+1121	207	64	116	Bän ð°: C± Mµ (t¥ng 5)		V§n chuy¬n	99	2
+1122	207	65	44	BÕch Ðª			1	5
+1123	207	64	64	BÕch Ðª Âm Änh			1	5
+1124	207	44	99	QuÖ H°n			1	5
+1125	207	76	99	U Linh			1	5
+1126	208	79	20	Bän ð°: C± Mµ (t¥ng 8)		V§n chuy¬n	99	2
+1127	208	28	115	Bän ð°: C± Mµ (t¥ng 6)		V§n chuy¬n	99	2
+1128	208	102	84	Minh Tß¾ng			1	5
+1129	208	72	29	TØ Vong T¥n Phi			1	5
+1130	208	18	81	Vong Linh Khäi Giáp Võ Sî			1	5
+1131	209	38	31	Bän ð°: C± Mµ (t¥ng 9)		V§n chuy¬n	99	2
+1132	209	10	13	Bän ð°: C± Mµ (t¥ng 7)		V§n chuy¬n	99	2
+1133	209	27	38	Höa Thuçn Nê			1	5
+1134	209	25	37	Nê Tß½ng Võ Sî			1	5
+1135	209	92	16	Huyªt †m Cu°ng Ðao			1	5
+1136	210	14	15	Bän ð°: C± Mµ (t¥ng 8)		V§n chuy¬n	99	2
+1137	210	94	116	Bác Mã			1	5
+1138	210	64	77	Xích Tiêu			1	5
+1139	210	58	78	Xích tiêu hoä h°n			1	5
+1140	210	33	30	Dung Nham ThÕch Nhân			1	5
+1141	211	24	224	Bän ð°: Tây H°		V§n chuy¬n	99	2
+1142	211	140	213	ÐoÕn Ki«u Hoa Yêu			1	5
+1143	211	22	206	Hoa Cäng Ðµc Phong			1	5
+1144	211	208	94	Lßu Kh¤u			1	5
+1145	211	49	98	Long Tïnh ThuÖ T£c			1	5
+1146	211	206	223	M§t Thám			1	5
+1147	211	142	235	ThuÖ QuÖ Thám TØ			1	5
+1148	212	15	15	Bän ð°: Long Tuy«n		V§n chuy¬n	99	2
+1149	212	130	238	Ám Sát Giä			1	5
+1150	212	195	149	ÐÕi Kiªm Sß			1	5
+1151	212	69	194	Hoang dã kiªm khách			1	5
+1152	212	19	39	Kiªm Xï Báo			1	5
+1153	212	118	36	Kiªm Linh			1	5
+1154	212	43	104	Kiªm Chüng Thích Khách			1	5
+1155	213	22	235	Bän ð°: NhÕn Nam		V§n chuy¬n	99	2
+1156	213	17	229	Ma Vân Thiên	Ðßa ðªn Ma Nhai Ðµng	NV	2	5
+1157	213	216	176	Công H°n Änh Tßþng			1	5
+1158	213	17	216	T¥n Gia TrÕi Ác Bá			1	5
+1159	213	114	140	T¥n Gia TrÕi Hµ V® SÑ			1	5
+1160	213	114	88	T¥n Gia TrÕi Thü Lînh			1	5
+1161	213	106	210	T¥n Gia TrÕi Th± Phï			1	5
+1162	213	57	226	T¥n Gia TrÕi V® Binh			1	5
+1163	214	21	36	Bän ð°: Thß½ng S½n		V§n chuy¬n	99	2
+1164	214	202	77	Lang Tµc Th¥n Hán			1	5
+1165	214	204	26	Lang Tµc Ð¥u Nhân			1	5
+1166	214	182	50	Lang Tµc Th± Ty			1	5
+1167	214	114	99	Lang Tµc Dûng Sî			1	5
+1168	214	32	72	Soa Y Dã Nhân			1	5
+1169	214	90	107	Tuyªt Lang			1	5
+1170	215	25	235	Bän ð°: Nhî Häi		V§n chuy¬n	99	2
+1171	215	84	161	Xích Cß¾c Dã Nhân			1	5
+1172	215	47	87	Phong Lang			1	5
+1173	215	42	216	Hoa Ban Báo			1	5
+1174	215	175	208	Lang Tµc Kinh SÑ			1	5
+1175	215	35	27	Lang Tµc Thám TØ			1	5
+1176	215	230	77	Lang Tµc Chiªn Sî			1	5
+1177	216	108	229	Bän ð°: Võ Di		V§n chuy¬n	99	2
+1178	216	196	207	BÕch Hoa Tri Thù			1	5
+1179	216	122	124	S½n Vi®t Hµ Pháp			1	5
+1180	216	119	98	S½n Vi®t Tß Tª			1	5
+1181	216	199	163	S½n Vi®t Chiªn Sî			1	5
+1182	216	107	216	Thâm C¯c BÕch Viên			1	5
+1183	216	113	95	Thø Giáp Tiêu Binh			1	5
+1184	217	230	236	Bän ð°: Thäo Nguyên		V§n chuy¬n	99	2
+1185	217	203	229	Thäo Nguyên Lang			1	5
+1186	217	25	218	Ðä Thäo C¯c T¯ng Binh			1	5
+1187	217	175	207	Mông C± H¡c Phong			1	5
+1188	217	138	178	Thi¬m Ði®n Mã Phï			1	5
+1189	217	120	83	Loan Ðao Mã Phï			1	5
+1190	217	170	36	Truy Phong Mã Phï			1	5
+1191	218	127	19	Bän ð°: Liêu Tây		V§n chuy¬n	99	2
+1192	218	207	128	ÐÕo Mµ Mã Phï			1	5
+1193	218	62	32	QuÖ Lang			1	5
+1194	218	33	27	H¡c ðµc phong			1	5
+1195	218	105	74	Hµ Mµ Mãng Cái			1	5
+1196	218	36	169	Khô Lâu			1	5
+1197	218	125	238	Nh¤t Ph¦m Ðß¶ng Thích Khách			1	5
+1198	219	237	18	Bän ð°: ThÕch Lâm		V§n chuy¬n	99	2
+1199	219	50	37	Hoa Cß½ng ThÕch Nhân			1	5
+1200	219	50	224	Hoa Cß½ng ThÕch Sß			1	5
+1201	219	22	68	Lang Thù			1	5
+1202	219	128	191	Hi®t Nham ThÕch Nhân			1	5
+1203	219	107	28	Tông Hùng			1	5
+1204	220	20	19	Bän ð°: Ng÷c Khê		V§n chuy¬n	99	2
+1205	220	43	24	Hoa Ban Báo			1	5
+1206	220	24	61	Mê Nhân Phong			1	5
+1207	220	229	175	Ðào Cån Tiên			1	5
+1208	220	123	63	Ðào hoa tiên			1	5
+1209	220	93	195	Ðào Thñc Tiên			1	5
+1210	220	208	220	Ðào Chi Tiên			1	5
+1211	221	42	228	Bän ð°: Nam Häi		V§n chuy¬n	99	2
+1212	221	193	104	NgÕc Ngß Bang Ðä Thü			1	5
+1213	221	48	72	NgÕc Ngß Bang T£c Ð°			1	5
+1214	221	27	177	Nam Häi NgÕc Ngß			1	5
+1215	221	218	160	Nam Häi Häi ÐÕo			1	5
+1216	221	155	155	ThÕch Lão Nhân			1	5
+1217	222	108	228	Bän ð°: Hoàng Long Phü		V§n chuy¬n	99	2
+1218	222	143	53	Ba Luân Mãng Cái			1	5
+1219	222	154	217	ÐÕi H¡c Hùng			1	5
+1220	222	29	180	Tuyªt S½n Lang			1	5
+1221	222	184	210	Tuyªt S½n Mãng Cái			1	5
+1222	222	30	63	Tr÷ng Giáp Mãng Cái			1	5
+1223	235	49	23	Bän ð°: ThÕch Lâm		V§n chuy¬n	99	2
+1224	235	231	169	Toàn cänh: Diêm Khanh		V§n chuy¬n	99	2
+1225	235	32	38	Ðinh Ba Lang			2	5
+1226	235	31	42	Lý Nhßþc Thüy			2	5
+1227	235	176	194	Vß½ng Tß Gia			2	5
+1228	235	48	34	Dß½ng Nguyên			2	5
+1229	235	51	42	Vû Vån Th¸			2	5
+1230	235	172	204	Tr¸nh Dß½ng			2	5
+1231	235	214	37	C± Lý Xích			1	5
+1232	235	62	102	Diêm H° NgÕc Ngß			1	5
+1233	235	97	35	Diêm H° Hùng			1	5
+1234	235	56	156	OÕt Diêm Kh± Công			1	5
+1235	235	150	125	OÕt Diêm Mµc Nhân			1	5
+1236	235	186	54	Y¬n Sß Giám Công			1	5
+1237	235	199	188	Y¬n Sß Thü V®			1	5
+1238	237	100	98	Toàn cänh: Diêm H°		V§n chuy¬n	99	2
+1239	237	80	85	Diêm H° Hùng			1	5
+1240	237	91	71	Diêm H° NgÕc Ngß			1	5
+1241	237	29	79	OÕt Diêm Kh± Công			1	5
+1242	237	64	55	OÕt Diêm Mµc Nhân			1	5
+1243	237	89	36	Y¬n Sß Giám Công			1	5
+1244	237	39	40	Y¬n Sß Thü V®			1	5
+1245	242	33	130	Bän ð°: Ðôn Hoàng		V§n chuy¬n	99	2
+1246	242	159	287	Bän ð°: Tung S½n		V§n chuy¬n	99	2
+1247	242	286	129	Bän ð°: NhÕn Nam		V§n chuy¬n	99	2
+1248	242	59	83	A TØ	Nhi®m vø k¸ch tình		7	5
+1249	242	160	134	Châu Thiên Sß	Ðào Lý Thiên HÕ 	NV	7	5
+1250	242	234	140	Ngô ThØ Nhân	Bát Phß½ng Lai Khách	NV	7	5
+1251	242	118	184	L§p Ph°n	HÕo Ng÷c Næ Hi®p	NV	7	5
+1252	242	252	62	B¯c H¯i KÏ		NV	7	5
+1253	242	113	75	Ba Thiên ThÕch			7	5
+1254	242	136	164	BÕch Manh Sinh	Dßþc ðiªm lão bän	Bán thu¯c	6	3
+1255	242	136	169	BÕch Dînh Minh	ÐÕi sß dßþc lý h÷c	 Dßþc lý 	5	4
+1256	242	133	164	BÕch Dînh Trung	Dßþc ðiªm lão bän	Bán thu¯c	6	3
+1257	242	253	111	Bäo Châu			7	5
+1258	242	122	74	B¡c Ði«u Trung Th¡ng			7	5
+1259	242	90	208	T¤t Thång			7	5
+1260	242	158	32	Sái Bi®n			7	5
+1261	242	125	97	Thái Bính Th¥n			7	5
+1262	242	126	96	Thái Kinh			7	5
+1263	242	144	68	Tr¥n Phu Chi	Danh xßng kªt bái	Kªt bái	5	4
+1264	242	238	152	Tr¥n Th÷ Ðình			7	5
+1265	242	83	149	Tr¥n tiên sinh	Ti«n Trang chß·ng qu¥y	Ti«n trang	5	4
+1266	242	172	90	Tr¥n Vînh Nhân	Lînh 2 l¥n kinh nghi®m	Lînh song	5	4
+1267	242	98	205	Trình An			7	5
+1268	242	88	205	Trình HÕo			7	5
+1269	242	85	208	Trình Di			7	5
+1270	242	83	155	ChØ tiên sinh	Ti«n Trang chß·ng qu¥y	Ti«n trang	5	4
+1271	242	220	200	Xuân Nhi			7	5
+1272	242	230	176	Ð½n Chính			7	5
+1273	242	177	176	Ð±ng Xß½ng	Ti¬u nh¸ cüa ti®m trang sÑc	Trang sÑc	6	3
+1274	242	158	181	Ðông Ðông	GØi bán vàng và nguyên bäo	GØi bán 	5	4
+1275	242	255	134	Ð§u Ngô Ð°ng	Giang h° du y	Khôi phøc	5	4
+1276	242	140	95	PhÕm Thu¥n Nhân	Quän lý bang hµi	Bang hµi	5	2
+1277	242	138	140	PhÕm Th¯ng	TØu ðiªm lão bän	Thñc ph¦m	6	3
+1278	242	142	113	PhÕm Di Thành	Di dân tiªp ðãi sÑ	Di dân 	5	4
+1279	242	209	152	Phong H° TØ	Sß phø vû khí trang b¸	Cß¶ng hóa	5	4
+1280	242	87	155	Phùng tiên sinh	Ti«n Trang chß·ng qu¥y	Ti«n trang	5	4
+1281	242	155	174	Phùng Ðào Thiªt	ÐÕi sß gia công nguyên li®u	Gia công	5	4
+1282	242	193	172	Phù Mçn Chi	ÐÕi sß may vá	C¡t may	5	4
+1283	242	84	116	Cái Thiên Minh			7	5
+1284	242	198	58	Cao C¥u			7	5
+1285	242	110	162	Cung Thái L®	Âm Kim Bäo Sß½ng sÑ giä	Ð±i	5	4
+1286	242	268	46	Quan Hán Th÷	Xóa nhân v§t	Xóa nhân v§t	5	4
+1287	242	162	237	Quan Th¡ng			7	5
+1288	242	175	64	Quách Thiên Tín			7	5
+1289	242	161	244	Hàn Ngân Di®p	Giang h° du y	Khôi phøc	5	4
+1290	242	248	129	Hà Linh Chi	Thþ nhuµm tóc	Nhuµm tóc	5	4
+1291	242	95	152	Hà Sinh Tài	Thß½ng nhân nguyên li®u	NL	6	3
+1292	242	255	106	Hà Sinh Phú	Thß½ng nhân nguyên li®u	NL	6	3
+1293	242	113	63	Hách Liên Thiªt Thø			7	5
+1294	242	46	61	Hoa Tiên			7	5
+1295	242	232	181	Hoài Bính			7	5
+1296	242	81	117	C± Uy Tín			7	5
+1297	242	179	177	Giä Tác Trân	Trang sÑc ðiªm chß·ng qu¥y	Trang sÑc	6	3
+1298	242	127	154	Khß½ng Lý	TØu ðiªm lão bän	Thñc ph¦m	6	3
+1299	242	207	184	Khß½ng Ngß	Hu¤n luy®n kÛ nång câu cá	 Câu cá 	5	4
+1300	242	205	172	Kim Løc Gia	Ti«n trang tiªp Ñng sÑ	Ti«n trang	5	2
+1301	242	109	73	Kim Tä Hoán			7	5
+1302	242	230	215	Khang Mçn			7	5
+1303	242	65	134	Kha Bách Nhân	Giang h° du y	Khôi phøc	5	4
+1304	242	265	44	Kh±ng Tông Uyên	Xóa bö v§t ph¦m nhi®m vø	Xóa v§t ph¦m	5	4
+1305	242	63	147	Lang phu nhân	Chu bäo thß½ng nhân	Bäo thÕch	6	3
+1306	242	256	139	Lôi Hoành			7	5
+1307	242	134	152	Lý ÐÕi ChuÖ	ÐÕi sß n¤u ån	 N¤u nß¾ng 	5	4
+1308	242	249	111	Lý ma ma			7	5
+1309	242	253	112	Lý Sß Sß			7	5
+1310	242	212	156	Lâm Kim Long	Ti¬u nh¸ cüa ti®m vû khí	Vû khí	6	3
+1311	242	157	35	Lßu Quang Thª			7	5
+1312	242	150	90	Lßu Ki®n Minh	Lînh 2 l¥n kinh nghi®m	Lînh song	5	4
+1313	242	219	262	Lßu Di®c Nông	ÐÕi sß tr°ng tr÷t	 Tr°ng tr÷t 	5	4
+1314	242	199	57	Li­u Phúc Sinh			7	5
+1315	242	100	170	Long Bá Thiên	Khôi phøc khí huyªt	Khôi phøc	5	4
+1316	242	60	146	Long Tam Thiªu	Sß phø kÛ nång công ngh®	 Công ngh® 	5	4
+1317	242	109	210	Lã Hu® Khanh			7	5
+1318	242	112	64	N² Nhi Häi			7	5
+1319	242	174	33	Bùi Tuyên			7	5
+1320	242	177	184	Bành Hoài Ng÷c	Bäo ThÕch công tßþng	Bäo thÕch	5	4
+1321	242	112	72	Phác Minh Thi®n			7	5
+1322	242	132	154	Tß¶ng V	ÐÕi sß dßÞng sinh h÷c	DßÞng sinh	5	4
+1323	242	230	156	Ki«u Phúc Th¸nh	CØu Châu thß½ng hµi lão bän	Thß½ng ðiªm	6	3
+1324	242	225	152	Ki«u Thanh Th¸nh			7	5
+1325	242	175	115	Ki«u Trí Quäng	LÕc Dß½ng thß½ng nhân	Bào thß½ng	6	3
+1326	242	136	185	Khâu Hành LÕc	Nhi®m vø ðßa thß	Ðßa thß	7	5
+1327	242	128	98	C¥u Hßng			7	5
+1328	242	254	146	Nhuª Phúc Tß¶ng	Chß·ng quÛ ti®m tÕp hóa	TÕp hóa	6	3
+1329	242	208	213	Thß ð°ng			7	5
+1330	242	207	212	Tß Mã Quang	Nhi®m vø anh hùng		7	5
+1331	242	162	34	Tô Triªt			7	5
+1332	242	180	213	Ðàm Công			7	5
+1333	242	179	212	Ðàm Bà			7	5
+1334	242	180	185	Ðào Ð¡c Bäo	Ti¬u nh¸ cüa ti®m qu¥n áo	Phøc sÑc	6	3
+1335	242	121	73	Ð¢ng Nguyên Tá Vi			7	5
+1336	242	136	180	Ði«n Kiêu Minh	Mua thú cßÞi tân thü	KÜ	6	3
+1337	242	159	181	Ðinh Ðinh	GØi bán vàng và nguyên bäo	GØi bán 	5	4
+1338	242	204	57	Ð°ng Quán	Giäi túc c¥u liêm phóng sÑ	Túc C¥u	5	2
+1339	242	230	129	Uông HÕn	CØu Châu thß½ng hµi v§n chuy¬n	V§n chuy¬n	5	1
+1340	242	213	160	Vß½ng ÐÑc Phúc	Ðúc kiªm sß phø	 ðúc khuôn 	5	4
+1341	242	210	154	Vß½ng ÐÑc Quý	ÐÕi ðß½ng gia cüa ti®m vû khí	Vû khí	6	3
+1342	242	271	88	Vß½ng Tích Tân	Ngß¶i tiªp dçn kÏ cuµc	KÏ cuµc	5	4
+1343	242	212	151	Tiªt Ð°ng ChuÏ	Sß phø kÛ nång khai khoáng	 Khai khoáng 	5	4
+1344	242	250	106	V® tiên sinh	Ti«n Trang chß·ng qu¥y	Ti«n trang	5	4
+1345	242	139	182	Ngô ÐÑc Xß½ng	Ông chü d¸ch trÕm	V§n chuy¬n	5	1
+1346	242	89	111	Ngû Ðinh	Thß½ng nhân d¸ch dung	D¸ch dung	6	3
+1347	242	120	63	Võ Ði«n Tín Xß½ng			7	5
+1348	242	177	94	HÖ Lai LÕc	Ngß¶i quän lý kªt hôn tu¥n du	Hôn Khánh	5	4
+1349	242	155	107	HÕ H¥u Nhân	Tung S½n phong thi«n ðài	CÕnh KÜ	5	2
+1350	242	262	53	Châu Nhiên	Ngß¶i d¸ch chuy¬n ðªn chiªn trß¶ng	Chinh Thäo	5	2
+1351	242	280	141	Thôi Vi	Ngß¶i khôi phøc biªn thân chiªn trß¶ng	Biªn thân	5	2
+1352	242	110	52	Tiêu Phøng Tiên			7	5
+1353	242	210	201	T× Kinh Lôi			7	5
+1354	242	120	169	Nghiêm Bách Thäo	Hái dßþc ðÕi sß	 Hái dßþc 	5	4
+1355	242	252	130	Nhan Nhß Ng÷c	Sß phø thay ð±i dung mÕo	Thay ð±i dung mÕo	5	4
+1356	242	112	202	Yªn Thanh	Ám Khí ÐÕi Sß	Ám Khí	5	4
+1357	242	250	129	Yªn Nhß Tuyªt	Quán phát sß phø	Quän lý ki¬u tóc	5	4
+1358	242	107	203	Dß½ng Th¶i			7	5
+1359	242	79	152	Dß½ng Hy Bình			7	5
+1360	242	234	69	Dß½ng Tranh			7	5
+1361	242	118	62	Gia Lu§t ÐÕi ThÕch			7	5
+1362	242	77	54	Nghi®p Phàn			7	5
+1363	242	75	70	Nghi®p Không			7	5
+1364	242	106	200	Du Tác			7	5
+1365	242	57	82	Du Thän Chi			7	5
+1366	242	160	101	Vu CØu Liên	Tung S½n phong thi«n ðài	CÕnh KÜ	5	4
+1367	242	47	62	Nguy®t Lão	Ðång kí kªt hôn	Kªt bái phu thê	5	4
+1368	242	182	155	Vân Hàm Nhi	Ngß¶i v§n chuy¬n Huy«n Vû Ðäo	Huy«n vû	5	2
+1369	242	182	157	Vân Diêu Diêu	Phß¶ng chü Trùng Ði¬u phß¶ng	Thú	6	3
+1370	242	172	141	Vân Thanh Thanh	Trân thú døng ph¦m thß½ng nhân	Thú	6	3
+1371	242	67	126	Trß½ng Bá Trí			7	5
+1372	242	200	61	Trß½ng Tu¤n			7	5
+1373	242	137	164	Trß½ng Minh Cänh	ÐÕi sß chª duþc	 Chª dßþc 	5	4
+1374	242	200	103	Chß½ng Ðôn	Ð±i danh xßng Bình T£c	Bình t£c	5	4
+1375	242	150	114	Tri®u Bán ThuÖ	Chß½ng trình l­ hµi ðêm xuân	Ðêm xuân	5	4
+1376	242	228	175	Tri®u Minh Thành	LÕc Dß½ng Tào v§n sÑ	V§n chuy¬n	5	4
+1377	242	86	89	Tri®u Ti«n Tôn			7	5
+1378	242	182	183	Chân Duy Tß	Phòng sÑc ðiªm lão bän	Phøc sÑc	6	3
+1379	242	77	72	Trí Quang ÐÕi Sß			7	5
+1380	242	79	52	Trí Thanh ÐÕi Sß			7	5
+1381	242	245	96	Châu Bang NgÕn			7	5
+1382	242	63	131	Chu Ð°ng			7	5
+1383	242	194	180	Gia Cát Kh±ng Minh			7	5
+1384	242	112	51	Tông Ca Ban			7	5
+1385	242	120	54	Tông Ca ÐÕt			7	5
+1386	242	177	102	Khâu Bích Ð£c	Ái Th¥n	Ái Th¥n	7	5
+1387	242	121	55	Tông Tán			7	5
+1388	242	120	196	Xa Truy«n Nghîa	Ông chü d¸ch trÕm	V§n chuy¬n	5	1
+1389	242	220	170	Trß½ng Hàng Long	Ðiêu Vån ÐÕi Sß	Ðiêu Vån	5	3
+1390	244	20	237	D¸ch chuy¬n: Cao Xß½ng		V§n chuy¬n	99	2
+1391	244	26	103	D¸ch chuy¬n: Höa Di®m C¯c		V§n chuy¬n	99	2
+1392	244	223	24	Cáp Ð° Tß	Ðôn Hoàng	V§n chuy¬n	2	2
+1393	244	100	86	BÕch Ánh Trung	Dßþc ðiªm lão bän	Ti®m thu¯c	2	5
+1394	244	228	39	NgÕn Thª Quân	Hoä kháng y sinh	Kháng Höa	2	5
+1395	244	107	102	A Kh¡c			2	5
+1396	244	106	101	Ðan Ni			2	5
+1397	244	38	129	Hoà Trác			2	5
+1398	244	144	140	LÕc Tß			2	5
+1399	244	166	110	MÕch Nhã			2	5
+1400	244	63	117	Khâu ThuÖ			2	5
+1401	244	163	102	Ngßu Ngäi Nhî			2	5
+1402	244	228	41	T¯ng Chi V¤n			2	5
+1403	244	212	108	B¡c Phß½ng ÐÕo T£c			1	5
+1404	244	221	209	B¡c Phß½ng Cß¶ng ÐÕo			1	5
+1405	244	223	69	Hoang Nguyên Yªt			1	5
+1406	244	86	215	Thiªt Dñc Ngßu			1	5
+1407	244	69	51	Ð° B¯	Ð¥u Lînh Mã Phï		1	5
+1408	244	38	53	Tây Vñc Mã Phï			1	5
+1409	244	122	172	Dñc Ngßu			1	5
+1410	245	229	221	D¸ch chuy¬n: Höa Di®m S½n		V§n chuy¬n	99	2
+1411	245	72	144	D¸ch chuy¬n: Mê Cung		V§n chuy¬n	99	2
+1412	245	22	37	Chuy¬n d¸ch: Lâu Lan		V§n chuy¬n	99	2
+1413	245	41	28	Trß½ng Uy			2	5
+1414	245	104	156	Ngäi MÕc Nhî			2	5
+1415	245	106	155	Ngäi Tô Nhî			2	5
+1416	245	37	50	Ba Tây M§t			2	5
+1417	245	104	155	M­ Thì Á			2	5
+1418	245	148	114	Bàng Ð£c Th¤m			2	5
+1419	245	51	38	Ki«u Thanh Phong			2	5
+1420	245	160	59	NhÕc Phi Änh			2	5
+1421	245	43	28	Trß½ng TrÕi			2	5
+1422	245	214	158	Phª Khß Khüng Yªt			1	5
+1423	245	181	54	Khô Tâu Binh			1	5
+1424	245	62	62	Tây Vñc Kiªp Phï			1	5
+1425	245	28	106	Tây Vñc Thiªt T£c			1	5
+1426	245	213	114	Tây Vñc Tát Mãn			1	5
+1427	245	28	214	Tây Vñc Vu Y			1	5
+1428	246	21	143	B¯i cänh: ÐÕi Uy¬n		V§n chuy¬n	99	2
+1429	246	298	142	B¯i cänh: Cao Xß½ng		V§n chuy¬n	99	2
+1430	246	160	307	B¯i cänh: Tháp Lý Mµc		V§n chuy¬n	99	2
+1431	246	22	44	A Ð« Ti®p	Nhi®m vø k¸ch tình		7	5
+1432	246	233	49	Ngäi Nhî Ð¸ch Kh¡c	Thß½ng nhân nguyên li®u	NL	6	3
+1433	246	285	130	Ngäi Ni Ngoã Nhî	Ông chü d¸ch trÕm	V§n chuy¬n	5	1
+1434	246	297	88	Xa Truy«n Bình	Ông chü d¸ch trÕm	V§n chuy¬n	5	1
+1435	246	217	230	An Thác Ao	Ti¬u nh¸ cüa ti®m vû khí	Vû khí	6	3
+1436	246	296	215	Bäo Tam Nß½ng	Nhi®m vø k¸ch tình	Nga My	7	5
+1437	246	295	238	Bän T×	Nhi®m vø k¸ch tình	Thiên Long	7	5
+1438	246	37	194	Ba Nhî	Dßþc ðiªm lão bän	Bán thu¯c	6	3
+1439	246	220	229	Trình Giäo Thiªt	Vû khí ðiªm lão bän	Vû khí	6	3
+1440	246	217	235	Châu Th§p Tam	Thþ sØa chæa trang b¸ cao c¤p	SØa chæa	5	4
+1441	246	25	143	Ð² B¤t Ð¢ng	Giang h° du y	Khôi phøc	5	4
+1442	246	162	285	Ð² Hoàng Ð¢ng	Giang h° du y	Khôi phøc	5	4
+1443	246	294	143	Ð² Thanh Ð¢ng	Giang h° du y	Khôi phøc	5	4
+1444	246	211	176	Cao Dß½ng	Ti®m rßþu Chß·ng Cñ	Thñc ph¦m	6	3
+1445	246	154	121	Cách L² Nhî	Lînh 2 l¥n kinh nghi®m	Lînh song	5	4
+1446	246	191	119	Cung Thái Ðình	SÑ giä hoÕt ðµng ph¥n thß·ng	HoÕt ðµng	5	4
+1447	246	34	131	C± Ly	Quán phát sß phø	Quän lý ki¬u tóc	5	4
+1448	246	291	49	Quan Sách	Nhi®m vø k¸ch tình	Tiêu Dao	7	5
+1449	246	292	222	H°ng Li­u	Nhi®m vø k¸ch tình	Thiên S½n	7	5
+1450	246	117	34	H°ng Li­u Muµi Muµi			7	5
+1451	246	301	22	Tu® Nguyên	Nhi®m vø k¸ch tình	Thiªu Lâm	7	5
+1452	246	30	131	Gia Lam	Thþ nhuµm tóc	Nhuµm tóc	5	4
+1453	246	213	118	Khang Tß Thän Ðinh	Ti«n trang lão bän	Ti«n trang	5	4
+1454	246	279	198	Kh¡c Lý Mµc	Bäo ThÕch công tßþng	Bäo thÕch	6	3
+1455	246	30	187	Lan Tß LÕc Ð£c	ÐÕi sß chª duþc	 Chª dßþc 	5	4
+1456	246	279	22	LÕc ÐÕt ÐÕo Nhân	Nhi®m vø k¸ch tình	Võ Ðang	7	5
+1457	246	46	60	Lý Chiêu U¤t	Nhi®m vø k¸ch tình		7	5
+1458	246	213	172	Mã Lan	ÐÕi sß n¤u ån	 N¤u nß¾ng 	5	4
+1459	246	219	119	H¥u bàn Mao	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+1460	246	218	240	MÕc Hoa Nhî Tri®t	ÐÕi Sß Ðúc Kiªm	 ðúc khuôn 	5	4
+1461	246	91	162	NÕp Nhî Tß Ðinh	ÐÕi sß mÛ ngh®	 Công ngh® 	5	4
+1462	246	51	53	Ni Nhßþc Mßu	Nhi®m vø k¸ch tình		7	5
+1463	246	28	22	MÕt Duy KÏ	Nhi®m vø k¸ch tình		7	5
+1464	246	219	122	Bàng Hoä Kª	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+1465	246	134	118	Ti«n Hoành Trø	Bång Phách Th¥n Châm	Bång Châm	7	3
+1466	246	47	23	Nhuª Na	Nhi®m vø k¸ch tình		7	5
+1467	246	61	129	Tát LÕp	TÕp hóa thß½ng nhân	TÕp hóa	6	3
+1468	246	283	131	Mã Kiêu Minh	LÕc Ðà thß½ng nhân	KÜ	6	3
+1469	246	193	224	Trình Thanh Sß½ng	Phiêu Mi¬u Phong chuy¬n v§n sÑ	V§n chuy¬n	5	1
+1470	246	187	225	SØ T¦u	Thß½ng nhân ði«u chª thu¯c	Ph¯i Phß½ng	6	3
+1471	246	190	224	Vu Bà	Thß½ng nhân ði«u chª thu¯c	Ph¯i Phß½ng	6	3
+1472	246	34	194	Sa Y Liên	ÐÕi sß hái thu¯c	 Hái dßþc 	5	4
+1473	246	203	33	Th¦m Thi«n Quyên	Cô gái bán hoa	Ti®m bán hoa	6	3
+1474	246	207	122	H¥u bàn T¯ng	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+1475	246	207	119	H¥u bàn Ðàm	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+1476	246	217	233	Ð°ng Kim ChuÏ	ÐÕi sß khai thác mö	 Khai khoáng 	5	4
+1477	246	262	33	Ô Minh Th¤m	Nhi®m vø k¸ch tình		7	5
+1478	246	300	49	HÑa Ti¬u Tßþng	Nhi®m vø k¸ch tình	Cái Bang	7	5
+1479	246	280	49	Dß½ng Nghi Trung	Nhi®m vø k¸ch tình	Tinh Túc	7	5
+1480	246	298	246	Gia Lu§t Ki®t Thi®u	Nhi®m vø k¸ch tình		7	5
+1481	246	90	92	Di®p Hàng	kÛ nång câu cá	 Câu cá 	5	4
+1482	246	32	131	Y Sa	Sß phø thay ð±i dung mÕo	Thay ð±i dung mÕo	5	4
+1483	246	250	184	Y Mµng	ÐÕi sß may vá	C¡t may	5	4
+1484	246	256	184	NhÕc Uy¬n Uy¬n	Ông chü ti®m phøc trang	Phøc sÑc	6	3
+1485	246	109	121	Vân H« H«	Phß¶ng chü Trùng Ði¬u phß¶ng	Thú	6	3
+1486	246	227	162	Trß½ng Thi«n Thi«n	Ông chü ti®m phøc sÑc	Trang sÑc	6	3
+1487	246	73	248	Trß½ng Di®c Canh	ÐÕi sß tr°ng tr÷t	 Tr°ng tr÷t 	5	4
+1488	246	21	30	Tri®u Møc	Nhi®m vø k¸ch tình		7	5
+1489	246	23	61	Châu Vån Nguyên	Nhi®m vø k¸ch tình	Minh Giáo	7	5
+1490	246	217	130	Chúc Tam Tß	Ðß½ng ph¯ tài li®u thß½ng nhân	NL	6	3
+1491	246	287	238	Tông Khách B¯	Nhi®m vø k¸ch tình		7	5
+1492	246	162	75	Kim CØu Linh	T¥m Bäo Hi®u Uý	T¥m bäo	5	3
+1493	246	295	68	Hà Duy®t	Lâu Lan Liên Hoàn phø bän	Liên hoàn	5	4
+1494	246	122	56	Lßu My	Lâu Lan Liên Hoàn phø bän	Liên hoàn	5	4
+1495	247	30	22	Chuy¬n d¸ch: Lâu Lan		V§n chuy¬n	99	2
+1496	247	236	222	Chuy¬n d¸ch: Côn Lôn S½n		V§n chuy¬n	99	2
+1497	247	104	215	Chuy¬n d¸ch: Tháp Kh¡c		V§n chuy¬n	99	2
+1498	247	28	26	Lan ÐÑc			2	2
+1499	247	20	31	A Nhî Kim			2	5
+1500	247	35	195	Lý Bách			2	5
+1501	247	30	43	La Sa			2	5
+1502	247	32	42	Ð« Na			2	5
+1503	247	40	31	Tây Á L²			2	5
+1504	247	30	198	Trß½ng B¢ng S½			2	5
+1505	247	18	179	Trác B¯i Nhî			2	5
+1506	247	115	38	Thñc Hü Ði¬u			1	5
+1507	247	121	98	Sa Tr¥n			1	5
+1508	247	77	128	Sa MÕc Dã Nhân			1	5
+1509	247	142	147	Sa MÕc Li®p C¦u			1	5
+1510	247	202	46	Sa MÕc Chiªn Sî			1	5
+1511	247	80	223	Sa MÕc Vu Sß			1	5
+1512	251	68	23	D¸ch chuy¬n: Höa Di®m S½n		V§n chuy¬n	99	2
+1513	251	39	94	B¡c Phß½ng ÐÕo T£c			1	5
+1514	251	50	82	B¡c Phß½ng Cß¶ng ÐÕo			1	5
+1515	251	82	81	Dñc Ngßu			1	5
+1516	251	89	78	Thiªt Dñc Ngßu			1	5
+1517	251	96	45	Hoang Nguyên Yªt			1	5
+1518	251	78	42	Tây Vñc Mã Phï			1	5
+1519	252	105	105	D¸ch chuy¬n: Cao Xß½ng		V§n chuy¬n	99	2
+1520	252	73	91	Phª Khß Khüng Yªt			1	5
+1521	252	35	59	Khô Tâu Binh			1	5
+1522	252	55	90	Tây Vñc Vu Y			1	5
+1523	252	50	46	Tây Vñc Tát Mãn			1	5
+1524	252	72	42	Tây Vñc Thiªt T£c			1	5
+1525	252	93	31	Tây Vñc Kiªp Phï			1	5
+1526	253	34	18	Chuy¬n d¸ch: Tháp Lý Mµc		V§n chuy¬n	99	2
+1527	253	101	32	Thñc Hü Ði¬u			1	5
+1528	253	26	104	Sa Tr¥n			1	5
+1529	253	39	48	Sa MÕc Dã Nhân			1	5
+1530	253	57	33	Sa MÕc Li®p C¦u			1	5
+1531	253	101	78	Sa MÕc Chiªn Sî			1	5
+1532	253	84	98	Sa MÕc Vu Sß			1	5
+1533	249	195	235	B¯i cänh: Lâu Lan		V§n chuy¬n	99	2
+1534	249	47	21	B¯i cänh: Tän Mã Nhî		V§n chuy¬n	99	2
+1535	249	20	210	B¯i cänh: Hãn Huyªt Lînh		V§n chuy¬n	99	2
+1536	249	124	215	Lâm T¢ng			2	5
+1537	249	154	210	Lan Sách An			2	5
+1538	249	232	128	Tô M§u			2	5
+1539	249	222	135	Trß½ng B¢ng Uy			2	5
+1540	249	123	58	Liêu Qu¯c Tát Mãn			1	5
+1541	249	212	73	Gia Lu§t Diên			1	5
+1542	249	170	186	Mã Trß¶ng Thü V®			1	5
+1543	249	184	132	Tu¥n Mã Sß			1	5
+1544	249	32	146	ÐÕi Uy¬n Mã			1	5
+1545	249	87	38	Liêu Qu¯c Chiªn Sî			1	5
+1546	255	96	87	B¯i cänh: ÐÕi Uy¬n		V§n chuy¬n	99	2
+1547	255	82	91	Liêu Qu¯c Chiªn Sî			1	5
+1548	255	82	56	Tu¥n Mã Sß			1	5
+1549	255	51	94	Liêu Qu¯c Tát Mãn			1	5
+1550	255	40	68	ÐÕi Uy¬n Mã			1	5
+1551	255	33	41	Mã Trß¶ng Thü V®			1	5
+1552	260	138	147	Ng÷c Long	NPC Nhi®m vø		7	5
+1553	260	138	153	Cáp Ba	Thß½ng nhân buôn bán ph¯i phß½ng	Ph¯i Phß½ng	6	3
+1554	260	202	211	T× Hà Khách	D¸ch trÕm: Ông chü d¸ch trÕm	V§n chuy¬n	99	2
+1555	260	65	167	Kim Sa	NPC Nhi®m vø		7	5
+1556	260	65	164	Thß½ng Lan	NPC Nhi®m vø		7	5
+1557	260	171	46	Hùng Kiªm	Ông chü ti®m Vû khí, Giám ð¸nh	Giám ð¸nh	5	4
+1558	260	171	40	Mã Lân	Ti¬u nh¸ cüa ti®m vû khí	Vû khí	6	3
+1559	260	89	165	Vû Vån Yªn	Sß phø kÛ nång khai khoáng	 Khai khoáng 	5	4
+1560	260	92	162	Ðß¶ng Minh	ÐÕi Sß Ðúc Kiªm	 ðúc khuôn 	5	4
+1561	260	200	258	Tr¥n Tø Tài	Ti«n trang lão bän	Ti«n trang	5	4
+1562	260	200	253	H¥u bàn Lßu	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+1563	260	200	263	H¥u bàn Løc	Ti«n trang ti¬u nh¸	Ti«n trang	5	4
+1564	260	200	248	Tr¥n M£c	Ðß½ng ph¯ tài li®u thß½ng nhân	NL	6	3
+1565	260	109	126	Vân Thiên Thiên	Phß¶ng chü Trùng Ði¬u phß¶ng	Thú	6	3
+1566	260	193	128	Bäo Dß	Ti®m rßþu Chß·ng Cñ	TØu ðiªm	6	5
+1567	260	192	144	Hác Sái	ÐÕi sß n¤u ån	 N¤u nß¾ng 	5	4
+1568	260	190	147	NguÜ Cänh	ÐÕi sß hái thu¯c	 Hái dßþc 	5	4
+1569	260	190	150	Tß½ng Minh Hiên	ÐÕi sß chª duþc	 Chª dßþc 	5	4
+1570	260	105	94	BÕch Thäo	Dßþc ðiªm lão bän	Ti®m thu¯c	6	3
+1571	260	89	129	Châu Bäo Quª	Ông chü ti®m phøc sÑc	Trang sÑc	6	3
+1572	260	81	124	Ban Ni Lµ	Ông chü ti®m phøc trang	Phøc Trang	6	3
+1573	260	134	85	Kinh Khäm Thñc	Bäo ThÕch công tßþng	Bäo thÕch	5	4
+1574	260	147	119	Cao Tiªu	Lînh song	Lînh song	5	4
+1575	260	124	185	H° Tùng L§p	Thß½ng nhân nguyên li®u	NL	6	3
+1576	260	158	117	Ôn Li­u	TÕp hóa thß½ng nhân	TÕp hóa	6	3
+1577	260	216	154	Tôn Phäng Trang	Hu¤n luy®n kÛ nång câu cá	 Câu cá 	5	4
+1578	260	76	125	Ki«u Th÷	ÐÕi sß may vá	 May m£c 	5	4
+1579	260	131	198	Cänh Cung D§t	Sß phø kÛ nång công ngh®	 Công ngh® 	5	4
+1580	260	282	278	Trß½ng Di®c Ði«n	Nông Nghi®p ÐÕi Sß	Nông Nghi®p	5	4
+1581	260	154	130	Vß½ng Tiêu	CÕnh KÛ Trß¶ng	CÕnh KÜ	5	4
+1582	260	25	288	Lý Minh Dß½ng	Chuy¬n d¸ch (chuy¬n d¸ch ðªn Thß½ng S½n)	V§n chuy¬n	99	2
+1583	260	168	301	Mµc TrÕch	Nhi®m vø k¸ch tình		7	5
+1584	260	172	300	Mµc Hoa	Nhi®m vø k¸ch tình		7	5
+1585	260	176	301	Mµc Duçn	Nhi®m vø k¸ch tình		7	5
+1586	260	161	220	Lµ Hæu	Nhi®m vø k¸ch tình		7	5
+1587	260	244	116	Trß½ng TrÕch C¯c	Nhi®m vø k¸ch tình		7	5
+1588	260	141	73	Dß Hoa Bình	Nhi®m vø k¸ch tình		7	5
+1589	260	102	158	Dß½ng H°ng Nhßþc	Nhi®m vø k¸ch tình		7	5
+1590	260	176	199	Lý Tiêu	Nhi®m vø k¸ch tình		7	5
+1591	260	176	201	Lý Dao	Nhi®m vø k¸ch tình		7	5
+1592	260	259	90	Tri®u Hân Lê	Nhi®m vø k¸ch tình		7	5
+1593	260	85	74	Trình Ti¬u Vân	Nhi®m vø k¸ch tình		7	5
+1594	260	86	73	Ti«n Ti¬u Giang	Nhi®m vø k¸ch tình		7	5
+1595	260	84	76	Ðinh Ti¬u Lâm	Nhi®m vø k¸ch tình		7	5
+1596	260	180	113	Khß½ng B°ng Thành	Nhi®m vø k¸ch tình		7	5
+1597	260	182	113	Vß½ng MÕc Hàn	Nhi®m vø k¸ch tình		7	5
+1598	260	242	153	Løc Li­u Ca Ca	Nhi®m vø k¸ch tình		7	5
+1599	260	150	152	Lý Dã	Chuy¬n ðªn Phøng Hoàng C± Thành	V§n chuy¬n	99	2
+1600	262	226	237	Bän ð°: Kiªm Các		V§n chuy¬n	99	2
+1601	262	25	40	B¯i cänh: Ð¸a Cung 2		V§n chuy¬n	99	2
+1602	262	173	112	Ki®m Ð¸nh	Giám ð¸nh	Giám ð¸nh	2	3
+1603	262	229	199	Cao Thång Thái	NPC Nhi®m vø		2	3
+1604	262	231	141	Tr¥n Trß¶ng Lão	NPC Nhi®m vø		2	3
+1605	262	204	153	Mµ Huy®t Giáp Trùng			1	5
+1606	262	160	142	ÐÕo mµ t£c 			1	5
+1607	262	109	179	Ð¸a Cung Công Tßþng			1	5
+1608	262	57	208	U C¤m Thü V®			1	5
+1609	263	235	225	B¯i cänh: Ð¸a Cung 1		V§n chuy¬n	99	2
+1610	263	96	164	B¯i cänh: Ð¸a Cung 3		V§n chuy¬n	99	2
+1611	263	211	218	Lý Ngang Th¥n	NPC Nhi®m vø		2	5
+1612	263	171	230	Hôi Bào Lão Giä	NPC Nhi®m vø		2	5
+1613	263	50	216	T¥n Hoàng Tinh Binh Dûng			1	5
+1614	263	55	129	C½ Quan ThÕch Nhân			1	5
+1615	263	37	78	Ð¸a Cung U Linh			1	5
+1616	263	168	155	U Linh Tª Tñ			1	5
+1617	264	237	216	B¯i cänh: Ð¸a Cung 2		V§n chuy¬n	99	2
+1618	264	213	182	T¥n Tß¾ng Hµ V®			1	5
+1619	264	41	87	T¥n Tß¾ng Th¸ V® 			1	5
+1620	264	219	94	C½ Quan Thü V®			1	5
+1621	264	130	84	T¥n Hoàng Chi Phách			1	5
+1622	182	96	110	Mµc Nhân Lâu La			1	5
+1623	182	96	80	Mµc Nhân Tinh Anh			1	5
+1624	182	40	98	Mµc Nhân võ sî			1	5
+1625	184	98	124	M§t Thám Tiên Phong			1	5
+1626	184	98	90	Thanh KÏ Thám Mã			1	5
+1627	184	98	72	Lam KÏ Thám Mã			1	5
+1628	183	92	140	Phøc C×u Ác H¥u			1	5
+1629	183	44	114	Cß¶ng Tráng Ác H¥u			1	5
+1630	183	92	110	Tinh Tráng Ác H¥u			1	5
+1631	185	86	170	Yêu D¸ Tâm Ma			1	5
+1632	185	76	130	Phá Sân Tâm Ma			1	5
+1633	185	46	58	Sát Døc Tâm Ma			1	5
+1634	188	142	102	Nga My BÕch My Ác Viên			1	5
+1635	188	96	86	Nga My Lþi Träo Ác Viên			1	5
+1636	188	38	46	Nga My Hung Nhu			1	5
+1637	189	96	126	Mµc Vß½ng Tri Thù			1	5
+1638	189	118	112	Thüy Vß½ng Tri Thù			1	5
+1639	189	96	86	Höa Vß½ng Tri Thù			1	5
+1640	186	96	120	Di®t Yêu Khôi L²i			1	5
+1641	186	96	90	Tru Tiên Khôi L²i			1	5
+1642	186	96	78	Thí Th¥n Khôi L²i			1	5
+1643	190	96	110	Thiên S½n Ti¬u Tuyªt Quái			1	5
+1644	190	96	86	Thiên S½n ÐÕi Tuyªt Quái			1	5
+1645	190	96	50	Thiên S½n Tuyªt Quái Vß½ng			1	5
+1646	187	52	72	Hü Th¬ Khôi L²i			1	5
+1647	187	120	140	Thñc Tâm Khôi L²i			1	5
+1648	187	146	58	Hóa Phách Khôi L²i			1	5
+1649	238	32	12	H° ti¬u tiên		V§n chuy¬n	2	1
+1650	238	32	45	La Thanh Vân	Lînh 2 l¥n kinh nghi®m	Lînh song	2	4
+1651	239	32	12	H° ti¬u tiên		V§n chuy¬n	2	1
+1652	239	32	45	La Thanh Vân	Lînh 2 l¥n kinh nghi®m	Lînh song	2	4
+1653	240	32	12	H° ti¬u tiên		V§n chuy¬n	2	1
+1654	240	32	45	La Thanh Vân	Lînh 2 l¥n kinh nghi®m	Lînh song	2	4
+1655	241	32	12	H° ti¬u tiên		V§n chuy¬n	2	1
+1656	241	32	45	La Thanh Vân	Lînh 2 l¥n kinh nghi®m	Lînh song	2	4
+1657	271	32	12	Kiªm Thao	Chuy¬n ðªn LÕc Dß½ng	V§n chuy¬n	2	2
+1658	164	88	40	Bän ð°: Tây H°		V§n chuy¬n	99	2
+1659	164	79	45	Lång Ch¤n	Oanh Thiên Lôi		2	3
+1660	164	271	175	Trào Ðoan L­			2	3
+1661	164	270	187	Chu Ðôn Nho			2	3
+1662	164	275	183	Lý Quang			2	3
+1663	164	277	187	Hoang Ðình Kiên			2	3
+1664	164	280	183	Tô ThÑc			2	3
+1665	164	279	182	Tri«u Vân			2	3
+1666	164	231	118	Ðào Yêu Yêu	Ðào Hoa Tr§n	Dàn tr§n	2	2
+1667	254	96	32	Trß¶ng cänh: Côn Lôn S½n		V§n chuy¬n	99	2
+1668	254	28	24	Tiên Lµc			1	3
+1669	254	61	44	Linh HÕc			1	3
+1670	254	82	82	Khai Minh Thú			1	3
+1671	254	59	102	Ti¬u ÐÕo Ð°ng			1	3
+1672	254	72	103	Thái Vân Tiên			1	3
+1673	254	39	76	Linh Kiªm Sî			1	3
+1674	248	109	15	B¯i cänh: Tháp Lý Mµc		V§n chuy¬n	99	2
+1675	248	21	231	Trß¶ng cänh: Phúc Ð¸a		V§n chuy¬n	99	2
+1676	248	82	31	Tiên Lµc			1	3
+1677	248	201	28	Linh HÕc			1	3
+1678	248	210	85	Khai Minh Thú			1	3
+1679	248	94	127	Ti¬u ÐÕo Ð°ng			1	3
+1680	248	133	195	Thái Vân Tiên			1	3
+1681	248	45	201	Linh Kiªm Sî			1	3
+1682	248	25	32	Khäi ÐÕt Nhî			2	3
+1683	248	162	163	Ng÷c Hß ÐÕo Trß·ng			2	3
+1684	248	121	20	Ng÷c Tiên TØ			2	3
+1685	248	34	23	C¦m s¡t			2	3
+1686	248	36	23	C¦m Nguyên			2	3
+1687	248	212	154	Thanh Tùng			2	3
+1688	248	230	153	Ngßu Lão Cån			2	3
+1689	248	222	158	Diêm Trung HÕ			2	3
+1690	273	82	80	Bän ð°: ÐÕi Lý		V§n chuy¬n	99	2
+1691	273	73	79	Phó Kiªp Sinh	T§n sÑc tr× ác	Tr× ác	5	2
+1692	274	82	80	Bän ð°: ÐÕi Lý		V§n chuy¬n	99	2
+1693	274	73	79	Phó Kiªp Sinh	T§n sÑc tr× ác	Tr× ác	5	2
+1694	275	82	80	Bän ð°: ÐÕi Lý		V§n chuy¬n	99	2
+1695	275	73	79	Phó Kiªp Sinh	T§n sÑc tr× ác	Tr× ác	5	2
+1696	276	82	80	Bän ð°: ÐÕi Lý		V§n chuy¬n	99	2
+1697	276	73	79	Phó Kiªp Sinh	T§n sÑc tr× ác	Tr× ác	5	2
+1698	277	82	80	Bän ð°: ÐÕi Lý		V§n chuy¬n	99	2
+1699	277	73	79	Phó Kiªp Sinh	T§n sÑc tr× ác	Tr× ác	5	2
+1700	278	82	80	Bän ð°: ÐÕi Lý		V§n chuy¬n	99	2
+1701	278	73	79	Phó Kiªp Sinh	T§n sÑc tr× ác	Tr× ác	5	2
+1702	279	82	80	Bän ð°: ÐÕi Lý		V§n chuy¬n	99	2
+1703	279	73	79	Phó Kiªp Sinh	T§n sÑc tr× ác	Tr× ác	5	2
+1704	280	67	40	Vß½ng ÐÕi Cung	Ngß¶i d¸ch chuy¬n CÑ Ði¬m 1	V§n chuy¬n	2	2
+1705	280	244	26	Tr¸nh Nh¸ HÖ	Ngß¶i d¸ch chuy¬n CÑ Ði¬m 2	V§n chuy¬n	2	2
+1706	280	280	61	Ngô Tam Phát	Ngß¶i d¸ch chuy¬n CÑ Ði¬m 3	V§n chuy¬n	2	2
+1707	280	297	252	Chu TÑ Tài	Ngß¶i d¸ch chuy¬n CÑ Ði¬m 4	V§n chuy¬n	2	2
+1708	280	255	296	Lý Vô H°ng	Ngß¶i d¸ch chuy¬n CÑ Ði¬m 5	V§n chuy¬n	2	2
+1709	280	67	286	Tôn Løc Bäo	Ngß¶i d¸ch chuy¬n CÑ Ði¬m 6	V§n chuy¬n	2	2
+1710	280	32	248	Ti«n Th¤t Nã	Ngß¶i d¸ch chuy¬n CÑ Ði¬m 7	V§n chuy¬n	2	2
+1711	280	35	53	Tri®u Bát Lai	Ngß¶i d¸ch chuy¬n CÑ Ði¬m 8	V§n chuy¬n	2	2
+1712	280	72	28	Viêm MÕc Hung	Y Sß CÑ Ði¬m 1	Khôi phøc	2	3
+1713	280	253	22	Viêm MÕc Kiêu	Y Sß CÑ Ði¬m 2	Khôi phøc	2	3
+1714	280	293	70	Viêm MÕc Não	Y Sß CÑ Ði¬m 3	Khôi phøc	2	3
+1715	280	291	259	Viêm MÕc Ki®t	Y Sß CÑ Ði¬m 4	Khôi phøc	2	3
+1716	280	259	287	Viêm Quan KÏ	Y Sß CÑ Ði¬m 5	Khôi phøc	2	3
+1717	280	65	297	Viêm H§u Nham	Y Sß CÑ Ði¬m 6	Khôi phøc	2	3
+1718	280	23	253	Viêm Nhi Trung	Y Sß CÑ Ði¬m 7	Khôi phøc	2	3
+1719	280	43	60	Viêm Trß·ng V®	Y Sß CÑ Ði¬m 8	Khôi phøc	2	3
+1720	280	62	31	Viên ÐÕi Gia	Thß½ng Nhân CÑ Ði¬m 1	Thß½ng nhân 	2	4
+1721	280	259	28	T« Nh¸ Gia	Thß½ng Nhân CÑ Ði¬m 2	Thß½ng nhân 	2	4
+1722	280	285	57	Ngøy Tam Gia	Thß½ng Nhân CÑ Ði¬m 3	Thß½ng nhân 	2	4
+1723	280	286	249	Lßu TÑ Gia	Thß½ng Nhân CÑ Ði¬m 4	Thß½ng nhân 	2	4
+1724	280	265	291	Châu Ngû Gia	Thß½ng Nhân CÑ Ði¬m 5	Thß½ng nhân 	2	4
+1725	280	57	290	Vß½ng Løc Gia	Thß½ng Nhân CÑ Ði¬m 6	Thß½ng nhân 	2	4
+1726	280	34	254	Ngô Th¤t Gia	Thß½ng Nhân CÑ Ði¬m 7	Thß½ng nhân 	2	4
+1727	280	26	60	Trß½ng Bát Gia	Thß½ng Nhân CÑ Ði¬m 8	Thß½ng nhân 	2	4
+1728	282	280	45	Bän ð°: Long Tuy«n		V§n chuy¬n	99	1
+1729	282	103	303	Bän ð°: Mai Lînh		V§n chuy¬n	99	1
+1730	282	283	293	Trß¶ng cänh: Thanh Nguyên Ðµng		V§n chuy¬n	99	1
+1731	282	251	63	C¯ Hoành T±		NV	2	2
+1732	282	146	39	Hoa Mai			2	2
+1733	282	151	60	Lßu Tra L­			2	2
+1734	282	137	43	Dß½ng An			2	3
+1735	282	189	41	Lý Lµ			2	2
+1736	282	248	146	Lý Côn			2	3
+1737	282	247	145	Hoa Th¦m			2	3
+1738	282	261	170	Hàn Sâm			2	3
+1739	282	260	169	BÕch Thiªt Lßu 			2	3
+1740	282	279	127	Nghênh Khách Mao T£c			1	5
+1741	282	17	274	C¦m Y Kh¤t Cái			1	5
+1742	282	150	260	Hoa TØu Hoà Thßþng			1	5
+1743	282	166	295	Ngøy Thiên			1	4
+1744	282	266	185	H¡c Viên			1	5
+1745	282	56	198	Cñ HÕt			1	5
+1746	282	170	231	Yêu Tà Tri Thù			1	5
+1747	282	232	232	Thi«m Th× Quái			1	5
+1748	283	42	228	Trß¶ng cänh: Thanh Nguyên		V§n chuy¬n	99	1
+1749	283	78	96	C¦m Y Kh¤t Cái			1	3
+1750	283	61	69	Hoa TØu Hoà Thßþng			1	3
+1751	283	199	69	Vån Võ TrÕng Nguyên			1	3
+1752	283	141	226	LÕi Thiên Ðäo	S½n T£c Vß½ng	S½n T£c Vß½ng	1	2
+1753	290	160	168	Bän ð°: Kính H°		V§n chuy¬n	99	2
+1754	290	27	137	Ð£ng VÕn Nh§n	Ngß¶i d¸ch chuy¬n Mµ Dung	V§n chuy¬n	5	2
+1755	290	159	163	Công Dã Khôn	Mµ Dung Thü V®	Phø bän	5	4
+1756	290	69	125	Mµ Dung Th¡ng	Ngß¶i giao nhi®m vø Mµ Dung	Sß môn	5	3
+1757	290	69	109	Mµ Dung ThuÏ	Ð±i v§t ph¦m danh xßng	Chß·ng môn	5	3
+1758	290	48	144	Mµ Dung Ki®t	Ngß¶i bái sß Mµ Dung	Bái sß	5	3
+1759	290	48	134	Mµ Dung Thanh S½n	Ngß¶i truy«n thø võ công Mµ Dung	Võ công	5	3
+1760	290	25	166	Phong Thiên Lý	Ngß¶i quän lý Linh Dß½ng	Linh Dß½ng	5	3
+1761	290	25	163	Phong Tiêu	Truy«n thø KÜ Thu§t	KÜ	5	3
+1762	290	127	30	Vß½ng T¸ch HÕo	Truy«n thø Ma L® Thu§t	Ma L®	5	3
+1763	290	132	31	Vß½ng Chi Lâm	Chï ðÕo kÛ nång Bói Toán	Bói Toán	5	3
+1764	290	30	127	Bao Nhßþc Hành	Ngß¶i dçn ðß¶ng Mµ Dung S½n Trang	Dçn ðß¶ng	5	3
+1765	290	45	23	Mµ Dung Tùy Phong	Ngß¶i truy«n thø khinh công Mµ Dung	Khinh công	5	3
+1766	290	67	107	A Ðình			99	5
+1767	290	71	107	A Ð°ng			99	5
+1768	290	63	34	Th± Phi«n SØ Quan			99	5
+1769	290	66	34	ÐÕi Li®u SØ Quan			99	5
+1770	290	69	34	Tây HÕ SØ Quan			99	5
+1771	290	154	93	Th§p Bát H÷c Sî.			99	5
+1772	290	78	142	TrÕng Nguyên H°ng			99	5
+1773	290	28	28	Hoa HÕc L®nh			99	5
+1774	290	119	36	H°ng Lµ Trân			99	5
+1775	284	25	31	B¯i cänh: Ð¸a Cung 3		V§n chuy¬n	99	2
+1776	284	45	35	C¤m V® Ðô Th¯ng	Chiªu L®nh Ban B¯ Nhi®m Vø	Chiªu L®nh	2	3
+1777	284	73	134	T¥n Lång Bi¬n BÑc			1	5
+1778	284	197	190	T¥n Lång Ngñ V®			1	5
+1779	284	76	202	T¥n Lång Táng Phi			1	5
+1780	284	64	202	Ðª H§u			1	5

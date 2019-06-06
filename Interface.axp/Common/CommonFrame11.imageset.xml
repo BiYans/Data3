@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+	<Imageset Name="CommonFrame11" Imagefile="Common/tga_CommonFrame11.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="false">
+    <Image Name="OtherInfoButton_Normal" XPos="0" YPos="0" Width="111" Height="26" />
+    <Image Name="OtherInfoButton_Hover" XPos="0" YPos="38" Width="111" Height="26" />
+    <Image Name="OtherInfoButton_Pushed" XPos="0" YPos="76" Width="111" Height="26" />
+
+    <Image Name="IMLine" XPos="0" YPos="139" Width="130" Height="10" />
+    <Image Name="IMLine_Mini" XPos="135" YPos="139" Width="98" Height="10" />
+    <Image Name="Union_Lace2_T_L" XPos="192" YPos="0" Width="30" Height="29" />
+    <Image Name="Union_Lace2_T_M" XPos="223" YPos="0" Width="1" Height="4" />
+    <Image Name="Union_Lace2_T_R" XPos="225" YPos="0" Width="31" Height="29" />
+    <Image Name="Union_Lace2_M_L" XPos="192" YPos="30" Width="5" Height="1" />
+    <Image Name="Union_Lace2_M_R" XPos="251" YPos="30" Width="5" Height="1" />
+    <Image Name="Union_Lace2_B_L" XPos="192" YPos="32" Width="30" Height="29" />
+    <Image Name="Union_Lace2_B_M" XPos="223" YPos="57" Width="1" Height="4" />
+    <Image Name="Union_Lace2_B_R" XPos="225" YPos="32" Width="31" Height="29" />
+    <Image Name="Union_Blood" XPos="0" YPos="124" Width="76" Height="7" />
+
+    <Image Name="Shang_Nor" XPos="0" YPos="236" Width="20" Height="20" />
+    <Image Name="Shang_Hov" XPos="20" YPos="236" Width="20" Height="20" />
+    <Image Name="Shang_Push" XPos="40" YPos="236" Width="20" Height="20" />
+    <Image Name="Shang_Dis" XPos="60" YPos="236" Width="20" Height="20" />
+    <Image Name="Shua_Nor" XPos="80" YPos="236" Width="20" Height="20" />
+    <Image Name="Shua_Hov" XPos="100" YPos="236" Width="20" Height="20" />
+    <Image Name="Shua_Push" XPos="120" YPos="236" Width="20" Height="20" />
+    <Image Name="Shua_Dis" XPos="140" YPos="236" Width="20" Height="20" />
+    <Image Name="Xuan_Nor" XPos="160" YPos="236" Width="20" Height="20" />
+    <Image Name="Xuan_Hov" XPos="180" YPos="236" Width="20" Height="20" />
+    <Image Name="Xuan_Push" XPos="200" YPos="236" Width="20" Height="20" />
+    <Image Name="Xuan_Dis" XPos="220" YPos="236" Width="20" Height="20" />
+
+    <Image Name="SongFlag_Nor" XPos="0" YPos="156" Width="37" Height="37" />
+    <Image Name="SongFlag_Hov" XPos="37" YPos="156" Width="37" Height="37" />
+    <Image Name="SongFlag_Push" XPos="74" YPos="156" Width="37" Height="37" />
+
+    <Image Name="LiaoFlag_Nor" XPos="111" YPos="156" Width="37" Height="37" />
+    <Image Name="LiaoFlag_Hov" XPos="148" YPos="156" Width="37" Height="37" />
+    <Image Name="LiaoFlag_Push" XPos="185" YPos="156" Width="37" Height="37" />
+
+    <Image Name="Ding_Normal" XPos="112" YPos="0" Width="40" Height="40" />
+    <Image Name="Ding_Song" XPos="112" YPos="40" Width="40" Height="40" />
+    <Image Name="Ding_Liao" XPos="112" YPos="80" Width="40" Height="40" />
+
+    <Image Name="Kill_1" XPos="155" YPos="0" Width="20" Height="20" />
+    <Image Name="Kill_3" XPos="155" YPos="20" Width="20" Height="20" />
+    <Image Name="Kill_5" XPos="155" YPos="40" Width="20" Height="20" />
+    <Image Name="Kill_10" XPos="155" YPos="60" Width="20" Height="20" />
+    <Image Name="Kill_X" XPos="155" YPos="80" Width="20" Height="20" />
+
+    <Image Name="TodayCampaignList_Title1_Left" XPos="0" YPos="198" Width="45" Height="30" />
+    <Image Name="TodayCampaignList_Title1_Mid" XPos="45" YPos="198" Width="10" Height="30" />
+    <Image Name="TodayCampaignList_Title1_Right" XPos="55" YPos="198" Width="45" Height="30" />   
+    <Image Name="TodayCampaignList_Title2_Left" XPos="100" YPos="198" Width="30" Height="20" />
+    <Image Name="TodayCampaignList_Title2_Mid" XPos="130" YPos="198" Width="40" Height="20" />
+    <Image Name="TodayCampaignList_Title2_Right" XPos="170" YPos="198" Width="30" Height="20" />
+    <Image Name="TodayCampaignList_Icons" XPos="200" YPos="198" Width="22" Height="20" />
+	</Imageset>

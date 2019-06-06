@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+	<Imageset Name="DunJiaShu5" Imagefile="Common/tga_DunJiaShu5.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="false">
+
+    <Image Name="DJS_Confirm_BKG_0_0" XPos="2" YPos="2" Width="250" Height="200" />
+    
+  </Imageset>

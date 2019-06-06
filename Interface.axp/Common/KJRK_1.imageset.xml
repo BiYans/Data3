@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<Imageset Name="KJRK_1" Imagefile="Common/tga_KJRK_1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+ 
+    <Image Name="KJRK_VIP1" XPos="3" YPos="7" Width="51" Height="61" />
+    <Image Name="KJRK_VIP2" XPos="62" YPos="7" Width="51" Height="61" />
+    <Image Name="KJRK_VIP3" XPos="121" YPos="7" Width="51" Height="61" />
+    <Image Name="KJRK_VIP4" XPos="180" YPos="7" Width="51" Height="61" />
+    <Image Name="KJRK_VIP5" XPos="239" YPos="7" Width="51" Height="61" />
+    <Image Name="KJRK_VIP6" XPos="298" YPos="7" Width="51" Height="61" />
+    <Image Name="KJRK_VIP7" XPos="357" YPos="7" Width="51" Height="61" />
+    <Image Name="KJRK_VIP8" XPos="416" YPos="7" Width="51" Height="61" />
+
+  <Image Name="KJRK_JCHD1" XPos="3" YPos="78" Width="51" Height="61" />
+  <Image Name="KJRK_JCHD2" XPos="62" YPos="78" Width="51" Height="61" />
+  <Image Name="KJRK_JCHD3" XPos="121" YPos="78" Width="51" Height="61" />
+  <Image Name="KJRK_JCHD4" XPos="180" YPos="78" Width="51" Height="61" />
+  <Image Name="KJRK_JCHD5" XPos="239" YPos="78" Width="51" Height="61" />
+  <Image Name="KJRK_JCHD6" XPos="298" YPos="78" Width="51" Height="61" />
+  <Image Name="KJRK_JCHD7" XPos="357" YPos="78" Width="51" Height="61" />
+  <Image Name="KJRK_JCHD8" XPos="416" YPos="78" Width="51" Height="61" />
+
+  <Image Name="KJRK_RHYLJ1" XPos="3" YPos="149" Width="51" Height="61" />
+  <Image Name="KJRK_RHYLJ2" XPos="62" YPos="149" Width="51" Height="61" />
+  <Image Name="KJRK_RHYLJ3" XPos="121" YPos="149" Width="51" Height="61" />
+  <Image Name="KJRK_RHYLJ4" XPos="180" YPos="149" Width="51" Height="61" />
+  <Image Name="KJRK_RHYLJ5" XPos="239" YPos="149" Width="51" Height="61" />
+  <Image Name="KJRK_RHYLJ6" XPos="298" YPos="149" Width="51" Height="61" />
+  <Image Name="KJRK_RHYLJ7" XPos="357" YPos="149" Width="51" Height="61" />
+  <Image Name="KJRK_RHYLJ8" XPos="416" YPos="149" Width="51" Height="61" />
+
+  <Image Name="KJRK_SJJL1" XPos="3" YPos="220" Width="51" Height="61" />
+  <Image Name="KJRK_SJJL2" XPos="62" YPos="220" Width="51" Height="61" />
+  <Image Name="KJRK_SJJL3" XPos="121" YPos="220" Width="51" Height="61" />
+  <Image Name="KJRK_SJJL4" XPos="180" YPos="220" Width="51" Height="61" />
+  <Image Name="KJRK_SJJL5" XPos="239" YPos="220" Width="51" Height="61" />
+  <Image Name="KJRK_SJJL6" XPos="298" YPos="220" Width="51" Height="61" />
+  <Image Name="KJRK_SJJL7" XPos="357" YPos="220" Width="51" Height="61" />
+  <Image Name="KJRK_SJJL8" XPos="416" YPos="220" Width="51" Height="61" />
+
+  <Image Name="KJRK_SCJL1" XPos="3" YPos="291" Width="51" Height="61" />
+  <Image Name="KJRK_SCJL2" XPos="62" YPos="291" Width="51" Height="61" />
+  <Image Name="KJRK_SCJL3" XPos="121" YPos="291" Width="51" Height="61" />
+  <Image Name="KJRK_SCJL4" XPos="180" YPos="291" Width="51" Height="61" />
+  <Image Name="KJRK_SCJL5" XPos="239" YPos="291" Width="51" Height="61" />
+  <Image Name="KJRK_SCJL6" XPos="298" YPos="291" Width="51" Height="61" />
+  <Image Name="KJRK_SCJL7" XPos="357" YPos="291" Width="51" Height="61" />
+  <Image Name="KJRK_SCJL8" XPos="416" YPos="291" Width="51" Height="61" />
+
+  <Image Name="KJRK_WLFYL1" XPos="3" YPos="362" Width="51" Height="61" />
+  <Image Name="KJRK_WLFYL2" XPos="62" YPos="362" Width="51" Height="61" />
+  <Image Name="KJRK_WLFYL3" XPos="121" YPos="362" Width="51" Height="61" />
+  <Image Name="KJRK_WLFYL4" XPos="180" YPos="362" Width="51" Height="61" />
+  <Image Name="KJRK_WLFYL5" XPos="239" YPos="362" Width="51" Height="61" />
+  <Image Name="KJRK_WLFYL6" XPos="298" YPos="362" Width="51" Height="61" />
+  <Image Name="KJRK_WLFYL7" XPos="357" YPos="362" Width="51" Height="61" />
+  <Image Name="KJRK_WLFYL8" XPos="416" YPos="362" Width="51" Height="61" />
+
+  <Image Name="KJRK_ZHYLJ1" XPos="3" YPos="433" Width="51" Height="61" />
+  <Image Name="KJRK_ZHYLJ2" XPos="62" YPos="433" Width="51" Height="61" />
+  <Image Name="KJRK_ZHYLJ3" XPos="121" YPos="433" Width="51" Height="61" />
+  <Image Name="KJRK_ZHYLJ4" XPos="180" YPos="433" Width="51" Height="61" />
+  <Image Name="KJRK_ZHYLJ5" XPos="239" YPos="433" Width="51" Height="61" />
+  <Image Name="KJRK_ZHYLJ6" XPos="298" YPos="433" Width="51" Height="61" />
+  <Image Name="KJRK_ZHYLJ7" XPos="357" YPos="433" Width="51" Height="61" />
+  <Image Name="KJRK_ZHYLJ8" XPos="416" YPos="433" Width="51" Height="61" />
+  
+  
+</Imageset> 

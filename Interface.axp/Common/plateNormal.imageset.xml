@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<Imageset Name="plateNormal" Imagefile="Common/tga_plateNormal.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+	<Image Name="plateNormal" XPos="0" YPos="0" Width="32" Height="32" />
+</Imageset>

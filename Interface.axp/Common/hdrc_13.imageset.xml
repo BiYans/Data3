@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+	<Imageset Name="hdrc_13" Imagefile="Common/tga_hdrc_13.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="false">
+    <Image Name="hdrc_13_TLyingxiongpu" XPos="0" YPos="0" Width="180" Height="100" />
+    <Image Name="hdrc_13_nixijiuli" XPos="180" YPos="0" Width="180" Height="100" />
+    <Image Name="hdrc_13_jincanxianli" XPos="0" YPos="100" Width="180" Height="100" />
+    <Image Name="hdrc_13_04" XPos="180" YPos="100" Width="180" Height="100" />
+    <Image Name="hdrc_13_05" XPos="0" YPos="200" Width="180" Height="100" />
+    <Image Name="hdrc_13_06" XPos="180" YPos="200" Width="180" Height="100" />
+    <Image Name="hdrc_13_07" XPos="0" YPos="300" Width="180" Height="100" />
+    <Image Name="hdrc_13_08" XPos="180" YPos="300" Width="180" Height="100" />
+    <Image Name="hdrc_13_09" XPos="0" YPos="400" Width="180" Height="100" />
+    <Image Name="hdrc_13_10" XPos="180" YPos="400" Width="180" Height="100" />
+
+
+  </Imageset>

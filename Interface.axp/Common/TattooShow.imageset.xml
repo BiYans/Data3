@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Imageset Name="TattooShow" Imagefile="Common/tga_TattooShow.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+	<Image Name="TattooShow_1" XPos="0" YPos="0" Width="18" Height="18" />
+	<Image Name="TattooShow_2" XPos="18" YPos="0" Width="18" Height="18" />
+	<Image Name="TattooShow_3" XPos="36" YPos="0" Width="18" Height="18" />
+	<Image Name="TattooShow_4" XPos="54" YPos="0" Width="18" Height="18" />
+	<Image Name="TattooShow_5" XPos="72" YPos="0" Width="18" Height="18" />
+	<Image Name="TattooShow_6" XPos="90" YPos="0" Width="18" Height="18" />
+	<Image Name="TattooShow_7" XPos="108" YPos="0" Width="18" Height="18" />
+	<Image Name="TattooShow_8" XPos="126" YPos="0" Width="18" Height="18" />
+	<Image Name="TattooShow_9" XPos="144" YPos="0" Width="18" Height="18" />
+	<Image Name="TattooShow_10" XPos="162" YPos="0" Width="18" Height="18" />
+	<Image Name="TattooShow_11" XPos="180" YPos="0" Width="18" Height="18" />
+	<Image Name="TattooShow_12" XPos="198" YPos="0" Width="18" Height="18" />
+</Imageset>

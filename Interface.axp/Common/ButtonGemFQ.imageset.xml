@@ -1,0 +1,13 @@
+<Imageset Name="ButtonGemFQ" Imagefile="Common/tga_ButtonGemFQ.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+
+    <Image Name="ButtonGemFQ1_Normal" XPos="1" YPos="0" Width="100" Height="29" />
+    <Image Name="ButtonGemFQ1_Hover" XPos="1" YPos="33" Width="100" Height="29" />
+    <Image Name="ButtonGemFQ1_Pushed" XPos="1" YPos="66" Width="100" Height="29" />
+    <Image Name="ButtonGemFQ1_Disabled" XPos="1" YPos="0" Width="100" Height="29" />
+    
+    <Image Name="ButtonGemFQ_Hover" XPos="0" YPos="100" Width="43" Height="21" />
+    <Image Name="ButtonGemFQ_Normal" XPos="0" YPos="121" Width="43" Height="21" />
+    <Image Name="ButtonGemFQ_Pushed" XPos="0" YPos="142" Width="43" Height="21" />
+    <Image Name="ButtonGemFQ_Disabled" XPos="0" YPos="163" Width="43" Height="21" />
+
+</Imageset>

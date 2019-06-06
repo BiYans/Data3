@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<Imageset Name="MainFrameLuo06" Imagefile="Common/tga_MainFrameLuo06.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="false">
+  <Image Name="CreateName" XPos="0" YPos="0" Width="207" Height="46" />
+  <Image Name="MenpaiInfo" XPos="0" YPos="47" Width="232" Height="123" />
+  <Image Name="Namebar" XPos="0" YPos="171" Width="180" Height="24" />
+  </Imageset>

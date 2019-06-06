@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<Imageset Name="UI_Common30" Imagefile="Common/tga_UI_Common30.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+    <Image Name="UI_Common30_A1" XPos="420" YPos="327" Width="65" Height="65" />
+    <Image Name="UI_Common30_B" XPos="290" YPos="392" Width="65" Height="65" />
+    <Image Name="UI_Common30_BeiJing" XPos="4" YPos="2" Width="448" Height="199" />
+    <Image Name="UI_Common30_C1" XPos="420" YPos="392" Width="65" Height="65" />
+    <Image Name="UI_Common30_D" XPos="355" YPos="327" Width="65" Height="65" />
+    <Image Name="UI_Common30_E" XPos="355" YPos="392" Width="65" Height="65" />
+    <Image Name="UI_Common30_Jia1" XPos="4" YPos="463" Width="40" Height="40" />
+    <Image Name="UI_Common30_Jia2" XPos="46" YPos="463" Width="40" Height="40" />
+    <Image Name="UI_Common30_Jia3" XPos="89" YPos="463" Width="40" Height="40" />
+    <Image Name="UI_Common30_Jia4" XPos="131" YPos="463" Width="40" Height="40" />
+    <Image Name="UI_Common30_Jia5" XPos="175" YPos="463" Width="40" Height="40" />
+    <Image Name="UI_Common30_Jian1" XPos="217" YPos="463" Width="40" Height="20" />
+    <Image Name="UI_Common30_Jian2" XPos="217" YPos="486" Width="40" Height="20" />
+    <Image Name="UI_Common30_Jian3" XPos="418" YPos="463" Width="40" Height="20" />
+    <Image Name="UI_Common30_Jian4" XPos="459" YPos="463" Width="40" Height="20" />
+    <Image Name="UI_Common30_Jian5" XPos="418" YPos="485" Width="40" Height="20" />
+    <Image Name="UI_Common30_Lun" XPos="304" YPos="206" Width="153" Height="116" />
+    <Image Name="UI_Common30_OnLeft" XPos="14" YPos="226" Width="270" Height="97" />
+    <Image Name="UI_Common30_OnRight" XPos="4" YPos="359" Width="273" Height="88" />
+    <Image Name="UI_Common30_RewardItem" XPos="262" YPos="494" Width="153" Height="15" />
+    <Image Name="UI_Common30_RewardJiBie" XPos="275" YPos="467" Width="118" Height="19" />
+    <Image Name="UI_Common30_S" XPos="290" YPos="327" Width="65" Height="65" />
+</Imageset>

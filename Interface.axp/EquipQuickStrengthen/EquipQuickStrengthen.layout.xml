@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<GUILayout>
+    <Window Type="TLBB_MainFrame1" Name="EquipQuickStrengthen_Frame">
+        <Property Name="UnifiedPosition" Value="{{0.5,-128},{0.5,-178}}" />
+        <Property Name="AbsoluteSize" Value="w:359 h:328" />
+        <Event Name="Hidden" Function="EquipQuickStrengthen_OnHiden();" />
+        <Window Type="TLBB_DragTitle" Name="EquipQuickStrengthen_DragTitle">
+            <Property Name="AbsolutePosition" Value="x:40.000000 y:4.000000" />
+            <Property Name="UnifiedSize" Value="{{1.000000,-80.000000},{0.000000,20.000000}" />
+            <Property Name="DragTarget" Value="EquipQuickStrengthen_Frame" />
+            <Window Type="TLBB_SimpleText" Name="EquipQuickStrengthen_Title">
+                <Property Name="Position" Value="x:0.0 y:0.0" />
+                <Property Name="Size" Value="w:1.0 h:1.0" />
+                <Property Name="Font" Value="YouYuan11.25" />
+                <Property Name="HorzFormatting" Value="HorzCentred" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="Text" Value="#{ZBQHJ_130508_6}" />
+            </Window>
+        </Window>
+        <Window Type="TLBB_ButtonHelp" Name="EquipQuickStrengthen_Help">
+            <Property Name="UnifiedPosition" Value="{{0.000000,25.000000},{0.000000,7.000000}" />
+            <Property Name="AbsoluteSize" Value="w:14.000000 h:14.000000" />
+            <Property Name="Text" Value="TLBB_ButtonHelp" />
+            <Event Name="Clicked" Function='Helper:GotoHelper(&quot;*EquipEnchange&quot;);' />
+        </Window>
+        <Window Type="TLBB_ButtonClose" Name="EquipQuickStrengthen_Close">
+            <Property Name="UnifiedPosition" Value="{{1.000000,-39.000000},{0.000000,7.000000}" />
+            <Property Name="AbsoluteSize" Value="w:14.000000 h:14.000000" />
+            <Property Name="Text" Value="TLBB_ButtonClose" />
+            <Event Name="Clicked" Function="this:Hide();" />
+        </Window>
+        <Window Type="DefaultWindow" Name="EquipQuickStrengthen_Frame_Client">
+            <Property Name="AbsolutePosition" Value="x:7.000000 y:30.000000" />
+            <Property Name="UnifiedSize" Value="{{1.000000,-14.000000},{1.000000,-39.000000}" />
+            <Property Name="RiseOnClick" Value="False" />
+            <Window Type="TLBB_SimpleMulitiTextFrame" Name="EquipQuickStrengthen_Info1">
+                <Property Name="Position" Value="x:0.0 y:0.0" />
+              <Property Name="UnifiedSize" Value="{{1.000000,0.000000},{0.000000,115.000000}" />
+                <Property Name="HorzFormatting" Value="WordWrapLeftAligned" />
+                <Property Name="RiseOnClick" Value="False" />
+                <Property Name="TextColor" Value="FFFFF263" />
+              <Property Name="Text" Value="#{ZBQHJ_130508_7}" />
+            </Window>
+            <Window Type="TLBB_SimpleText" Name="EquipQuickStrengthen_Info2">
+            <Property Name="UnifiedPosition" Value="{{0.000000,26.000000},{0.000000,135.000000}}"/>
+            <Property Name="UnifiedSize" Value="{{0.000000,160.000000},{0.000000,36.000000}" />
+            <Property Name="HorzFormatting" Value="WordWrapLeftAligned" />
+            <Property Name="RiseOnClick" Value="False" />
+            <Property Name="TextColor" Value="FFFFF263" />
+            <Property Name="Text" Value="#{ZBQHJ_130508_8}" />
+          </Window>
+          <Window Type="TLBB_SimpleText" Name="EquipQuickStrengthen_Info3">
+            <Property Name="UnifiedPosition" Value="{{0.000000,26.000000},{0.000000,195.000000}}"/>
+            <Property Name="UnifiedSize" Value="{{0.000000,160.000000},{0.000000,36.000000}" />
+            <Property Name="HorzFormatting" Value="WordWrapLeftAligned" />
+            <Property Name="RiseOnClick" Value="False" />
+            <Property Name="TextColor" Value="FFFFF263" />
+            <Property Name="Text" Value="#{ZBQHJ_130508_9}" />
+          </Window>
+            <Window Type="TLBB_ActionButton" Name="EquipQuickStrengthen_Object1">
+              <Property Name="UnifiedPosition" Value="{{0.000000,170.000000},{0.000000,135.000000}}"/>
+                <Property Name="AbsoluteSize" Value="w:36 h:36" />
+                <Property Name="Empty" Value="false" />
+                <Property Name="DragAcceptName" Value="I10" />
+                <Property Name="DraggingEnabled" Value="True" />
+                <Event Name="MouseRClick" Function="EquipQuickStrengthen_Object1_RClicked()" />
+            </Window>
+          <Window Type="TLBB_ActionButton" Name="EquipQuickStrengthen_Object2">
+            <Property Name="UnifiedPosition" Value="{{0.000000,170.000000},{0.000000,195.000000}}"/>
+            <Property Name="AbsoluteSize" Value="w:36 h:36" />
+            <Property Name="Text" Value="" />
+            <Property Name="DraggingEnabled" Value="True"/>
+            <Property Name="DragAcceptName" Value="I11"/>
+             <Event Name="MouseRClick" Function="EquipQuickStrengthen_Object2_RClicked()" />
+          </Window>
+            <Window Type="TLBB_Frame_Lace5" Name="EquipQuickStrengthen_Blank">
+                <Property Name="UnifiedPosition" Value="{{0.000000,2.000000},{1.000000,-20.000000}" />
+                <Property Name="UnifiedSize" Value="{{1.000000,-128.000000},{0.000000,20.000000}" />
+            </Window>
+            <Window Type="TLBB_ButtonCommon" Name="EquipQuickStrengthen_OK">
+       <Property Name="UnifiedPosition" Value="{{1.000000,-122.000000},{1.000000,-20.000000}}"/>
+		<Property Name="AbsoluteSize" Value="w:54.000000 h:20.000000"/>
+                <Property Name="Text" Value="#{ZBQHJ_130508_10}" />
+                <Event Name="Clicked" Function="EquipQuickStrengthen_Buttons_Clicked();" />
+            </Window>
+            <Window Type="TLBB_ButtonCommon" Name="EquipQuickStrengthen_Cancel">
+                <Property Name="UnifiedPosition" Value="{{1.000000,-65.000000},{1.000000,-20.000000}}"/>
+		<Property Name="AbsoluteSize" Value="w:65.000000 h:20.000000"/>
+                <Property Name="Text" Value="#{ZBQHJ_130508_11}" />
+                <Event Name="Clicked" Function="this:Hide();" />
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>

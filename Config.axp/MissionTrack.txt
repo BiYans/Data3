@@ -1,0 +1,247 @@
+INT	STRING
+INT	STRING
+805020	Ðßa 5 vàng cho ÐÕi T±ng Quän Bang Hµi.
+805026	Ðßa 5 vàng cho ÐÕi T±ng Quän Bang Hµi.
+600004	Di®t bö t¤t cä trµm c¡p n±i loÕn. 
+600007	Hoàn thành nhi®m vø cüa Châu Thª Hæu.
+600012	Hoàn thành nhi®m vø cüa C¦u Tä
+600013	Trä l¶i ðúng 1 câu ð¯i câu th½ c±. 
+600014	Di®t bö Ð¯ Quái trong Thß Các.
+600017	Hoàn thành nhi®m vø cüa Møc D¸ch.
+600019	Ðªn chþ dÕy cho b÷n lßu manh ác bá bài h÷c.
+600023	Hoàn thành nhi®m vø cüa Ð±ng Phù Dung.
+600025	Chï ði¬m · ðây t¤t cä ð® tØ cüa b±n bang. 
+600030	Hoàn thành nhi®m vø cüa Võ ÐÕi Uy.
+600031	SØ døng l®nh ði tu¥n, b¡t giæ ngß¶i khä nghi. 
+600035	Hoàn thành nhi®m vø cüa ÐÕi T±ng Quän Bang Hµi.
+600040	Hoàn thành nhi®m vø cüa ÐÕi T±ng Quän Bang Hµi.
+600037	Ðu±i ði ngß¶i sinh chuy®n gây sñ. 
+600045	T± ðµi thu th§p 3 thông tin thành bang phái khác nhau.
+600047	Thu th§p #YL¸ch ThÕch#W.
+600049	Thu th§p #YTh¤t Di®p Liên#W.
+600048	Thu th§p #YNhÕn Linh#W.
+805042	Bäo v® bang phái trú ð¸a, giªt t¤t cä quái v§t.
+210210	— #GÐÕi Lý#W tìm ðßþc #RTôn Bát Gia#W#{_INFOAIM173,146,2,Tôn Bát Gia}.
+210211	— #GÐÕi Lý#RThßþng Võ Ðài#W#{_INFOAIM82,220,2,-1} dùng Truy«n T¤n Di­m Höa.
+210212	Quay v« #GðÕi Lý#W tìm ðßþc #RTri®u Thiên Sß#W#{_INFOAIM160,157,2,Tri®u Thiên Sß}.
+210213	Ðªn #Gkiªm Các#W giªt 8 tên #RThøc ÐÕo BÕch Viên#W#{_INFOAIM65,252,7,-1}.
+210214	Ðªn #GÐÕi Lý#W tìm #RVân Phiêu Phiêu#W#{_INFOAIM265,129,2,Vân Phiêu Phiêu}.
+210215	Nâng c¤p #YTi¬u Th¯ TØ#W lên c¤p 2.
+210216	Quay v« #GÐÕi Lý#W tìm #RTri®u Thiên Sß#W#{_INFOAIM160,157,2,Tri®u Thiên Sß}.
+210217	Ðªn #GVô Lßþng S½n#W giªt 8 tên #RS½n Thù#W#{_INFOAIM128,192,6,-1}.
+210218	Ð¯i thoÕi v¾i #RVân Phiêu Phiêu#W#{_INFOAIM265,129,2,Vân Phiêu Phiêu}.
+210220	Ðªn #GÐÕi Lý#W tìm #RVân Phiêu Phiêu#W#{_INFOAIM265,129,2,Vân Phiêu Phiêu}.
+210221	Tìm #RHoàng My Tång#W#{_INFOAIM275,49,2,Hoàng My Tång}, vào h§u hoa viên, b¡t 1 #YTi¬u Áp TØ#W.
+210222	Giªt 5 tên #RMµc Nhân#W.
+210223	Quay v« #GÐÕi Lý#W tìm #RTri®u Thiên Sß#W#{_INFOAIM160,157,2,Tri®u Thiên Sß}.
+210224	Ð÷c #RB¯ Cáo Bài#W#{_INFOAIM148,40,2,-1}.
+210225	— #GÐÕi Lý#W tìm ðßþc #RÐoàn Diên Khánh#W#{_INFOAIM215,284,2,Ðoàn Diên Khánh}.
+210226	Ðßa #YBánh Bao#W cho #RTi¬u Kh¤t Cái#W#{_INFOAIM199,255,2,Ti¬u Kh¤t Cái}.
+210227	Ðßa #YB¯ Y#W cho #RTi¬u Kh¤t Cái#W#{_INFOAIM199,255,2,Ti¬u Kh¤t Cái}.
+210228	Ðßa #YKhoáng S×#W cho #RTi¬u Kh¤t Cái#W#{_INFOAIM199,255,2,Ti¬u Kh¤t Cái}.
+210229	Quay v« #GÐÕi Lý#W tìm #RTri®u Thiên Sß#W#{_INFOAIM160,157,2,Tri®u Thiên Sß}.
+210230	Ðªn #GÐÕi Lý#W tìm ðßþc #RHoàng My Tång#W#{_INFOAIM275,49,2,Hoàng My Tång}.
+210231	Tìm #RHoàng My Tång#W#{_INFOAIM275,49,2,Hoàng My Tång} vào Ti¬u Mµc Nhân HÕng, giªt 5 tên #RMµc Ð¥u Nhân#W.
+210232	Quay v« #GÐÕi Lý#W tìm #RTri®u Thiên Sß#W#{_INFOAIM160,157,2,Tri®u Thiên Sß}.
+210233	Tìm Nh¤t Ph¦m Nhu M­ và Nh¤t Ph¦m H°ng Ð§u, giao cho #RLý Công Bµ#W#{_INFOAIM160,128,2,Lý Công Bµ}.
+210234	Tìm Nh¤t Ph¦m Quª Viên và Nh¤t Ph¦m Hoa Sinh, giao cho #RLý Công Bµ#W#{_INFOAIM160,128,2,Lý Công Bµ}.
+210235	Tìm Nh¤t Ph¦m Ngân Nhî và Nh¤t Ph¦m Vu Ð¥u, giao cho #RLý Công Bµ#W#{_INFOAIM160,128,2,Lý Công Bµ}.
+210236	Tìm Nh¤t Ph¦m Liên TØ và Nh¤t Ph¦m H°ng Täo, giao cho #RLý Công Bµ#W#{_INFOAIM160,128,2,Lý Công Bµ}.
+210238	ÐÕt ðªn c¤p 10 tìm #RTri®u Thiên Sß#W#{_INFOAIM160,157,2,Tri®u Thiên Sß} nói chuy®n.
+210239	Gia nh§p 9 môn phái, tìm #RTri®u Thiên Sß#W#{_INFOAIM160,157,2,Tri®u Thiên Sß} nói chuy®n.
+210200	— #GÐÕi Lý#W tìm ðßþc #RB° Lß½ng#W#{_INFOAIM217,134,2,B° Lß½ng}.
+210201	L¤y #YNh¤t Tß½ng Trù Cø#W ðªn #GÐÕi Lý#W giao cho #RÐ² TØ Ð¢ng#W#{_INFOAIM110,159,2,Ð² TØ Ð¢ng}.
+210202	Làm 1 cái #YBánh Bao#W, giao cho #RÐ² TØ Ð¢ng#W#{_INFOAIM110,159,2,Ð² TØ Ð¢ng}.
+210203	— #GÐÕi Lý#W tìm ðßþc #RLß Tam Th¤t#W#{_INFOAIM103,132,2,Lß Tam Th¤t}.
+210204	Quay v« #GÐÕi Lý#W tìm #RTri®u Thiên Sß#W#{_INFOAIM160,157,2,Tri®u Thiên Sß}.
+210205	— #GÐÕi Lý#W tìm ðßþc #RTi«n Long#W#{_INFOAIM145,139,2,Ti«n Long}.
+210207	Liên tøc ðáp ðúng 5 câu höi cüa #RTi«n Long #W#{_INFOAIM145,139,2,Ti«n Long}.
+210208	Quay v« #GÐÕi Lý#W tìm #RTri®u Thiên Sß#W#{_INFOAIM160,157,2,Tri®u Thiên Sß}.
+210209	Tìm ngß¶i tiªn cØ 9 môn phái ð¬ h÷c kÛ nång.
+210250	Tìm ngß¶i tiªp dçn 9 môn phái h÷c 1 kÛ nång tân thü:#r    Thiên S½n Phái tìm #RTrình Thanh Sß½ng#W#{_INFOAIM163,139,2,Trình Thanh Sß½ng}#r    Tinh Túc Phái tìm #RHäi Phong TØ#W#{_INFOAIM163,136,2,Häi Phong TØ}#r    Minh Giáo tìm #RThÕch Bäo#W#{_INFOAIM163,143,2,ThÕch Bäo}#r    Cái Bang tìm #RGiän Ninh#W#{_INFOAIM156,136,2,Giän Ninh}#r    Võ Ðang Phái tìm #RTrß½ng HoÕch#W#{_INFOAIM156,129,2,Trß½ng HoÕch}#r    Nga My Phái tìm #RLµ Tam Nß½ng#W#{_INFOAIM156,139,2,Lµ Tam Nß½ng}#r    Thiªu Lâm Phái tìm #RTu® D¸ch#W#{_INFOAIM156,132,2,Tu® D¸ch}#r    Thiên Long Tñ tìm #RPhá Tham#W#{_INFOAIM163,132,2,Phá Tham}#r    Tiêu Dao Phái tìm #RÐÕm Ðài TØ Vû#W#{_INFOAIM163,129,2,ÐÕm Ðài TØ Vû}
+212116	Giªt t¤t cä lâu la trong chþ.
+212117	L¤y #Y5 vàng#W ðªn #GÐÕi Lý#W giao cho #RVß½ng Thi«u#W#{_INFOAIM217,255,2,Vß½ng Thi«u}.
+226900	— #GNga My S½n#W tìm ðßþc #RMÕnh Long#W#{_INFOAIM95,86,15,MÕnh Long}.
+226901	Giªt sÕch Nga My Ác Viên
+229024	Cùng v¾i ngß¶i có quan h® v¾i mình ði thåm dò 10 n½i th¥n bí.
+50010	Giªt cao thü ho£c ð¥u møc cüa Nh¤t Ph¦m Ðß¶ng.
+50009	Ðªn #GÐôn Hoàng#W tìm tß¾ng quân #RDß½ng Vån Quäng#W#{_INFOAIM252,144,8,Dß½ng Vån Quäng}.
+50019	— #GDÕ Tây H° ta#W#{_INFOAIM271,185,164,-1} phóng "#YQu¯c Khánh Vui Vë#W".
+50018	— #GDÕ Tây H° ta#W#{_INFOAIM271,185,164,-1}phóng "#YTrung Thu Vui Vë#W".
+50061	Mua hàng tªt.
+401000	Giªt toàn bµ KÏ TØ và Vi­n C± KÏ H°n.
+401010	Giªt toàn bµ quái v§t trong Mµc Nhân HÕng.
+401020	Giªt toàn bµ quái v§t trong Thüy Lao.
+221900	— #GCái Bang#W tìm ðßþc #RH°ng Thông#W#{_INFOAIM92,77,10,H°ng Thông}.
+221901	Giªt sÕch Thâu TØu H¥u TØ
+808038	Thu th§p #Y10#WGhi Danh Häo Hæu.
+808082	Ð¯t #G24#WKh±ng Minh Ðång.
+808080	Ð¯t #G24#WKh±ng Minh Ðång.
+808081	Ð¯t #G24#WKh±ng Minh Ðång.
+808034	Giªt t¤t cä quái v§t.
+808032	Giªt t¤t cä quái v§t.
+808031	Giªt t¤t cä quái v§t.
+808027	Giªt t¤t cä quái v§t.
+808029	Giªt t¤t cä quái v§t.
+808030	Giªt t¤t cä quái v§t.
+808033	Giªt t¤t cä quái v§t.
+808016	Giªt t¤t cä quái v§t.
+808028	Giªt t¤t cä quái v§t.
+500600	T± ðµi luy®n t§p.
+500610	Tiêu di®t #YH°ng Hùng Vß½ng#W, báo cho #RHoa Kiªm Vû#W#{_INFOAIM250,108,1, Hoa Kiªm Vû}#W.
+500604	Giªt 1 tên #GT£c Binh Ð¥u Møc#W ngoài thành.
+500611	Tiêu di®t #YCát Vinh#W. Tìm báo cho #RTi«n Hoành Vû#W#{_INFOAIM62,162,1, Ti«n Hoành Vû}#W.
+500618	Phø bän Thüy Lao, giªt 20 tên phÕm nhân.
+500607	Tham gia hoÕt ðµng "T§p Kích Môn Phái", giªt 1 tên Ác Bá.
+500609	Tiêu di®t #YDß Ðµc#W. Tìm báo cho #RTi«n Hoành Vû#W#{_INFOAIM62,162,1, Ti«n Hoành Vû}#W.
+500601	Tham gia hoÕt ðµng "KÏ Cuµc", giªt Vi­n C± KÏ H°n.
+500606	Ðªn #GLÕc Dß½ng#W tìm #RChu Thiên Sß#W#{_INFOAIM160,134,0, Chu Thiên Sß}.
+500602	ÐÕt c¤p 30 ðªn #GLÕc Dß½ng#W#{_INFOAIM160,134,0, Chu Thiên Sß}#W tìm #RChu Thiên Sß#W.
+500603	ÐÕt c¤p 32 ðªn#GLÕc Dß½ng#W#{_INFOAIM160,134,0, Chu Thiên Sß}#W tìm #RChu Thiên Sß#W.
+500605	ÐÕt c¤p 35 ðªn #GLÕc Dß½ng#W#{_INFOAIM160,134,0, Chu Thiên Sß}#W tìm #RChu Thiên Sß#W.
+500608	ÐÕt c¤p 38 ðªn #GLÕc Dß½ng#W#{_INFOAIM160,134,0, Chu Thiên Sß}#W tìm #RChu Thiên Sß#W.
+500612	ÐÕt c¤p 40 ðªn #GLÕc Dß½ng#W#{_INFOAIM160,134,0, Chu Thiên Sß}#W tìm #RChu Thiên Sß#W.
+500613	ÐÕt c¤p 42 ðªn #GLÕc Dß½ng#W#{_INFOAIM160,134,0, Chu Thiên Sß}#W tìm #RChu Thiên Sß#W.
+500614	ÐÕt c¤p 45 ðªn #GLÕc Dß½ng#W#{_INFOAIM160,134,0, Chu Thiên Sß}#W tìm #RChu Thiên Sß#W.
+500615	ÐÕt c¤p 48 ðªn #GLÕc Dß½ng#W#{_INFOAIM160,134,0, Chu Thiên Sß}#W tìm #RChu Thiên Sß#W.
+500616	ÐÕt c¤p 50 ðªn #GLÕc Dß½ng#W#{_INFOAIM160,134,0, Chu Thiên Sß}#W tìm #RChu Thiên Sß#W.
+200031	Tìm kiªm #GHoàng Thái Thúc Ngñ Trß¾ng#W, #GS· Vß½ng ÐÕi Doanh#W, #GThß½ng Mang S½n Ðông S½n ÐÕo#W, #GThß½ng Mang S½n Tây S½n ÐÕo#W.
+200032	L¤y #YLiêu Qu¯c Hoàng Ðª Thánh Chï#W giao cho #RGia Lu§t Dß Ð±#W#{_INFOAIM195,41,19,Gia Lu§t Dß Ð±}.
+200033	Tìm #RGia Lu§t MÕc Ca#W#{_INFOAIM128,50,18,Gia Lu§t MÕc Ca} vào #GThß½ng Mang S½n#W, tìm ðßþc #RGia Lu§t H°ng C½#W.
+200035	— #GThß½ng Mang S½n#W tìm ðßþc #RTiêu Phong#W[74,30].
+200036	Giªt #RGia Lu§t Niªt L² C±#W, · #GHoàng Thái Thúc Ngñ Trß¾ng#W g£p #RTiêu Phong#W.
+200038	Hµ t¯ng #GTiêu Phong#W.
+200080	— #GÐÕi Lý#W tìm ðßþc #RÐoàn Chính Thu¥n#W#{_INFOAIM63,36,2,Ðoàn Chính Thu¥n}.
+200081	Tìm #RHoa Hách C¤n#W#{_INFOAIM75,51,2,Hoa Hách C¤n} vào #GVÕn Kiªp C¯c#W, thåm dò tin tÑc cüa Ðoàn Dñ.
+200083	— #GTô Châu#W tìm ðßþc #RA Bích#W#{_INFOAIM128,74,1,A Bích}.
+200084	Tìm #RLão C¯#W#{_INFOAIM81,267,1,Lão C¯} vào #GYªn TØ ‘#W, tìm ðßþc #RVß½ng Ngæ Yên#W.
+200085	Tìm #RLão C¯#W#{_INFOAIM81,267,1,Lão C¯} vào #GYªn TØ ‘#W, tìm ðßþc #RVß½ng Ngæ Yên#W.
+200086	— #GLÕc Dß½ng#W tìm ðßþc #RT× Kinh Lôi#W#{_INFOAIM210,201,0,T× Kinh Lôi}.
+200087	— #GÐÕi Lý#W tìm ðßþc #RÐoàn Chính Thu¥n#W#{_INFOAIM63,36,2,Ðoàn Chính Thu¥n}.
+200088	Mang #Ythß cüa Ðoàn Chính Thu¥n#W ðßa ðªn #Gthành LÕc Dß½ng #RT× Kính Lôi #W#{_INFOAIM210,201,0,T× Kính Lôi}.
+200089	— #GThiªu Lâm Tñ#W tìm phß½ng trßþng #RHuy«n T×#W#{_INFOAIM38,98,9,Huy«n T×}.
+200090	Ðªn #GLÕc Dß½ng#W tìm #RT× Kinh Lôi#W#{_INFOAIM210,201,0,T× Kinh Lôi}.
+200091	— #GLÕc Dß½ng#W tìm ðßþc #RKhang Mçn#W#{_INFOAIM230,215,0,Khang Mçn}.
+200092	— #GÐÕi Lý#W tìm ðßþc #RÐoàn Chính Thu¥n#W#{_INFOAIM63,36,2,Ðoàn Chính Thu¥n}.
+200093	— #GThß½ng Mang S½n#W tìm ðßþc #RTiêu Phong#W[74,30].
+200094	— #GLång Ba Ðµng#W tìm ðßþc #RTô Tinh Hà#W#{_INFOAIM125,144,14,Tô Tinh Hà}.
+200095	— #GLÕc Dß½ng#W tìm ðßþc #RHách Liên Thiªt Thø#W#{_INFOAIM113,63,0,Hách Liên Thiªt Thø}.
+200096	— #GLinh ThÑu Cung#W tìm ðßþc #RMai Kiªm#W#{_INFOAIM91,44,17,Mai Kiªm}.
+200097	— #GLÕc Dß½ng#W tìm ðßþc #RN² Nhi Häi#W#{_INFOAIM112,65,0,N² Nhi Häi} vào #GNh¤t Ph¦m Ðß¶ng#W, tìm ðßþc #RThiên S½n Ð°ng Lão#W.
+200021	Chiªn th¡ng 3 ngß¶i #RBào Thiên Linh#W, #RKÏ Løc#W và #RHß¾ng V÷ng Häi#W.
+200022	Hµ t¯ng#R Ki«u Phong #Wvà#R A Châu #Wðªn #GTø Hi«n Trang #W
+200024	Bäo v® #RKi«u Phong#W r¶i khöi, sau ðó tìm ðßþc #RTiªt Mµ Hoa#W.
+200026	— #GLÕc Dß½ng#W tìm ðßþc #RKi«u Phong#W#{_INFOAIM275,134,0,Ki«u Phong}.
+200041	— #GLång Ba Ðµng#W tìm ðßþc #RPhÕm Bách Linh#W#{_INFOAIM152,153,14,PhÕm Bách Linh} vào #GLôi C± S½n#W.
+200042	Trong #GLôi C± S½n#W bäo v® sñ an toàn cüa#R Hß Trúc #W
+200043	Tìm ðßþc #RTô Tinh Hà#W#{_INFOAIM125,144,14,Tô Tinh Hà}, hþp chiªn v¾i Ðinh Xuân Thu..
+200045	Vào #GLôi C± S½n#W, chiªn th¡ng #RÐinh Xuân Thu#W, và g£p #RTô Tinh Hà#W.
+200002	Tìm ðßþc #RHoa Hách C¤n#W#{_INFOAIM75,51,2,Hoa Hách C¤n} vào #GVÕn Kiªp C¯c#W, tìm ðßþc #RÐoàn Chính Thu¥n#W.
+200003	Cùng #RChung Linh#W tìm ðßþc n½i t¯ng giam Ðoàn Dñ.
+200004	Tìm ðßþc #RÐoàn Chính Thu¥n#W#{_INFOAIM63,36,2,Ðoàn Chính Thu¥n}.
+200006	Chiªn th¡ng 3 tên ác nhân #RDi®p Nh¸ Nß½ng#W, #RNhÕc Lão Tam#W, #RVân Trung HÕc#W.
+200007	Cùng #RÐoàn Chính Thu¥n#W tìm ðßþc #RÐoÕn Chính Minh#W g¥n ThÕch c.
+200008	Chiªn th¡ng #RÐoàn Diên Khánh#W, ðÕt ðßþc #YThÕch c Thßþc Thi#W.
+200012	Chiªn th¡ng #RTß Mã Lâm#W và #RDiêu Bá Ðang#W.
+200013	Ðªn #GTô Châu#W ðßa thß cho #RMµ Dung Phúc#W#{_INFOAIM129,76,1,Mµ Dung Phúc}.
+200014	— #GTô Châu#W tìm ðßþc #RLão C¯#W#{_INFOAIM81,267,1,Lão C¯} vào #GYªn TØ ‘#W, và tìm ðßþc #RVß½ng Ngæ Yên#W.
+200015	Giªt t¤t cä #RTây HÕ Võ Sî#W và #RNh¤t Ph¦m Ðß¶ng Cao Thü#W.
+200016	ÐÕt ðßþc #YBi Tô Thanh Phong Giäi Dßþc#W, giäi ðµc cho #RVß½ng Ngæ Yên#W.
+200051	Bäo hµ #RThiên S½n Ð°ng Lão#W hoàn thành tu luy®n sau cùng.
+200052	— #GLÕc Dß½ng#W tìm ðßþc #RHách Liên Thiªt Thø#W#{_INFOAIM113,63,0,Hách Liên Thiªt Thø}.
+200053	— #GLÕc Dß½ng#W tìm ðßþc #RN² Nhi Häi#W#{_INFOAIM112,65,0,N² Nhi Häi} vào #GNh¤t Ph¦m Ðß¶ng#Wvà tìm ðßþc #RHi¬u Lôi#W.
+200055	— #GNh¤t Ph¦m Ðß¶ng#W tìm ðßþc #RHß Trúc#W.
+200056	Hµ t¯ng #RHß Trúc#W tìm ðßþc Mµng Cô #RNgân Xuyên Công Chúa#W.
+250036	Ðªn #GLÕc Dß½ng#W tìm #RHÖ Lai LÕc#W#{_INFOAIM177,94,0,HÖ Lai LÕc}.
+250037	Ðªn #GLÕc Dß½ng#W tìm #RHÖ Lai LÕc#W#{_INFOAIM177,94,0,HÖ Lai LÕc}.
+222900	— #GQuang Minh Ði®n#W tìm ðßþc #RLâm Nham#W#{_INFOAIM98,105,11,Lâm Nham}.
+222901	Giªt sÕch M§t Thám
+808096	Ðªn #GTây H°#W tìm ðßþc #RTô Phi#{_INFOAIM164,262,30,Tô Phi}#W, vào sân bóng r±.
+808100	Ðªn #GNh¸ Häi#W tìm ðßþc #RÐao Nghiêu#{_INFOAIM207,49,24,Ðao Nghiêu}#W, vào sân bóng chuy«n.
+808104	Ðªn #GNhÕn Nam#W tìm ðßþc #RChu Vô Úy#{_INFOAIM242,73,18,Chu Vô Úy}#W, vào sân bóng.
+808101	Chuy¬n Thánh Höa Höa Cñ ðªn #GLÕc Dß½ng#RYªn Thanh#{_INFOAIM112,202,0,Yªn Thanh}#W.
+808102	Ðªn LÕc Dß½ng tìm #RYªn Thanh#{_INFOAIM112,202,0,Yªn Thanh}#W ðáp ðúng liên tøc 5 câu höi.
+808095	Chuy¬n Thánh Höa Höa Cñ ðªn #GTây H°#RTô Phi#{_INFOAIM164,262,30,Tô Phi}#W.
+808097	Chuy¬n Thánh Höa Höa Cñ ðªn #GÐÕi Lý#RThân Tình#{_INFOAIM256,127,2,Thân Tình}#W.
+808103	Chuy¬n Thánh Höa Höa Cñ ðªn #GNhÕn Nam#RChu Vô Úy#{_INFOAIM242,73,18,Chu Vô Úy}#W.
+808099	Chuy¬n Thánh Höa Höa Cñ ðªn #GNh¸ Häi#RÐao Nghiêu#{_INFOAIM207,49,24,Ðao Nghiêu}#W.
+808105	Chuy¬n Thánh Höa Höa Cñ ðªn #GTô Châu#RThánh Höa Ðàn#{_INFOAIM91,84,1,Thánh Höa Ðàn}#W.
+808098	Ðªn #GÐÕi Lý#Rtìm Thân Tình#{_INFOAIM256,127,2,Thân Tình}#W liên tøc ðáp ðúng 5 câu höi.
+311004	Giªt 1 tên Phän Quân Thü Lînh, 13 tên Phän Quân Thü V®, 6 tên Phän Quân Môn V®.
+311005	Giªt 1 tên Phän Quân Thü Lînh, 13 tên Phän Quân Thü V®, 6 tên Phän Quân Môn V®.
+212121	#RTát Mã#W#{_INFOAIM155,205,25,Tát Mã} mu¯n các hÕ thåm dò #GLang Huy®t ÐÕi Doanh#W.
+212125	#RTiêu Tß¶ng#W#{_INFOAIM163,158,20,Tiêu Tß¶ng} ð¬ các hÕ giªt #Y30 tên#WLoan Ðao Mã Phï#{_INFOAIM273,156,20,-1}.
+212110	Tìm ðßþc #RHoàn Nhan Niêm Mµt Hát#W#{_INFOAIM147,120,22,Hoàn Nhan Niêm Mµt Hát}, #RHoàn Nhan Oát Ly B¤t#W#{_INFOAIM166,94,22,Hoàn Nhan Oát Ly B¤t}, #RHoàn Nhan Ngoa Lý Ðóa#W#{_INFOAIM178,113,22,Hoàn Nhan Ngoa Lý Ðóa}.
+212107	Giªt #RBÕch Lang Vß½ng#W#{_INFOAIM161,268,21,-1}, ðÕt ðßþc #YCan Lang Ph¤n.
+212108	Tìm ðßþc10 Hàn Thiªt Khoáng ThÕch, và 10 vàng, giao cho #RGia Lu§t Kim#W#{_INFOAIM170,206,21,Gia Lu§t Kim}.
+212112	Hãy mang #YDûng sî gia thß#W trao cho #RLý Lão Thái Thái#W · #G Nam Häi #W#{_INFOAIM214,243,34,Lý lão thái thái}. 
+212109	#RA Thanh#W#{_INFOAIM51,115,31,A Thanh} yêu c¥u các hÕ giªt #RThông Thiên#W#{_INFOAIM48,51,31,-1}.
+212113	#RNguy®t Quý#W#{_INFOAIM192,70,33,Nguy®t Quý} yêu c¥u các hÕ giªt #RNghiêm BÕch H±#W.
+212115	Hµ t¯ng #RA Vû#W#{_INFOAIM182,264,29,A Vû}Tìm ðßþc #RA Hµi Nam#W#{_INFOAIM92,266,29,A Hµi Nam}.
+212114	Mang #YHuyªt y#W t£ng cho #RDi®p Lßu Phàm#W · #GNam Häi Kiªm Phái #W#{_INFOAIM115,58,34,Lßu Di®p Phàm}. 
+212103	Nghe #RTr¸nh Huy«n#W#{_INFOAIM182,163,26,Tr¸nh Huy«n} nói v« chuy®n cüa ông ¤y.
+212104	L¤y #YA Chi Ð¥u Lô#W giao cho #RTr¸nh Huy«n#W#{_INFOAIM182,163,26,Tr¸nh Huy«n}.
+212100	Giªt #RMÕch Hæu Nhân#W#{_INFOAIM156,263,18,-1}, báo cho #RTô Phi#W#{_INFOAIM164,262,30,Tô Phi}.
+212102	#RL² Bình#W#{_INFOAIM271,49,19,L² Bình} yêu c¥u các hÕ chiªn th¡ng Ti¬u Phán.
+212111	Giªt #RNhi®t B¯ Ba LÕp#W#{_INFOAIM254,147,27,-1} #GNg÷c Khê#W.
+212128	— #GÐÕi Lý#W tìm ðßþc #RTh¦m Quát#W#{_INFOAIM222,103,2,Th¦m Quát}.
+212129	— #GLÕc Dß½ng#W tìm ðßþc #RTß Mã Quang#W#{_INFOAIM207,212,0,Tß Mã Quang}.
+212130	— #GTô Châu#W tìm ðßþc #RVß½ng An ThÕch#W#{_INFOAIM267,116,1,Vß½ng An ThÕch}.
+212131	— #GÐÕi Lý#W tìm ðßþc #RTh¦m Quát#W#{_INFOAIM222,103,2,Th¦m Quát}.
+212132	— #GLÕc Dß½ng#W tìm ðßþc #RTß Mã Quang#W#{_INFOAIM207,212,0,Tß Mã Quang}.
+212133	— #GTô Châu#W tìm ðßþc #RVß½ng An ThÕch#W#{_INFOAIM267,116,1,Vß½ng An ThÕch}.
+212134	— #GÐÕi Lý#W tìm ðßþc #RLý Công Bµ#W#{_INFOAIM160,128,2,Lý Công Bµ}.
+212119	Ðßa thß sám h¯i ðªn #GLong Tuy«n#W cho #RPháp Ni®m#W#{_INFOAIM207,63,31,Pháp Ni®m}.
+212124	Hµ t¯ng #RDß½ng Thiªt Tín#W tìm ðßþc #RTr¸nh Viên#W#{_INFOAIM183,167,26,Tr¸nh Viên}.
+212123	L¤y thß ðªn #G#W ðßa cho #RKhúc Dß½ng#W#{_INFOAIM194,52,32,Khúc Dß½ng}.
+212122	#RKhúc Ðoan#W#{_INFOAIM233,192,19,Khúc Ðoan} mu¯n các hÕ giªt #Y20 tên#WH°ng Phong Hùng#{_INFOAIM233,93,19,-1}.
+212120	L¤y thß ðªn #GNhÕn Nam#W ðßa cho #RGia Lu§t MÕc Ca#W#{_INFOAIM128,50,18,Gia Lu§t MÕc Ca}.
+212140	TÕi #Gthành ÐÕi Lý Tu Vån Ðài#W tìm #RVß½ng Thi«u #W#{_INFOAIM217,255,2,Vß½ng Thi«u}.
+212141	#RChüng Thª Hành#W#{_INFOAIM263,46,18,Chüng Thª Hành} yêu c¥u các hÕ giªt #Y20 tên#WT¥n Gia TrÕi BÕi Binh.
+212144	L¤y 5 vàng ðªn #GÐÕi Lý#W giao cho #RVß½ng Thi«u#W#{_INFOAIM217,255,2,Vß½ng Thi«u}.
+220900	— #GThiªu Lâm Tñ#W tìm ðßþc #RTu® Phß½ng#W#{_INFOAIM96,82,9,Tu® Phß½ng}.
+220901	Tiêu di®t hªt Thiªu Lâm Mµc Nhân. 
+224900	— #GThiên Long Tñ#W tìm ðßþc #RB±n Phàm#W#{_INFOAIM95,88,13,B±n Phàm}.
+224901	Tiêu di®t hªt Tr¤n Yêu Kh±i L²i. 
+228900	— #GLinh ThÑu Cung#W tìm ðßþc #RPhù Mçn Nghi#W#{_INFOAIM95,60,17,Phù Mçn Nghi}.
+228901	Tiêu di®t hªt Thiên S½n Tuyªt Quái
+228902	— #GÐÕi Lý#W tìm ðßþc #RVß½ng Thi«u#W#{_INFOAIM217,255,2,Vß½ng Thi«u}.
+228903	#RChüng Thª Hành#W#{_INFOAIM263,46,18,Chüng Thª Hành} yêu c¥u các hÕ giªt T¥n Bá Quang và 4 tên T¥n Gia TrÕi BÕi Binh.
+228904	L¤y 5 vàng ðªn #GÐÕi Lý#W giao cho #RVß½ng Thi«u#W#{_INFOAIM217,255,2,Vß½ng Thi«u}.
+223900	— #GVõ Ðang S½n#W tìm ðßþc #RTrß½ng Trung Hành#W#{_INFOAIM78,95,12,Trß½ng Trung Hành}.
+223901	Tiêu di®t hªt Yêu Nhiêu Tâm Ma
+225900	— #GLång Ba Ðµng#W tìm ðßþc #RT¥n Quan#W#{_INFOAIM119,152,14,T¥n Quan}.
+225901	Tiêu di®t hªt Hóa ThÕch Kh±i L²i. 
+227900	— #GTinh Túc Häi#W tìm ðßþc #RVß½ng NgÕn#W#{_INFOAIM96,92,16,Vß½ng NgÕn}.
+227901	Giªt sÕch Mµc Vß½ng Tri Thù
+50101	#RHoa Kiªm Vû#W#{_INFOAIM251,108,1,Hoa Kiªm Vû} ð¬ các hÕ giªt 80 tên #RDã Hùng#W và #RH°ng Hùng Vß½ng#W.
+50100	#RTi«n Hoành Vû#W#{_INFOAIM62,162,1,Ti«n Hoành Vû} ð¬ các hÕ trong #Y30 phút#W giªt #RDß Ðµc#W.
+230000	Hoàn thành nhi®m vø cüa #RTrí Thanh ÐÕi Sß#W#{_INFOAIM79,52,0,Trí Thanh ÐÕi Sß}.
+230011	Tìm ðßþc #RDß½ng Tranh#W#{_INFOAIM234,69,0,Dß½ng Tranh}, hoàn thành nhi®m vø Thüy Lao.
+230012	Tìm ðßþc #RVß½ng Tích Tân#W#{_INFOAIM271,88,0,Vß½ng Tích Tân}, hoàn thành nhi®m vø Trân Long KÏ Cuµc.
+231000	Giªt 10 tên phÕm nhân ð¥u møc trong Thüy Lao.
+231001	Giªt chªt 200 quân c¶
+229020	Nh§n üy thác cüa #RNgô Gi¾i#W#{_INFOAIM127,133,1,Ngô Gi¾i}, ði tr×ng phÕt cß¶ng ðÕo.
+801018	Ðánh bÕi t¤t cä Khäo Trß¶ng Thü V®.
+500500	Tìm ðßþc #RBäo Tàng#W giao cho #RHà Ch¤p Trung#W.
+50102	#RTi«n Hoành Vû#W#{_INFOAIM62,162,1,Ti«n Hoành Vû} ð¬ các hÕ giªt thü lînh th± phï #RCát Vinh#W.
+500503	Giªt quái v§t sai l®ch 10 c¤p v¾i ðÆng c¤p cüa mình, chÑng mình thñc lñc cüa mình.
+232000	#RH° Diên Báo#W#{_INFOAIM244,215,1,H° Diên Báo} ð¬ các hÕ hoàn thành nhi®m vø Thüy Lao Bình Phän.
+232001	Ðªn #GThái H°#W tìm #RH° Diên Khánh#W#{_INFOAIM67,77,4,H° Diên Khánh}.
+232002	#RH° Diên Khánh#W#{_INFOAIM67,77,4,H° Diên Khánh} ð¬ các hÕ giªt #Y10 tên#WPhÕm Nhân Ð¥u Møc và #Y50#W quái v§t.
+50220	Trong 30 phút tiêu di®t t¤t cä Th± Phï và Vß½ng Diêm · Huy«n Lôi Pha, ðoÕt lÕi #YHoàng Kim Chi Liên#W.
+50221	Trong 30 phút tiêu di®t t¤t cä quái v§t và H°ng Cúc Yêu Vß½ng, và tìm ðßþc #YHuy«n Ph§t Châu#W.
+50222	Trong 30 phút tiêu di®t Höa Di®m Yêu Ma trong Dung Nham Chi Ð¸a.
+250039	— #GNh¸ Häi#W#{_INFOAIM191,269,24,Ðào Yêu Yêu}, #GKiªm Các#W#{_INFOAIM147,48,7,Ðào Yêu Yêu}, #GThái H°#W#{_INFOAIM244,142,4,Ðào Yêu Yêu}, #GDÕ Tây H°#W#{_INFOAIM231,118,164,Ðào Yêu Yêu}, #GÐôn Hoàng#W#{_INFOAIM166,95,8,Ðào Yêu Yêu} tìm ðßþc Ðào Yêu Yêu.
+212136	Ðào Yêu Yêu nh¶ các hÕ cùng v¾i ngß¶i có duyên, khiêu chiªn t±ng cµng 5 cØa Ðào Hoa Tr§n.
+250040	Ð÷c câu chuy®n ti«n thª cüa Tam Sinh ThÕch Thßþng
+808131	Tìm ðßþc 5 Nguy®n Linh Tuy«n, ðªn #GThái H°#W#{_INFOAIM157,185,4,HÑa Nguy®n Thø} tìm #RHÑa Nguy®n Thø#W hÑa nguy®n 5 l¥n.
+809311	Tìm ðßþc chæ #YCát Tß¶ng Khánh#W, ðßa cho #GÐÕi Lý#{_INFOAIM173,146,2,Tôn Bát Gia}#RTôn Bát Gia#W.
+809312	Tìm ðßþc chæ #YKhoái LÕc Hành#W, ðßa cho #GÐÕi Lý#{_INFOAIM173,146,2,Tôn Bát Gia}#RTôn Bát Gia#W.
+809313	Tìm ðßþc chæ #YNhß Ý HÕ#W ðßa cho #GÐÕi Lý#{_INFOAIM173,146,2,Tôn Bát Gia}#RTôn Bát Gia#W.
+210251	Ð÷c Sách Thiên Long Công Tß, sau ðó ðªn #GÐÕi Lý#{_INFOAIM150,123,2,Chúc Phúc Quý}#W tìm ðßþc ngß¶i quän lý ti«n lß½ng #RChúc Phúc Quý#W.
+809327	HÕ gøc #G99#W quái v§t, nÕp ð¥y linh khí cho #YThái  Nh¤t H° Lô#W, sau khi hoàn thành nhi®m vø ðªn #GðÕi Lý g£p #{_INFOAIM173,146,2,Tôn Bát Gia}#RTôn Bát Gia#W nh§n thß·ng,
+809326	#GÐÕi Lý#RTôn Bát Gia#{_INFOAIM173,146,2,Tôn Bát Gia}#W t£ng các hÕ 1 #YThiên Long Trân Bäo Nang#W, chï c¥n tìm ðßþc #YChuy¬n Long Trân Bäo Nang#W là có th¬ m· ra.
+500621	G£p #GLÕc Dß½ng#{_INFOAIM280,322,0,Bành Hoài Ng÷c}#RBành Hoài Ng÷c#W
+500622	Hoàn thành #GB¤m L² Trang B¸#W r°i g£p #GLÕc Dß½ng#{_INFOAIM280,322,0,Bành Hoài Ng÷c}#RBành Hoài Ng÷c#W
+500623	Hoàn thành #GKhäm NÕm Bäo ThÕch#Wr°i g£p #GLÕc Dß½ng#{_INFOAIM280,322,0,Bành Hoài Ng÷c}#RBành Hoài Ng÷c#W

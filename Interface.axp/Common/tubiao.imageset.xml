@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<Imageset Name="tubiao" Imagefile="Common/tga_tubiao.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+	<Image Name="tubiao" XPos="0" YPos="0" Width="64" Height="64" />
+</Imageset>

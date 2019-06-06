@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+	<Imageset Name="Button13" Imagefile="Common/tga_Button13.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="false">
+		<Image Name="PayBtn_Normal" XPos="0" YPos="0" Width="100" Height="45" />
+		<Image Name="PayBtn_Disable" XPos="0" YPos="46" Width="100" Height="45" />
+    <Image Name="PayBtn_Hover" XPos="0" YPos="92" Width="100" Height="45" />
+    <Image Name="PayBtn_Pushed" XPos="0" YPos="138" Width="100" Height="45" />
+    <Image Name="HelpBtn_Normal" XPos="99" YPos="0" Width="67" Height="45" />
+    <Image Name="HelpBtn_Disable" XPos="99" YPos="46" Width="67" Height="45" />
+    <Image Name="HelpBtn_Hover" XPos="99" YPos="92" Width="67" Height="45" />
+    <Image Name="HelpBtn_Pushed" XPos="99" YPos="138" Width="67" Height="45" />
+
+    <Image Name="Btn_Left_Normal" XPos="170" YPos="0" Width="30" Height="28" />
+    <Image Name="Btn_Left_Hover" XPos="200" YPos="0" Width="30" Height="28" />
+    <Image Name="Btn_Left_Pushed" XPos="170" YPos="28" Width="30" Height="28" />
+    <Image Name="Btn_Left_Disable" XPos="200" YPos="28" Width="30" Height="28" />
+    <Image Name="Btn_Right_Normal" XPos="170" YPos="56" Width="30" Height="28" />
+    <Image Name="Btn_Right_Hover" XPos="200" YPos="56" Width="30" Height="28" />
+    <Image Name="Btn_Right_Pushed" XPos="170" YPos="84" Width="30" Height="28" />
+    <Image Name="Btn_Right_Disable" XPos="200" YPos="84" Width="30" Height="28" />
+
+    <Image Name="Btn_Right_Long" XPos="0" YPos="183" Width="96" Height="28" />
+  </Imageset>

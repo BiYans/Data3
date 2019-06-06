@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Imageset Name="Agname4" Imagefile="Common/tga_Agname4.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="false">
+
+  <Image Name="MeiRenL_1" XPos="0" YPos="0" Width="35" Height="25" />
+  <Image Name="MeiRenL_2" XPos="0" YPos="25" Width="35" Height="25" />
+  <Image Name="MeiRenL_3" XPos="0" YPos="50" Width="35" Height="25" />
+  <Image Name="MeiRenL_4" XPos="0" YPos="75" Width="35" Height="25" />
+  <Image Name="MeiRenL_5" XPos="0" YPos="100" Width="35" Height="25" />
+  <Image Name="MeiRenL_6" XPos="0" YPos="125" Width="35" Height="25" />
+  <Image Name="MeiRenL_7" XPos="0" YPos="150" Width="35" Height="25" />
+  <Image Name="MeiRenL_8" XPos="0" YPos="175" Width="35" Height="25" />
+  <Image Name="MeiRenR_1" XPos="35" YPos="0" Width="35" Height="25" />
+  <Image Name="MeiRenR_2" XPos="35" YPos="25" Width="35" Height="25" />
+  <Image Name="MeiRenR_3" XPos="35" YPos="50" Width="35" Height="25" />
+  <Image Name="MeiRenR_4" XPos="35" YPos="75" Width="35" Height="25" />
+  <Image Name="MeiRenR_5" XPos="35" YPos="100" Width="35" Height="25" />
+  <Image Name="MeiRenR_6" XPos="35" YPos="125" Width="35" Height="25" />
+  <Image Name="MeiRenR_7" XPos="35" YPos="150" Width="35" Height="25" />
+  <Image Name="MeiRenR_8" XPos="35" YPos="175" Width="35" Height="25" />
+
+  <Image Name="NvShenL_1" XPos="70" YPos="0" Width="70" Height="56" />
+  <Image Name="NvShenL_2" XPos="70" YPos="56" Width="70" Height="56" />
+  <Image Name="NvShenL_3" XPos="70" YPos="112" Width="70" Height="56" />
+  <Image Name="NvShenL_4" XPos="70" YPos="168" Width="70" Height="56" />
+  <Image Name="NvShenL_5" XPos="210" YPos="0" Width="70" Height="56" />
+  <Image Name="NvShenL_6" XPos="210" YPos="56" Width="70" Height="56" />
+  <Image Name="NvShenL_7" XPos="210" YPos="112" Width="70" Height="56" />
+  <Image Name="NvShenL_8" XPos="210" YPos="168" Width="70" Height="56" />
+  <Image Name="NvShenR_1" XPos="140" YPos="0" Width="70" Height="56" />
+  <Image Name="NvShenR_2" XPos="140" YPos="56" Width="70" Height="56" />
+  <Image Name="NvShenR_3" XPos="140" YPos="112" Width="70" Height="56" />
+  <Image Name="NvShenR_4" XPos="140" YPos="168" Width="70" Height="56" />
+  <Image Name="NvShenR_5" XPos="280" YPos="0" Width="70" Height="56" />
+  <Image Name="NvShenR_6" XPos="280" YPos="56" Width="70" Height="56" />
+  <Image Name="NvShenR_7" XPos="280" YPos="112" Width="70" Height="56" />
+  <Image Name="NvShenR_8" XPos="280" YPos="168" Width="70" Height="56" />
+
+  <Image Name="DaiYanRenL_1" XPos="350" YPos="0" Width="78" Height="41" />
+  <Image Name="DaiYanRenL_2" XPos="350" YPos="41" Width="78" Height="41" />
+  <Image Name="DaiYanRenL_3" XPos="350" YPos="82" Width="78" Height="41" />
+  <Image Name="DaiYanRenL_4" XPos="350" YPos="123" Width="78" Height="41" />
+  <Image Name="DaiYanRenL_5" XPos="350" YPos="164" Width="78" Height="41" />
+  <Image Name="DaiYanRenL_6" XPos="350" YPos="205" Width="78" Height="41" />
+  <Image Name="DaiYanRenL_7" XPos="350" YPos="246" Width="78" Height="41" />
+  <Image Name="DaiYanRenL_8" XPos="350" YPos="287" Width="78" Height="41" />
+  <Image Name="DaiYanRenL_9" XPos="350" YPos="328" Width="78" Height="41" />
+  <Image Name="DaiYanRenL_10" XPos="350" YPos="369" Width="78" Height="41" />
+  <Image Name="DaiYanRenL_11" XPos="350" YPos="410" Width="78" Height="41" />
+  <Image Name="DaiYanRenL_12" XPos="350" YPos="451" Width="78" Height="41" />
+
+  <Image Name="DaiYanRenR_1" XPos="434" YPos="0" Width="78" Height="41" />
+  <Image Name="DaiYanRenR_2" XPos="434" YPos="41" Width="78" Height="41" />
+  <Image Name="DaiYanRenR_3" XPos="434" YPos="82" Width="78" Height="41" />
+  <Image Name="DaiYanRenR_4" XPos="434" YPos="123" Width="78" Height="41" />
+  <Image Name="DaiYanRenR_5" XPos="434" YPos="164" Width="78" Height="41" />
+  <Image Name="DaiYanRenR_6" XPos="434" YPos="205" Width="78" Height="41" />
+  <Image Name="DaiYanRenR_7" XPos="434" YPos="246" Width="78" Height="41" />
+  <Image Name="DaiYanRenR_8" XPos="434" YPos="287" Width="78" Height="41" />
+  <Image Name="DaiYanRenR_9" XPos="434" YPos="328" Width="78" Height="41" />
+  <Image Name="DaiYanRenR_10" XPos="434" YPos="369" Width="78" Height="41" />
+  <Image Name="DaiYanRenR_11" XPos="434" YPos="410" Width="78" Height="41" />
+  <Image Name="DaiYanRenR_12" XPos="434" YPos="451" Width="78" Height="41" />
+
+  <Image Name="SeventhFestival01L_01" XPos="0" YPos="224" Width="84" Height="41" />
+  <Image Name="SeventhFestival01L_02" XPos="84" YPos="224" Width="84" Height="41" />
+  <Image Name="SeventhFestival01L_03" XPos="168" YPos="224" Width="84" Height="41" />
+  <Image Name="SeventhFestival01L_04" XPos="252" YPos="224" Width="84" Height="41" />
+  <Image Name="SeventhFestival01L_05" XPos="0" YPos="265" Width="84" Height="41" />
+  <Image Name="SeventhFestival01L_06" XPos="84" YPos="265" Width="84" Height="41" />
+  <Image Name="SeventhFestival01L_07" XPos="168" YPos="265" Width="84" Height="41" />
+  <Image Name="SeventhFestival01L_08" XPos="252" YPos="265" Width="84" Height="41" />
+
+  <Image Name="SeventhFestival01R_01" XPos="252" YPos="306" Width="84" Height="41" />
+  <Image Name="SeventhFestival01R_02" XPos="168" YPos="306" Width="84" Height="41" />
+  <Image Name="SeventhFestival01R_03" XPos="84" YPos="306" Width="84" Height="41" />
+  <Image Name="SeventhFestival01R_04" XPos="0" YPos="306" Width="84" Height="41" />
+  <Image Name="SeventhFestival01R_05" XPos="252" YPos="347" Width="84" Height="41" />
+  <Image Name="SeventhFestival01R_06" XPos="168" YPos="347" Width="84" Height="41" />
+  <Image Name="SeventhFestival01R_07" XPos="84" YPos="347" Width="84" Height="41" />
+  <Image Name="SeventhFestival01R_08" XPos="0" YPos="347" Width="84" Height="41" />
+</Imageset>

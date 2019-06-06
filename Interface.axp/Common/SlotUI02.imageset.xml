@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<Imageset Name="SlotUI02" Imagefile="Common/tga_SlotUI02.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="false">
+  <Image Name="SlotTop3Get_Normal" XPos="0" YPos="0" Width="179" Height="33" />
+  <Image Name="SlotTop3Get_Hover" XPos="0" YPos="33" Width="179" Height="33" />
+  <Image Name="SlotTop3Get_Pushed" XPos="0" YPos="66" Width="179" Height="33" />
+
+  <Image Name="SlotStart_Normal" XPos="0" YPos="99" Width="113" Height="40" />
+  <Image Name="SlotStart_Hover" XPos="0" YPos="139" Width="113" Height="40" />
+  <Image Name="SlotStart_Pushed" XPos="0" YPos="179" Width="113" Height="40" />
+
+  <Image Name="SlotOver_Normal" XPos="113" YPos="99" Width="113" Height="40" />
+  <Image Name="SlotOver_Hover" XPos="113" YPos="139" Width="113" Height="40" />
+  <Image Name="SlotOver_Pushed" XPos="113" YPos="179" Width="113" Height="40" />
+</Imageset>

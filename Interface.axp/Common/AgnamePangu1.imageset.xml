@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+	<Imageset Name="AgnamePangu1" Imagefile="Common/tga_AgnamePangu1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="false">
+    <Image Name="PanguXiaodao_R1" XPos="210" YPos="0" Width="37" Height="34" />
+    <Image Name="PanguXiaodao_R2" XPos="210" YPos="34" Width="37" Height="34" />
+    <Image Name="PanguXiaodao_R3" XPos="210" YPos="68" Width="37" Height="34" />
+    <Image Name="PanguXiaodao_R4" XPos="210" YPos="102" Width="37" Height="34" />
+    <Image Name="PanguSan_R1" XPos="0" YPos="0" Width="58" Height="38" />
+    <Image Name="PanguSan_R2" XPos="0" YPos="37" Width="58" Height="38" />
+    <Image Name="PanguSan_R3" XPos="0" YPos="75" Width="58" Height="38" />
+    <Image Name="PanguSan_R4" XPos="0" YPos="111" Width="58" Height="38" />
+    <Image Name="PanguSan_R5" XPos="0" YPos="148" Width="58" Height="38" />
+  </Imageset>

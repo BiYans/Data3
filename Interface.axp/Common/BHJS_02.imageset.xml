@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+	<Imageset Name="BHJS_02" Imagefile="Common/tga_BHJS_02.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="false">
+
+    <Image Name="BHJS_02_BK" XPos="0" YPos="0" Width="360" Height="340" />
+    
+    <Image Name="BHJBP_01_BK" XPos="0" YPos="354" Width="234" Height="158" />
+    <Image Name="BHJBP_FeiCui_Normal" XPos="360" YPos="0" Width="58" Height="48" />
+    <Image Name="BHJBP_FeiCui_Hover" XPos="418" YPos="0" Width="58" Height="48" />
+    <Image Name="BHJBP_FeiCui_Pushed" XPos="360" YPos="48" Width="58" Height="48" />
+    <Image Name="BHJBP_FeiCui_Disable" XPos="418" YPos="48" Width="58" Height="48" />
+    <Image Name="BHJBP_JuBaoPen_Normal" XPos="360" YPos="96" Width="58" Height="48" />
+    <Image Name="BHJBP_JuBaoPen_Hover" XPos="418" YPos="96" Width="58" Height="48" />
+    <Image Name="BHJBP_JuBaoPen_Pushed" XPos="360" YPos="144" Width="58" Height="48" />
+    <Image Name="BHJBP_JuBaoPen_Disable" XPos="418" YPos="144" Width="58" Height="48" />
+    <Image Name="BHJBP_Icon" XPos="360" YPos="192" Width="36" Height="36" />
+    
+  </Imageset>

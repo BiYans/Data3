@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<Imageset Name="plateHover" Imagefile="Common/tga_plateHover.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+	<Image Name="plateHover" XPos="0" YPos="0" Width="32" Height="32" />
+</Imageset>

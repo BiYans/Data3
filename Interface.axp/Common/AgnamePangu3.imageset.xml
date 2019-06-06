@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+	<Imageset Name="AgnamePangu3" Imagefile="Common/tga_AgnamePangu3.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="false">
+    <Image Name="PanguFeng_R1" XPos="0" YPos="0" Width="60" Height="30" />
+    <Image Name="PanguFeng_R2" XPos="0" YPos="30" Width="60" Height="30" />
+    <Image Name="PanguFeng_R3" XPos="0" YPos="58" Width="60" Height="30" />
+    <Image Name="PanguFeng_R4" XPos="0" YPos="86" Width="60" Height="30" />
+    <Image Name="PanguFeng_R5" XPos="0" YPos="114" Width="60" Height="30" />
+    <Image Name="PanguLong_R1" XPos="130" YPos="0" Width="63" Height="33" />
+    <Image Name="PanguLong_R2" XPos="130" YPos="31" Width="63" Height="33" />
+    <Image Name="PanguLong_R3" XPos="130" YPos="62" Width="63" Height="33" />
+    <Image Name="PanguLong_R4" XPos="130" YPos="92" Width="63" Height="32" />
+    <Image Name="PanguLong_R5" XPos="130" YPos="122" Width="63" Height="32" />
+  </Imageset>

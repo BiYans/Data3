@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Imageset Name="KJRK_3" Imagefile="Common/tga_KJRK_3.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+
+  <Image Name="KJRK_DWRHF_1" XPos="0" YPos="3" Width="51" Height="61" />
+  <Image Name="KJRK_DWRHF_2" XPos="52" YPos="3" Width="51" Height="61" />
+  <Image Name="KJRK_DWRHF_3" XPos="104" YPos="3" Width="51" Height="61" />
+  <Image Name="KJRK_DWRHF_4" XPos="156" YPos="3" Width="51" Height="61" />
+  <Image Name="KJRK_DWRHF_5" XPos="208" YPos="3" Width="51" Height="61" />
+  <Image Name="KJRK_DWRHF_6" XPos="260" YPos="3" Width="51" Height="61" />
+  <Image Name="KJRK_DWRHF_7" XPos="312" YPos="3" Width="51" Height="61" />
+  <Image Name="KJRK_DWRHF_8" XPos="364" YPos="3" Width="51" Height="61" />
+
+</Imageset>

@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<GUILayout>
+  <Window Type="TLBB_MainFrame1" Name="EquipEducation_Transfer_Frame">
+    <Property Name="UnifiedPosition" Value="{{0.5,-305},{0.5,-260}}" />
+    <Property Name="AbsoluteSize" Value="w:610 h:435" />
+	<Event Name="Hidden" Function="EquipEducation_Transfer_OnHiden();" />
+    <Window Type="TLBB_ButtonHelp" Name="EquipEducation_Transfer_Help">
+      <Property Name="UnifiedPosition" Value="{{0.000000,29.000000},{0.000000,6.000000}" />
+      <Property Name="AbsoluteSize" Value="w:14.000000 h:14.000000" />
+      <Property Name="Text" Value="TLBB_ButtonHelp" />
+    </Window>
+    <Window Type="TLBB_DragTitle" Name="EquipEducation_Transfer_DragTitle">
+      <Property Name="UnifiedPosition" Value="{{0.000000,43.000000},{0.000000,3.000000}}"/>
+      <Property Name="UnifiedSize" Value="{{1.000000,-86.000000},{0.000000,20.000000}}"/>
+      <Property Name="DragTarget" Value="EquipEducation_Transfer_Frame" />
+      <Property Name="Font" Value="YouYuan11.25" />
+      <Property Name="HorzFormatting" Value="HorzCentred" />
+      <Property Name="Text" Value="#{ZBSX_130625_34}" />
+      <Property Name="VertFormatting" Value="VertCentred" />
+    </Window>
+    <Window Type="TLBB_ButtonClose" Name="EquipEducation_Transfer_Close">
+      <Property Name="UnifiedPosition" Value="{{1.000000,-43.000000},{0.000000,6.000000}" />
+      <Property Name="AbsoluteSize" Value="w:14.000000 h:14.000000" />
+      <Property Name="Text" Value="TLBB_ButtonClose" />
+	  <Event Name="Clicked" Function="EquipEducation_Transfer_OnHiden()" />
+    </Window>
+    <Window Type="DefaultWindow" Name="EquipEducation_Transfer_Frame_Client">
+      <Property Name="AbsolutePosition" Value="x:7.000000 y:30.000000" />
+      <Property Name="UnifiedSize" Value="{{1.000000,-14.000000},{1.000000,-39.000000}" />
+      <Property Name="RiseOnClick" Value="False" />
+      <Window Type="TLBB_SimpleMulitiTextFrame" Name="EquipEducation_Transfer_Info">
+        <Property Name="Position" Value="x:0.0 y:0.0" />
+        <Property Name="UnifiedSize" Value="{{1.000000,0.000000},{1.000000,-235.000000}" />
+        <Property Name="HorzFormatting" Value="WordWrapLeftAligned" />
+        <Property Name="RiseOnClick" Value="False" />
+        <Property Name="Text" Value="#{ZBSX_130625_35}" />
+      </Window>
+      <Window Type="DefaultWindow" Name="EquipEducation_Transfer_Before">
+        <Property Name="AlwaysOnTop" Value="True"/>
+        <Property Name="UnifiedPosition" Value="{{0.010000,0.000000},{1.000000,-230.000000}" />
+        <Property Name="UnifiedSize" Value="{{0.490000,-1.000000},{0.000000,143.000000}" />
+        <Window Type="TLBB_SimpleText" Name="EquipEducation_Transfer_BeforeText">
+          <Property Name="UnifiedPosition" Value="{{0.000000,0.000000},{0.000000,0.000000}" />
+          <Property Name="UnifiedSize" Value="{{1.000000,0.000000},{0.000000,20.000000}" />
+          <Property Name="Text" Value="#{ZBSX_130625_36}" />
+          <Property Name="HorzFormatting" Value="HorzCentred"/>
+        </Window>
+        <Window Type="TLBB_ActionButton" Name="EquipEducation_Transfer_BeforeIcon">
+          <Property Name="UnifiedPosition" Value="{{0.500000,-17.000000},{0.000000,20.000000}" />
+          <Property Name="UnifiedSize" Value="{{0.000000,34.000000},{0.000000,34.000000}" />
+		  <Property Name="DragAcceptName" Value="G135" />
+		  <Property Name="DraggingEnabled" Value="True" />
+		  <Event Name="RBClicked" Function="EquipEducation_Transfer_CleanSourceData();"/>
+        </Window>
+        <Window Type="TLBB_SimpleMulitiTextFrame" Name="EquipEducation_Transfer_BeforeAttr">
+          <Property Name="UnifiedPosition" Value="{{0.000000,0.000000},{1.000000,-84.000000}" />
+          <Property Name="UnifiedSize" Value="{{1.000000,0.000000},{0.000000,84.000000}" />
+          <Window Type="TLBB_SimpleMulitiTextFrame" Name="EquipEducation_Transfer_BeforeAttrText">
+            <Property Name="UnifiedPosition" Value="{{0.000000,2.000000},{0.000000,2.000000}" />
+            <Property Name="UnifiedSize" Value="{{1.000000,-4.000000},{0.000000,20.000000}" />
+            <Property Name="Text" Value="#{ZBSX_130625_38}" />
+            <Property Name="HorzFormatting" Value="HorzCentred"/>
+          </Window>
+          <Window Type="TLBB_SimpleText" Name="EquipEducation_Transfer_BeforeAttrFirst">
+            <Property Name="UnifiedSize" Value="{{1.000000,-4.000000},{0.000000,20.000000}}"/>
+            <Property Name="UnifiedPosition" Value="{{0.000000,2.000000},{0.000000,22.000000}}"/>
+          </Window>
+          <Window Type="TLBB_SimpleText" Name="EquipEducation_Transfer_BeforeAttrSecond">
+            <Property Name="UnifiedSize" Value="{{1.000000,-4.000000},{0.000000,20.000000}}"/>
+            <Property Name="UnifiedPosition" Value="{{0.000000,2.000000},{0.000000,42.000000}}"/>
+          </Window>
+          <Window Type="TLBB_SimpleText" Name="EquipEducation_Transfer_BeforeAttrThird">
+            <Property Name="UnifiedSize" Value="{{1.000000,-4.000000},{0.000000,20.000000}}"/>
+            <Property Name="UnifiedPosition" Value="{{0.000000,2.000000},{0.000000,62.000000}}"/>
+          </Window>
+        </Window>
+      </Window>
+      <Window Type="DefaultWindow" Name="EquipEducation_Transfer_After">
+        <Property Name="AlwaysOnTop" Value="True"/>
+        <Property Name="UnifiedPosition" Value="{{0.500000,1.000000},{1.000000,-230.000000}" />
+        <Property Name="UnifiedSize" Value="{{0.490000,-1.000000},{0.000000,143.000000}" />
+        <Window Type="TLBB_SimpleText" Name="EquipEducation_Transfer_AfterText">
+          <Property Name="UnifiedPosition" Value="{{0.000000,0.000000},{0.000000,0.000000}" />
+          <Property Name="UnifiedSize" Value="{{1.000000,0.000000},{0.000000,20.000000}" />
+          <Property Name="Text" Value="#{ZBSX_130625_37}" />
+          <Property Name="HorzFormatting" Value="HorzCentred"/>
+        </Window>
+        <Window Type="TLBB_ActionButton" Name="EquipEducation_Transfer_AfterIcon">
+          <Property Name="UnifiedPosition" Value="{{0.500000,-17.000000},{0.000000,20.000000}" />
+          <Property Name="UnifiedSize" Value="{{0.000000,34.000000},{0.000000,34.000000}" />
+		  <Property Name="DragAcceptName" Value="G136" />
+		  <Property Name="DraggingEnabled" Value="True" />
+		  <Event Name="RBClicked" Function="EquipEducation_Transfer_CleanTargetData();"/>
+        </Window>
+        <Window Type="TLBB_SimpleMulitiTextFrame" Name="EquipEducation_Transfer_AfterAttr">
+          <Property Name="UnifiedPosition" Value="{{0.000000,0.000000},{1.000000,-84.000000}" />
+          <Property Name="UnifiedSize" Value="{{1.000000,0.000000},{0.000000,84.000000}" />
+          <Window Type="TLBB_SimpleMulitiTextFrame" Name="EquipEducation_Transfer_AfterAttrText">
+            <Property Name="UnifiedPosition" Value="{{0.000000,2.000000},{0.000000,2.000000}" />
+            <Property Name="UnifiedSize" Value="{{1.000000,-4.000000},{0.000000,20.000000}" />
+            <Property Name="Text" Value="#{ZBSX_130625_39}" />
+            <Property Name="HorzFormatting" Value="HorzCentred"/>
+          </Window>
+          <Window Type="TLBB_SimpleText" Name="EquipEducation_Transfer_AfterAttrFirst">
+            <Property Name="UnifiedSize" Value="{{1.000000,-4.000000},{0.000000,20.000000}}"/>
+            <Property Name="UnifiedPosition" Value="{{0.000000,2.000000},{0.000000,22.000000}}"/>
+          </Window>
+          <Window Type="TLBB_SimpleText" Name="EquipEducation_Transfer_AfterAttrSecond">
+            <Property Name="UnifiedSize" Value="{{1.000000,-4.000000},{0.000000,20.000000}}"/>
+            <Property Name="UnifiedPosition" Value="{{0.000000,2.000000},{0.000000,42.000000}}"/>
+          </Window>
+          <Window Type="TLBB_SimpleText" Name="EquipEducation_Transfer_AfterAttrThird">
+            <Property Name="UnifiedSize" Value="{{1.000000,-4.000000},{0.000000,20.000000}}"/>
+            <Property Name="UnifiedPosition" Value="{{0.000000,2.000000},{0.000000,62.000000}}"/>
+          </Window>
+        </Window>
+      </Window>
+      <Window Type="DefaultWindow" Name="EquipEducation_Transfer_Money">
+        <Property Name="UnifiedPosition" Value="{{0.010000,0.000000},{1.000000,-83.000000}" />
+        <Property Name="UnifiedSize" Value="{{0.980000,0.000000},{0.000000,60.000000}" />
+      <Window Type="TLBB_SimpleMulitiTextFrame" Name="EquipEducation_Transfer_Want">
+        <Property Name="UnifiedSize" Value="{{1,0.000000},{0.000000,20.000000}" />
+        <Property Name="UnifiedPosition" Value="{{0.000000,0.000000},{0.000000,0.000000}" />
+        <Property Name="Text" Value="#{ZBSX_130625_06}" />
+        <Window Type="TLBB_JiaoZi" Name="EquipEducation_Transfer_WantNum">
+          <Property Name="UnifiedPosition" Value="{{0.0,80.000000},{0.000000,2.000000}" />
+          <Property Name="UnifiedSize" Value="{{1.0,-86.000000},{1.000000,-4.000000}" />
+          <Property Name="HorzFormatting" Value="RightAligned" />
+        </Window>
+      </Window>
+      <Window Type="TLBB_SimpleMulitiTextFrame" Name="EquipEducation_Transfer_Have">
+        <Property Name="UnifiedSize" Value="{{1,0.000000},{0.000000,20.000000}" />
+        <Property Name="UnifiedPosition" Value="{{0.000000,0.000000},{0.000000,20.000000}" />
+        <Property Name="Text" Value="#{ZBSX_130625_07}" />
+        <Window Type="TLBB_JiaoZi" Name="EquipEducation_Transfer_HaveNum">
+          <Property Name="UnifiedPosition" Value="{{0.0,80.000000},{0.000000,2.000000}" />
+          <Property Name="UnifiedSize" Value="{{1.0,-86.000000},{1.000000,-4.000000}" />
+          <Property Name="HorzFormatting" Value="RightAligned" />
+        </Window>
+      </Window>
+      <Window Type="TLBB_SimpleMulitiTextFrame" Name="EquipEducation_Transfer_HaveGold">
+        <Property Name="UnifiedSize" Value="{{1,0.000000},{0.000000,20.000000}" />
+        <Property Name="UnifiedPosition" Value="{{0.000000,0.000000},{0.000000,40.000000}" />
+        <Property Name="Text" Value="#{ZBSX_130625_08}" />
+        <Window Type="TLBB_Money" Name="EquipEducation_Transfer_HaveGoldNum">
+          <Property Name="UnifiedPosition" Value="{{0.0,80.000000},{0.000000,2.000000}" />
+          <Property Name="UnifiedSize" Value="{{1.0,-86.000000},{1.000000,-4.000000}" />
+          <Property Name="HorzFormatting" Value="RightAligned" />
+        </Window>
+      </Window>
+      </Window>
+      <Window Type="TLBB_Frame_Lace5" Name="EquipEducation_Transfer_Blank">
+        <Property Name="UnifiedPosition" Value="{{0.000000,2.000000},{1.000000,-20.000000}}"/>
+		<Property Name="UnifiedSize" Value="{{1.000000,-144.000000},{0.000000,20.000000}}"/>
+      </Window>
+      <Window Type="TLBB_ButtonCommon" Name="EquipEducation_Transfer_OK">
+        <Property Name="UnifiedPosition" Value="{{1.000000,-139.000000},{1.000000,-20.000000}}"/>
+		<Property Name="AbsoluteSize" Value="w:85.000000 h:20.000000"/>
+        <Property Name="Text" Value="#{ZBSX_130625_40}" />
+		<Event Name="Clicked" Function="EquipEducation_Transfer_Buttons_Clicked();" />
+      </Window>
+      <Window Type="TLBB_ButtonCommon" Name="EquipEducation_Transfer_Cancel">
+        <Property Name="UnifiedPosition" Value="{{1.000000,-57.000000},{1.000000,-20.000000}}"/>
+		<Property Name="AbsoluteSize" Value="w:55.000000 h:20.000000"/>
+        <Property Name="Text" Value="#{ZBSX_130625_10}" />
+		<Event Name="Clicked" Function="EquipEducation_Transfer_OnHiden()" />
+      </Window>
+    </Window>
+  </Window>
+</GUILayout>

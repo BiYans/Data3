@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+	<Imageset Name="MessageBall" Imagefile="Common/tga_MessageBall.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="false">
+		<Image Name="MsgBall_BigInfo1" XPos="0" YPos="0" Width="27" Height="27" />
+    <Image Name="MsgBall_BigInfo2" XPos="33" YPos="0" Width="27" Height="27" />
+    <Image Name="MsgBall_BigInfo3" XPos="66" YPos="0" Width="27" Height="27" /> 
+    <Image Name="MsgBall_BigInfo4" XPos="99" YPos="0" Width="27" Height="27" />
+    <Image Name="MsgBall_BigInfo5" XPos="132" YPos="0" Width="27" Height="27" />
+      
+    <Image Name="MsgBall_Interact1" XPos="0" YPos="36" Width="27" Height="27" />
+    <Image Name="MsgBall_Interact2" XPos="33" YPos="36" Width="27" Height="27" />
+    <Image Name="MsgBall_Interact3" XPos="66" YPos="36" Width="27" Height="27" />
+    <Image Name="MsgBall_Interact4" XPos="99" YPos="36" Width="27" Height="27" />
+    <Image Name="MsgBall_Interact5" XPos="132" YPos="36" Width="27" Height="27" />
+    
+    <Image Name="MsgBall_League1" XPos="0" YPos="72" Width="27" Height="27" />
+    <Image Name="MsgBall_League2" XPos="33" YPos="72" Width="27" Height="27" />
+    <Image Name="MsgBall_League3" XPos="66" YPos="72" Width="27" Height="27" />
+    <Image Name="MsgBall_League4" XPos="99" YPos="72" Width="27" Height="27" />
+    <Image Name="MsgBall_League5" XPos="132" YPos="72" Width="27" Height="27" />
+    
+    <Image Name="MsgBall_System1" XPos="0" YPos="108" Width="27" Height="27" />
+    <Image Name="MsgBall_System2" XPos="33" YPos="108" Width="27" Height="27" />
+    <Image Name="MsgBall_System3" XPos="66" YPos="108" Width="27" Height="27" />
+    <Image Name="MsgBall_System4" XPos="99" YPos="108" Width="27" Height="27" />
+    <Image Name="MsgBall_System5" XPos="132" YPos="108" Width="27" Height="27" /> 
+        
+    <Image Name="MsgBall_History_Normal" XPos="0" YPos="241" Width="15" Height="15" />
+    <Image Name="MsgBall_History_Hover" XPos="0" YPos="209" Width="15" Height="15" />
+    <Image Name="MsgBall_History_Pushed" XPos="0" YPos="225" Width="15" Height="15" />
+    <Image Name="MsgBall_History_Disable" XPos="0" YPos="193" Width="15" Height="15" />
+
+    <Image Name="WuhunXmlBk" XPos="71" YPos="169" Width="185" Height="87" />
+
+  </Imageset>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+	<Imageset Name="Equip_Zhizun1" Imagefile="Common/tga_Equip_Zhizun1.dds" NativeHorzRes="512" NativeVertRes="512" AutoScaled="true">
+
+    <Image Name="Equip_Zhizun1_1" XPos="0" YPos="0" Width="66" Height="66" />
+    <Image Name="Equip_Zhizun1_2" XPos="66" YPos="0" Width="66" Height="66" />
+    <Image Name="Equip_Zhizun1_3" XPos="132" YPos="0" Width="66" Height="66" />
+    <Image Name="Equip_Zhizun1_4" XPos="0" YPos="66" Width="66" Height="66" />
+    <Image Name="Equip_Zhizun1_5" XPos="66" YPos="66" Width="66" Height="66" />  
+    <Image Name="Equip_Zhizun1_6" XPos="132" YPos="66" Width="66" Height="66" />
+    
+    <Image Name="Equip_Zhizun_left" XPos="0" YPos="135" Width="53" Height="23" />
+    <Image Name="Equip_Zhizun_middle" XPos="53" YPos="135" Width="19" Height="23" />
+    <Image Name="Equip_Zhizun_right" XPos="73" YPos="135" Width="53" Height="23" />
+    
+    <Image Name="Equip_star_1" XPos="0" YPos="160" Width="40" Height="40" />
+    <Image Name="Equip_star_2" XPos="40" YPos="160" Width="40" Height="40" />    
+    <Image Name="Equip_star_3" XPos="80" YPos="160" Width="40" Height="40" />    
+    <Image Name="Equip_star_4" XPos="120" YPos="160" Width="40" Height="40" />    
+    <Image Name="Equip_star_5" XPos="160" YPos="160" Width="40" Height="40" />    
+    <Image Name="Equip_star_6" XPos="200" YPos="160" Width="40" Height="40" />    
+   
+    <Image Name="Equip_star_7" XPos="0" YPos="200" Width="40" Height="40" />
+    <Image Name="Equip_star_8" XPos="40" YPos="200" Width="40" Height="40" />    
+    <Image Name="Equip_star_9" XPos="80" YPos="200" Width="40" Height="40" />    
+    <Image Name="Equip_star_10" XPos="120" YPos="200" Width="40" Height="40" />    
+    <Image Name="Equip_star_11" XPos="160" YPos="200" Width="40" Height="40" />    
+    <Image Name="Equip_star_12" XPos="200" YPos="200" Width="40" Height="40" />        
+    
+    <Image Name="Equip_star_13" XPos="200" YPos="120" Width="40" Height="40" />    
+    
+    
+  </Imageset>

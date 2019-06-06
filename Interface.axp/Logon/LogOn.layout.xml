@@ -1,0 +1,392 @@
+<?xml version="1.0" ?>
+<GUILayout>
+    <Window Type="DefaultWindow" Name="LogOn_Frame">
+        <Property Name="Position" Value="x:0.0 y:0.0" />
+        <Property Name="Size" Value="w:1.0 h:1.0" />
+        <Event Name="Hidden" Function="LogOn_Frame_OnHiden();" />
+        <Window Type="DefaultWindow" Name="LogOn_Background1_Frame">
+            <Property Name="Position" Value="x:0.0 y:0.0" />
+            <Property Name="Size" Value="w:1.0 h:1.0" />
+            <Property Name="RiseOnClick" Value="False" />
+            <Window Type="TLBB_StaticImageNULL" Name="LogOn_Bak1">
+                <Property Name="Position" Value="x:0.0 y:0.0" />
+                <Property Name="Size" Value="w:0.64 h:0.8533333" />
+                <Property Name="Image" Value="set:AccountLogin1 image:AccountLogin1_1" />
+                <Property Name="MouseHollow" Value="False" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+            <Window Type="TLBB_StaticImageNULL" Name="LogOn_Bak2">
+                <Property Name="Position" Value="x:0.64 y:0.0" />
+                <Property Name="Size" Value="w:0.32 h:0.8533333" />
+                <Property Name="Image" Value="set:AccountLogin2 image:AccountLogin1_2" />
+                <Property Name="MouseHollow" Value="False" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+            <Window Type="TLBB_StaticImageNULL" Name="LogOn_Bak3">
+                <Property Name="Position" Value="x:0.0 y:0.8533333" />
+                <Property Name="Size" Value="w:0.32 h:0.146666666" />
+                <Property Name="Image" Value="set:AccountLogin3 image:AccountLogin1_3" />
+                <Property Name="MouseHollow" Value="False" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+            <Window Type="TLBB_StaticImageNULL" Name="LogOn_Bak4">
+                <Property Name="Position" Value="x:0.32 y:0.8533333" />
+                <Property Name="Size" Value="w:0.32 h:0.146666666" />
+                <Property Name="Image" Value="set:AccountLogin3 image:AccountLogin1_4" />
+                <Property Name="MouseHollow" Value="False" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+            <Window Type="TLBB_StaticImageNULL" Name="LogOn_Bak5">
+                <Property Name="Position" Value="x:0.64 y:0.8533333" />
+                <Property Name="Size" Value="w:0.32 h:0.146666666" />
+                <Property Name="Image" Value="set:AccountLogin4 image:AccountLogin1_5" />
+                <Property Name="MouseHollow" Value="False" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+            <Window Type="TLBB_StaticImageNULL" Name="LogOn_Bak6">
+                <Property Name="Position" Value="x:0.96 y:0.0" />
+                <Property Name="Size" Value="w:0.04 h:0.42666666666" />
+                <Property Name="Image" Value="set:AccountLogin5 image:AccountLogin1_6" />
+                <Property Name="MouseHollow" Value="False" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+            <Window Type="TLBB_StaticImageNULL" Name="LogOn_Bak7">
+                <Property Name="Position" Value="x:0.96 y:0.42666666666" />
+                <Property Name="Size" Value="w:0.04 h:0.42666666666" />
+                <Property Name="Image" Value="set:AccountLogin5 image:AccountLogin1_7" />
+                <Property Name="MouseHollow" Value="False" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+            <Window Type="TLBB_StaticImageNULL" Name="LogOn_Bak8">
+                <Property Name="Position" Value="x:0.958750 y:0.853088" />
+                <Property Name="Size" Value="w:0.04 h:0.1466666666" />
+                <Property Name="Image" Value="set:AccountLogin5 image:AccountLogin1_8" />
+                <Property Name="MouseHollow" Value="False" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+        </Window>
+        <Window Type="DefaultWindow" Name="LogOn_InfoBackground_Frame">
+            <Property Name="UnifiedPosition" Value="{{0.5, -300},{1.0, -38}}" />
+            <Property Name="AbsoluteSize" Value="w:600.000000 h:22.000000" />
+            <Window Type="TLBB_SimpleTextInfo" Name="LogOn_Info">
+                <Property Name="Position" Value="x:0.0 y:0.0" />
+                <Property Name="Size" Value="w:1.0 h:1.0" />
+                <Property Name="HorzFormatting" Value="HorzCentred" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="TextColor" Value="FFFFF263" />
+            </Window>
+        </Window>
+        <Window Type="DefaultWindow" Name="LogOn_Frame2">
+		<Property Name="UnifiedSize" Value="{{0.000000,800.000000},{0.000000,600.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,0.000000},{0.000000,0.000000}}"/>
+            <Window Type="TLBB_MainFrame_Logon" Name="LogOn_Input_Background_Frame">
+		<Property Name="UnifiedSize" Value="{{0.000000,300.000000},{0.312870,-30.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,245.000000},{0.081803,20.000000}}"/>
+                <Window Type="TLBB_ButtonNULL" Name="LogOn_Keyboard">
+		                <Property Name="UnifiedSize" Value="{{0.000000,23.000000},{0.000000,21.000000}}"/>
+	                	<Property Name="UnifiedPosition" Value="{{0.000000,163.000000},{0.000000,105.000000}}"/>
+                    <Property Name="NormalImage" Value="set:Button1 image:BtnInpute_Normal" />
+                    <Property Name="HoverImage" Value="set:Button1 image:BtnInpute_Hover" />
+                    <Property Name="PushedImage" Value="set:Button1 image:BtnInpute_Pushed" />
+                    <Event Name="Clicked" Function="LogOn_KeyBoard();" />
+                    <Event Name="MouseEnter" Function="LogOn_Keyboard_MouseEnter();" />
+                    <Event Name="MouseLeave" Function="LogOn_MouseLeave();" />
+                </Window>
+                <Window Type="TLBB_ButtonCommon" Name="LogOn_Input_Help">
+		<Property Name="UnifiedSize" Value="{{0.000000,74.000000},{0.000000,20.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,192.000000},{0.000000,105.000000}}"/>
+                    <Property Name="Text" Value="#{INTERFACE_XML_135}" />
+                    <Event Name="Clicked" Function='Helper:GotoHelper(&quot;*LoginLogOn&quot;);' />
+                </Window>
+              <Window Type="TLBB_ButtonCommon" Name="LogOn_Input_LostPassword">
+	                  <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,20.000000}}"/>
+	                	<Property Name="UnifiedPosition" Value="{{0.000000,187.000000},{0.000000,105.000000}}"/>
+	                	<Property Name="Visible" Value="False" />
+                    <Property Name="Text" Value="#{WJMM_090427_01}" />
+                    <Property Name="Tooltip" Value="#{WJMM_090427_03}"/>                
+                    <Event Name="Clicked" Function='Logon_LostPassWord()' />
+              </Window>
+                <Window Type="TLBB_SimpleText" Name="LogOn_ID_Text">
+                    <Property Name="AbsolutePosition" Value="x:33.000000 y:40.000000" />
+                    <Property Name="UnifiedSize" Value="{{0.300000,48.999992},{0.000000,20.000000}}"/>
+                    <Property Name="TextColor" Value="FFFEE601" />
+                    <Property Name="Text" Value="#{INTERFACE_XML_661}:" />
+                    <Property Name="HorzFormatting" Value="HorzCentred" />
+                    <Property Name="VertFormatting" Value="VertCentred" />
+                    <Property Name="RiseOnClick" Value="False" />
+                </Window>
+                <Window Type="TLBB_EditBoxNormal" Name="LogOn_ID">
+		<Property Name="UnifiedSize" Value="{{0.000000,232.000000},{0.000000,19.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,33.000000},{0.000000,60.000000}}"/>
+                    <Property Name="DisableCopyPaste" Value="True" />
+                    <Event Name="TextAccepted" Function="Logon_LogOn_ID_Return();" />
+                    <Event Name="TabPressed" Function="Logon_ID_TabPressed();" />
+                    <Event Name="MouseEnter" Function="LogOn_ID_MouseEnter();" />
+                    <Event Name="MouseLeave" Function="LogOn_MouseLeave();" />
+                    <Event Name="Activated" Function="LogOn_LogonID_Active();" />
+                    <Property Name="MaxTextLength" Value="50" />
+                </Window>
+                <Window Type="TLBB_SimpleText" Name="LogOn_PassWord_Text">
+                    <Property Name="AbsolutePosition" Value="x:33.000000 y:85.000000" />
+                    <Property Name="UnifiedSize" Value="{{0.300000,-39.000008},{0.000000,20.000000}}"/>
+                    <Property Name="TextColor" Value="FFFEE601" />
+                    <Property Name="Text" Value="#{INTERFACE_XML_658}" />
+                    <Property Name="HorzFormatting" Value="HorzCentred" />
+                    <Property Name="VertFormatting" Value="VertCentred" />
+                    <Property Name="RiseOnClick" Value="False" />
+                </Window>
+                <Window Type="TLBB_EditBoxNormal" Name="LogOn_PassWord">
+                    <Property Name="AbsolutePosition" Value="x:33.000000 y:105.000000" />
+                    <Property Name="UnifiedSize" Value="{{0.000000,123.000000},{0.000000,19.000000}}"/>
+                    <Property Name="MaskText" Value="True" />
+                    <Property Name="MaxTextLength" Value="32" />
+                    <Event Name="TextAccepted" Function="Logon_Password_Return();" />
+                    <Event Name="TabPressed" Function="Logon_Password_TabPressed();" />
+                    <Event Name="MouseEnter" Function="LogOn_PassWord_MouseEnter();" />
+                    <Event Name="MouseLeave" Function="LogOn_MouseLeave();" />
+                    <Event Name="Activated" Function="LogOn_LogonPassWord_Active();" />
+                </Window>
+                <Window Type="TLBB_ComboList" Name="LogOn_Region">
+		                <Property Name="UnifiedSize" Value="{{0.000000,171.000000},{0.000000,19.000000}}"/>
+	                 	<Property Name="UnifiedPosition" Value="{{0.000000,163.000000},{0.000000,59.000000}}"/>
+                    <Property Name="Text" Value="@games.sohu.com" />
+                    <Property Name="ReadOnly" Value="True" />
+                    <Property Name="Visible" Value="False"/>
+                </Window>
+			  	<Window Type="TLBB_ButtonCheck" Name="LogOn_PassWord_Protect_Check">
+	             <Property Name="UnifiedSize" Value="{{0.000000,12.000000},{0.000000,12.000000}}"/>
+	             <Property Name="UnifiedPosition" Value="{{0.000000,30.000000},{0.000000,135.000000}}"/>
+					     <Property Name="CheckMode" Value="0" />
+					     <Property Name="Visible" Value="False"/>
+					      <Event Name="Clicked" Function="PassWordProtectCheckClicked()" />
+				</Window>
+                <Window Type="TLBB_SimpleText" Name="LogOn_PassWord_Protect_Text">
+	                	<Property Name="UnifiedSize" Value="{{0.300000,111.000000},{0.000000,20.000000}}"/>
+		                <Property Name="UnifiedPosition" Value="{{0.000000,45.000000},{0.000000,130.000000}}"/>
+                    <Property Name="TextColor" Value="FFC9FF01" />
+                    <Property Name="Text" Value="#{INTERFACE_XML_1016}" />
+                    <Property Name="HorzFormatting" Value="LeftAligned" />
+                    <Property Name="VertFormatting" Value="VertCentred" />
+                    <Property Name="RiseOnClick" Value="False" />
+					          <Property Name="Tooltip" Value="#{DHMB_0711_05}" />
+					          <Property Name="Visible" Value="False"/>
+                </Window>
+              <Window Type="TLBB_ButtonGreen" Name="LogOn_mibaoka" >
+	            	<Property Name="UnifiedSize" Value="{{0.000000,220.000000},{0.000000,24.000000}}"/>
+	            	<Property Name="UnifiedPosition" Value="{{0.000000,32.000000},{0.000000,154.000000}}"/>
+                <Property Name="Text" Value="#{INTERFACE_XML_1035}" />
+                <Property Name="Tooltip" Value="#{INTERFACE_XML_1036}" />
+                <Property Name="Visible" Value="False"/>
+				 <Event Name="Clicked" Function="LogOn_Show_MibaoPage()" />
+              </Window>
+            </Window>
+            <Window Type="TLBB_StaticImageNULL" Name="LogOn_Input_Background_DragonHead">
+		<Property Name="UnifiedSize" Value="{{0.000000,114.000000},{0.000000,62.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,336.000000},{0.196667,-85.000000}}"/>
+                <Property Name="Image" Value="set:Button4 image:Dragon_Head" />
+                <Property Name="AlwaysOnTop" Value="True" />
+            </Window>
+            <Window Type="TLBB_StaticImageNULL" Name="LogOn_Input_Background_Dragon_VClaw_Left">
+		<Property Name="UnifiedSize" Value="{{0.000000,15.000000},{0.000000,19.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,248.000000},{0.000000,109.000000}}"/>
+                <Property Name="Image" Value="set:Button4 image:Dragon_VClaw_Left" />
+                <Property Name="AlwaysOnTop" Value="True" />
+            </Window>
+            <Window Type="TLBB_StaticImageNULL" Name="LogOn_Input_Background_Dragon_VClaw_Right">
+		<Property Name="UnifiedSize" Value="{{0.000000,15.000000},{0.000000,19.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,527.000000},{0.000000,109.000000}}"/>
+                <Property Name="Image" Value="set:Button4 image:Dragon_VClaw_Rigth" />
+                <Property Name="AlwaysOnTop" Value="True" />
+            </Window>
+            <Window Type="TLBB_StaticImageNULL" Name="LogOn_Input_Background_RedLine_Left">
+		<Property Name="UnifiedSize" Value="{{0.000000,5.000000},{0.000000,83.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,248.000000},{0.000000,78.000000}}"/>
+                <Property Name="Image" Value="set:Button4 image:RedLine" />
+                <Property Name="AlwaysOnTop" Value="True" />
+            </Window>
+            <Window Type="TLBB_StaticImageNULL" Name="LogOn_Input_Background_RedLine_Right">
+		<Property Name="UnifiedSize" Value="{{0.000000,5.000000},{0.000000,83.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,539.000000},{0.000000,78.000000}}"/>
+                <Property Name="Image" Value="set:Button4 image:RedLine" />
+                <Property Name="AlwaysOnTop" Value="True" />
+            </Window>
+            <Window Type="TLBB_ButtonExp2" Name="LogOn_LogOnGame">
+		<Property Name="UnifiedSize" Value="{{0.000000,200.000000},{0.073333,0.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,300.000000},{0.000000,248.000000}}"/>
+                <Property Name="Text" Value="#{INTERFACE_XML_381}" />
+                <Event Name="Clicked" Function="LogOn_CheckAccount();" />
+                <Event Name="MouseEnter" Function="LogOn_LogOnGame_MouseEnter();" />
+                <Event Name="MouseLeave" Function="LogOn_MouseLeave();" />
+            </Window>
+            <Window Type="TLBB_ButtonExp1" Name="LogOn_AntiDetect">
+		<Property Name="UnifiedSize" Value="{{0.000000,120.000000},{0.060000,0.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,650.000000},{0.601333,15.000000}}"/>
+                <Property Name="Text" Value="#{ANTI_DETECT_01}" />
+		            <Property Name="Visible" Value="False"/>
+                <Event Name="Clicked" Function="LogOn_AntiDetect_Begin();" />
+                <Event Name="MouseEnter" Function="LogOn_AntiDetect_MouseEnter();" />
+                <Event Name="MouseLeave" Function="LogOn_MouseLeave();" />
+            </Window>
+            <Window Type="TLBB_ButtonExp1" Name="LogOn_payment">
+		<Property Name="UnifiedSize" Value="{{0.000000,120.000000},{0.060000,0.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,650.000000},{0.670000,15.000000}}"/>
+                <Property Name="Text" Value="#{INTERFACE_XML_851}" />
+                <Property Name="Visible" Value="False"/>
+                <Event Name="MouseEnter" Function="LogOn_Payment_MouseEnter();" />
+                <Event Name="MouseLeave" Function="LogOn_MouseLeave();" />
+                <Event Name="Clicked" Function="LogOn_AccountChongZhi();" />
+            </Window>
+            <Window Type="TLBB_ButtonExp1" Name="LogOn_RequisitionID">
+		<Property Name="UnifiedSize" Value="{{0.000000,120.000000},{0.060000,0.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,650.000000},{0.670000,15.000000}}"/>
+		            <Property Name="Visible" Value="False"/>
+                <Property Name="Text" Value="#{INTERFACE_XML_852}" />
+                <Event Name="Clicked" Function="LogOn_AccountReg();" />
+                <Event Name="MouseEnter" Function="LogOn_RequisitionID_MouseEnter();" />
+                <Event Name="MouseLeave" Function="LogOn_MouseLeave();" />
+            </Window>
+            <Window Type="TLBB_ButtonExp1" Name="LogOn_Last">
+		<Property Name="UnifiedSize" Value="{{0.000000,120.000000},{0.060000,0.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,650.000000},{0.731667,15.000000}}"/>
+                <Property Name="Text" Value="#{INTERFACE_XML_600}" />
+                <Event Name="Clicked" Function="LogOn_ExitToSelectServer();" />
+                <Event Name="MouseEnter" Function="LogOn_Last_MouseEnter();" />
+                <Event Name="MouseLeave" Function="LogOn_MouseLeave();" />
+            </Window>
+            <Window Type="TLBB_Frame2" Name="MiBaoTips_Frame_sub">
+		<Property Name="UnifiedSize" Value="{{0.000000,700.000000},{0.000000,100.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,50.000000},{0.500000,-37.000000}}"/>
+		<Property Name="Visible" Value="False"/>
+                <Window Type="TLBB_SelfWindow" Name="MiBaoTips_InfoWindow">
+		<Property Name="UnifiedSize" Value="{{1.000000,0.000000},{1.000000,0.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.000000,0.000000},{0.000000,-1.000000}}"/>
+                    <Property Name="HorzFormatting" Value="WordWrapLeftAligned" />
+                    <Property Name="VertFormatting" Value="VertCentred" />
+                    <Property Name="RiseOnClick" Value="False" />
+                    <Property Name="TextColor" Value="FFFEE601" />
+                    <Property Name="MaxWidth" Value="700" />
+                    <Property Name="MinHeight" Value="100" />
+                    <Property Name="Text" Value="#{DHMB_90417_1}" />
+                </Window>
+            </Window>
+            <Window Type="TLBB_Frame1" Name="LogOn_Enroll1_Frame">
+		            <Property Name="UnifiedSize" Value="{{0.000000,311.000000},{0.000000,240.000000}}"/>
+	             	<Property Name="UnifiedPosition" Value="{{0.005000,0.000000},{0.196667,0.000000}}"/>
+                <Property Name="RiseOnClick" Value="False" />
+                <Window Type="TLBB_SimpleText" Name="LogOn_Enroll1_Text1">
+		                <Property Name="UnifiedSize" Value="{{0.000000,98.000000},{0.000000,20.000000}}"/>
+		                <Property Name="UnifiedPosition" Value="{{0.000000,20.000000},{0.000000,23.000000}}"/>
+                    <Property Name="Text" Value="#{INTERFACE_XML_836}" />
+                    <Property Name="TextColor" Value="FFFFF263" />
+                    <Property Name="HorzFormatting" Value="LeftAligned" />
+                    <Property Name="VertFormatting" Value="VertCentred" />
+                </Window>
+                <Window Type="TLBB_SimpleMulitiTextFrame" Name="LogOn_Enroll1_Name">
+		                <Property Name="UnifiedSize" Value="{{0.000000,197.000000},{0.000000,20.000000}}"/>
+	                	<Property Name="UnifiedPosition" Value="{{0.000000,20.000000},{0.000000,43.000000}}"/>
+                    <Property Name="HorzFormatting" Value="LeftAligned" />
+                    <Property Name="VertFormatting" Value="VertCentred" />
+                    <Property Name="Text" Value="1234567890@games.sohu.com" />
+                    <Property Name="TextColor" Value="FFFFF263" />
+                </Window>
+                <Window Type="TLBB_SimpleText" Name="LogOn_Enroll1_Text2">
+	                	<Property Name="UnifiedSize" Value="{{0.000000,159.000000},{0.000000,20.000000}}"/>
+	                	<Property Name="UnifiedPosition" Value="{{0.000000,20.000000},{0.000000,70.000000}}"/>
+                    <Property Name="Text" Value="#{INTERFACE_XML_456}" />
+                    <Property Name="TextColor" Value="FFFFF263" />
+                    <Property Name="HorzFormatting" Value="LeftAligned" />
+                    <Property Name="VertFormatting" Value="VertCentred" />
+                </Window>
+                <Window Type="TLBB_EditBoxNormal" Name="LogOn_Enroll1_Edit1">
+		                <Property Name="UnifiedSize" Value="{{0.000000,105.000000},{0.000000,20.000000}}"/>
+		                <Property Name="UnifiedPosition" Value="{{0.000000,184.000000},{0.000000,70.000000}}"/>
+                    <Property Name="MaskText" Value="True" />
+                    <Property Name="MaxTextLength" Value="32" />
+                    <Event Name="TabPressed" Function="Logon_Enroll_PressTable(1);" />
+                </Window>
+                <Window Type="TLBB_SimpleText" Name="LogOn_Enroll1_Text3">
+		                <Property Name="UnifiedSize" Value="{{0.000000,159.000000},{0.000000,20.000000}}"/>
+	                 	<Property Name="UnifiedPosition" Value="{{0.000000,20.000000},{0.000000,95.000000}}"/>
+                    <Property Name="Text" Value="#{INTERFACE_XML_457}" />
+                    <Property Name="TextColor" Value="FFFFF263" />
+                    <Property Name="HorzFormatting" Value="LeftAligned" />
+                    <Property Name="VertFormatting" Value="VertCentred" />
+                </Window>
+                <Window Type="TLBB_EditBoxNormal" Name="LogOn_Enroll1_Edit2">
+	                	<Property Name="UnifiedSize" Value="{{0.000000,105.000000},{0.000000,20.000000}}"/>
+	                	<Property Name="UnifiedPosition" Value="{{0.000000,184.000000},{0.000000,95.000000}}"/>
+                    <Property Name="MaskText" Value="True" />
+                    <Property Name="MaxTextLength" Value="32" />
+                    <Event Name="TabPressed" Function="Logon_Enroll_PressTable(2);" />
+                </Window>
+                <Window Type="TLBB_SimpleText" Name="LogOn_Enroll1_Text4">
+	                	<Property Name="UnifiedSize" Value="{{0.000000,159.000000},{0.000000,20.000000}}"/>
+		                <Property Name="UnifiedPosition" Value="{{0.000000,20.000000},{0.000000,120.000000}}"/>
+                    <Property Name="Text" Value="#{INTERFACE_XML_171}" />
+                    <Property Name="TextColor" Value="FFFFF263" />
+                    <Property Name="HorzFormatting" Value="LeftAligned" />
+                    <Property Name="VertFormatting" Value="VertCentred" />
+                </Window>
+                <Window Type="TLBB_EditBoxNormal" Name="LogOn_Enroll1_Edit3">
+	                  <Property Name="UnifiedSize" Value="{{0.000000,105.000000},{0.000000,20.000000}}"/>
+		                <Property Name="UnifiedPosition" Value="{{0.000000,184.000000},{0.000000,120.000000}}"/>
+                    <Property Name="MaskText" Value="True" />
+                    <Property Name="MaxTextLength" Value="32" />
+                    <Event Name="TabPressed" Function="Logon_Enroll_PressTable(3);" />
+                </Window>
+                <Window Type="TLBB_SimpleText" Name="LogOn_Enroll1_Text5">
+                  	<Property Name="UnifiedSize" Value="{{0.000000,159.000000},{0.000000,20.000000}}"/>
+		                <Property Name="UnifiedPosition" Value="{{0.000000,20.000000},{0.000000,145.000000}}"/>
+                    <Property Name="Text" Value="#{INTERFACE_XML_172}" />
+                    <Property Name="TextColor" Value="FFFFF263" />
+                    <Property Name="HorzFormatting" Value="LeftAligned" />
+                    <Property Name="VertFormatting" Value="VertCentred" />
+                </Window>
+                <Window Type="TLBB_EditBoxNormal" Name="LogOn_Enroll1_Edit4">
+		                <Property Name="UnifiedSize" Value="{{0.000000,105.000000},{0.000000,20.000000}}"/>
+		                <Property Name="UnifiedPosition" Value="{{0.000000,184.000000},{0.000000,146.000000}}"/>
+                    <Property Name="MaskText" Value="True" />
+                    <Property Name="MaxTextLength" Value="32" />
+                    <Event Name="TabPressed" Function="Logon_Enroll_PressTable(4);" />
+                </Window>
+                <Window Type="TLBB_SimpleText" Name="LogOn_Enroll1_Text6">
+	                 	<Property Name="UnifiedSize" Value="{{0.000000,159.000000},{0.000000,20.000000}}"/>
+		                <Property Name="UnifiedPosition" Value="{{0.000000,20.000000},{0.000000,170.000000}}"/>
+                    <Property Name="Text" Value="#{INTERFACE_XML_239}" />
+                    <Property Name="TextColor" Value="FFFFF263" />
+                    <Property Name="HorzFormatting" Value="LeftAligned" />
+                    <Property Name="VertFormatting" Value="VertCentred" />
+                    <Property Name="Visible" Value="True" />
+                </Window>
+                <Window Type="TLBB_EditBoxNormal" Name="LogOn_Enroll1_Edit6">
+	                 	<Property Name="UnifiedSize" Value="{{0.000000,105.000000},{0.000000,20.000000}}"/>
+		                <Property Name="UnifiedPosition" Value="{{0.000000,184.000000},{0.000000,170.000000}}"/>
+                    <Property Name="MaskText" Value="False" />
+                    <Property Name="MaxTextLength" Value="32" />
+                    <Event Name="TabPressed" Function="Logon_Enroll_PressTable(5);" />
+                    <Property Name="Visible" Value="True" />
+                </Window>
+                <Window Type="TLBB_ButtonCommon" Name="LogOn_Enroll1_Accept">
+	                  <Property Name="UnifiedSize" Value="{{0.000000,52.000000},{0.000000,20.000000}}"/>
+		                <Property Name="UnifiedPosition" Value="{{0.000000,184.000000},{0.000000,200.000000}}"/>
+                    <Property Name="Text" Value="#{INTERFACE_XML_557}" />
+                    <Event Name="Clicked" Function="LogOn_Enroll1_OK(1)" />
+                </Window>
+                <Window Type="TLBB_ButtonCommon" Name="LogOn_Enroll1_Cancel">
+		                <Property Name="UnifiedSize" Value="{{0.000000,52.000000},{0.000000,20.000000}}"/>
+		                <Property Name="UnifiedPosition" Value="{{0.000000,237.000000},{0.000000,200.000000}}"/>
+                    <Property Name="Text" Value="#{INTERFACE_XML_542}" />
+                    <Event Name="Clicked" Function="LogOn_Enroll1_Cancel()" />
+                </Window>
+            </Window>
+        </Window>
+        <Window Type="TLBB_SimpleText" Name="LogOn_xugou_Text" >
+          <Property Name="AbsolutePosition" Value="x:8.000000 y:21.000000" />
+          <Property Name="AbsoluteSize" Value="w:100.000000 h:18.000000" />
+          <Property Name="HorzFormatting" Value="WordWrapLeftAligned" />
+          <Property Name="RiseOnClick" Value="False" />
+          <Property Name="Text" Value="#{INTERFACE_XML_1037}" />
+          <Property Name="VertFormatting" Value="TopAligned" />
+        </Window>
+    </Window>
+</GUILayout>

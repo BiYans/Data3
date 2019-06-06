@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<Imageset Name="KJRK_2" Imagefile="Common/tga_KJRK_2.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+
+  <Image Name="KJRK_VIP_Normal" XPos="0" YPos="3" Width="51" Height="61" />
+  <Image Name="KJRK_VIP_Hover" XPos="52" YPos="3" Width="51" Height="61" />
+  <Image Name="KJRK_VIP_Disable" XPos="104" YPos="3" Width="51" Height="61" />
+  <Image Name="KJRK_VIP_Pushed" XPos="156" YPos="3" Width="51" Height="61" />
+
+  <Image Name="KJRK_JCHD_Normal" XPos="208" YPos="3" Width="51" Height="61" />
+  <Image Name="KJRK_JCHD_Hover" XPos="260" YPos="3" Width="51" Height="61" />
+  <Image Name="KJRK_JCHD_Disable" XPos="312" YPos="3" Width="51" Height="61" />
+  <Image Name="KJRK_JCHD_Pushed" XPos="364" YPos="3" Width="51" Height="61" />
+
+  <Image Name="KJRK_RHYLJ_Normal" XPos="0" YPos="65" Width="51" Height="61" />
+  <Image Name="KJRK_RHYLJ_Hover" XPos="52" YPos="65" Width="51" Height="61" />
+  <Image Name="KJRK_RHYLJ_Disable" XPos="104" YPos="65" Width="51" Height="61" />
+  <Image Name="KJRK_RHYLJ_Pushed" XPos="156" YPos="65" Width="51" Height="61" />
+
+  <Image Name="KJRK_SJJL_Normal" XPos="208" YPos="65" Width="51" Height="61" />
+  <Image Name="KJRK_SJJL_Hover" XPos="260" YPos="65" Width="51" Height="61" />
+  <Image Name="KJRK_SJJL_Disable" XPos="312" YPos="65" Width="51" Height="61" />
+  <Image Name="KJRK_SJJL_Pushed" XPos="364" YPos="65" Width="51" Height="61" />
+
+  <Image Name="KJRK_SCJL_Normal" XPos="0" YPos="127" Width="51" Height="61" />
+  <Image Name="KJRK_SCJL_Hover" XPos="52" YPos="127" Width="51" Height="61" />
+  <Image Name="KJRK_SCJL_Disable" XPos="104" YPos="127" Width="51" Height="61" />
+  <Image Name="KJRK_SCJL_Pushed" XPos="156" YPos="127" Width="51" Height="61" />
+
+  <Image Name="KJRK_WLFYL_Normal" XPos="208" YPos="127" Width="51" Height="61" />
+  <Image Name="KJRK_WLFYL_Hover" XPos="260" YPos="127" Width="51" Height="61" />
+  <Image Name="KJRK_WLFYL_Disable" XPos="312" YPos="127" Width="51" Height="61" />
+  <Image Name="KJRK_WLFYL_Pushed" XPos="364" YPos="127" Width="51" Height="61" />
+
+  <Image Name="KJRK_ZHYLJ_Normal" XPos="0" YPos="189" Width="51" Height="61" />
+  <Image Name="KJRK_ZHYLJ_Hover" XPos="52" YPos="189" Width="51" Height="61" />
+  <Image Name="KJRK_ZHYLJ_Disable" XPos="104" YPos="189" Width="51" Height="61" />
+  <Image Name="KJRK_ZHYLJ_Pushed" XPos="156" YPos="189" Width="51" Height="61" />
+
+  <Image Name="KJRK_HGTQ_Normal" XPos="208" YPos="189" Width="51" Height="61" />
+  <Image Name="KJRK_HGTQ_Hover" XPos="260" YPos="189" Width="51" Height="61" />
+  <Image Name="KJRK_HGTQ_Disable" XPos="312" YPos="189" Width="51" Height="61" />
+  <Image Name="KJRK_HGTQ_Pushed" XPos="364" YPos="189" Width="51" Height="61" />
+
+  <Image Name="KJRK_HGTQ_1" XPos="0" YPos="251" Width="51" Height="61" />
+  <Image Name="KJRK_HGTQ_2" XPos="52" YPos="251" Width="51" Height="61" />
+  <Image Name="KJRK_HGTQ_3" XPos="104" YPos="251" Width="51" Height="61" />
+  <Image Name="KJRK_HGTQ_4" XPos="156" YPos="251" Width="51" Height="61" />
+  <Image Name="KJRK_HGTQ_5" XPos="208" YPos="251" Width="51" Height="61" />
+  <Image Name="KJRK_HGTQ_6" XPos="260" YPos="251" Width="51" Height="61" />
+  <Image Name="KJRK_HGTQ_7" XPos="312" YPos="251" Width="51" Height="61" />
+  <Image Name="KJRK_HGTQ_8" XPos="364" YPos="251" Width="51" Height="61" />
+
+  <Image Name="KJRK_FJTL_1" XPos="0" YPos="315" Width="51" Height="61" />
+  <Image Name="KJRK_FJTL_2" XPos="52" YPos="315" Width="51" Height="61" />
+  <Image Name="KJRK_FJTL_3" XPos="104" YPos="315" Width="51" Height="61" />
+  <Image Name="KJRK_FJTL_4" XPos="156" YPos="315" Width="51" Height="61" />
+  <Image Name="KJRK_FJTL_5" XPos="208" YPos="315" Width="51" Height="61" />
+  <Image Name="KJRK_FJTL_6" XPos="260" YPos="315" Width="51" Height="61" />
+  <Image Name="KJRK_FJTL_7" XPos="312" YPos="315" Width="51" Height="61" />
+  <Image Name="KJRK_FJTL_8" XPos="364" YPos="315" Width="51" Height="61" />
+
+  <Image Name="KJRK_FJTL_Normal" XPos="0" YPos="376" Width="51" Height="61" />
+  <Image Name="KJRK_FJTL_Hover" XPos="52" YPos="376" Width="51" Height="61" />
+  <Image Name="KJRK_FJTL_Disable" XPos="104" YPos="376" Width="51" Height="61" />
+  <Image Name="KJRK_FJTL_Pushed" XPos="156" YPos="376" Width="51" Height="61" />
+
+  <Image Name="KJRK_DWRHF_Normal" XPos="208" YPos="376" Width="51" Height="61" />
+  <Image Name="KJRK_DWRHF_Hover" XPos="260" YPos="376" Width="51" Height="61" />
+  <Image Name="KJRK_DWRHF_Disable" XPos="312" YPos="376" Width="51" Height="61" />>
+  <Image Name="KJRK_DWRHF_Pushed" XPos="364" YPos="376" Width="51" Height="61" />
+
+</Imageset>

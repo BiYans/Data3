@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+	<Imageset Name="AgnamePangu2" Imagefile="Common/tga_AgnamePangu2.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="false">
+    <Image Name="PanguMoon_R1" XPos="8" YPos="9" Width="75" Height="40" />
+    <Image Name="PanguMoon_R2" XPos="8" YPos="48" Width="75" Height="40" />
+    <Image Name="PanguMoon_R3" XPos="8" YPos="84" Width="75" Height="40" />
+    <Image Name="PanguMoon_R4" XPos="8" YPos="124" Width="75" Height="40" />
+    <Image Name="PanguMoon_R5" XPos="8" YPos="164" Width="75" Height="40" />
+    <Image Name="PanguMoon_R6" XPos="8" YPos="204" Width="75" Height="40" />
+  </Imageset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<GUILayout>
+    <Window Type="DefaultWindow" Name="AntiJDY_Frame">
+        <Property Name="AlwaysOnTop" Value="True" />
+        <Property Name="Position" Value="x:0.0 y:0.0" />
+        <Property Name="Size" Value="w:1.0 h:1.0" />
+		     <Event Name="Hidden" Function="AntiJDY_Frame_OnHiden();" />
+        <Window Type="TLBB_Frame3" Name="AntiJDY_sub">
+            <Property Name="UnifiedPosition" Value="{{0.500000,-173.000000},{0.500000,-73.000000}" />
+            <Property Name="UnifiedSize" Value="{{0.000000,346.000000},{0.000000,73.000000}" />
+          <Window Type="TLBB_SimpleText" Name="AntiJDY_InfoWindow">
+            <Property Name="UnifiedPosition" Value="{{0.0,10.000000},{0.000000,10.000000}" />
+            <Property Name="UnifiedSize" Value="{{0,326.000000},{0.000000,53.000000}" />
+            <Property Name="Text" Value="#{JDY_100317_1}" />
+            <Property Name="HorzFormatting" Value="WordWrapLeftAligned" />
+            <Property Name="VertFormatting" Value="VertCentred" />
+            <Property Name="RiseOnClick" Value="False" />
+          </Window>
+            <Window Type="TLBB_ButtonCommon" Name="AntiJDY_Button">
+                <Property Name="UnifiedPosition" Value="{{1.000000,-45.000000},{1.000000,-25.000000}" />
+                <Property Name="AbsoluteSize" Value="w:40.000000 h:20.000000" />
+                <Property Name="Text" Value="#{INTERFACE_XML_557}" />
+                <Event Name="Clicked" Function="AntiJDY_Bn1Click();" />
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>

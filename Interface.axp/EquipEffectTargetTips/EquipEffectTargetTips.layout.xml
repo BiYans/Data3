@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<GUILayout>
+  <Window Type="TLBB_SimpleMulitiTextFrame" Name="EquipEffectTargetTips_Frame">
+    <Property Name="UnifiedSize" Value="{{0.000000,170.000000},{0.000000,236.000000}}"/>
+    <Property Name="UnifiedPosition" Value="{{0.500000,-95.000000},{0.200000,100.000000}}"/>
+    <Property Name="AlwaysOnTop" Value="True"/>
+    <Window Type="TLBB_SimpleMulitiTextFrame" Name="EquipEffectTargetTips_Up">
+      <Property Name="UnifiedSize" Value="{{1.000000,-10.000000},{0.000000,98.000000}}"/>
+      <Property Name="UnifiedPosition" Value="{{0.000000,5.000000},{0.000000,5.000000}}"/>
+      <Window Type="TLBB_SimpleMulitiTextFrame" Name="EquipEffectTargetTips_Up_TXT1">
+        <Property Name="UnifiedSize" Value="{{1.000000,0.000000},{0.000000,24.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,0.000000},{0.000000,0.000000}}"/>
+        <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_UpTXT1_1">
+          <Property Name="UnifiedSize" Value="{{0.000000,159.000000},{0.000000,20.000000}}"/>
+          <Property Name="UnifiedPosition" Value="{{0.000000,4.000000},{0.000000,2.000000}}"/>
+          <Property Name="Text" Value="#{QHTZ_140808_02}"/>
+        </Window>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_UpTXT2">
+        <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,4.000000},{0.000000,24.000000}}"/>
+        <Property Name="Text" Value=""/>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_UpTXT3">
+        <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,4.000000},{0.000000,42.000000}}"/>
+        <Property Name="Text" Value=""/>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_UpTXT4">
+        <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,4.000000},{0.000000,60.000000}}"/>
+        <Property Name="Text" Value=""/>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_UpTXT5">
+        <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,4.000000},{0.000000,78.000000}}"/>
+        <Property Name="Text" Value=""/>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_UpTXT6">
+        <Property Name="UnifiedSize" Value="{{0.000000,50.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,106.000000},{0.000000,24.000000}}"/>
+        <Property Name="Text" Value="+10000"/>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_UpTXT7">
+        <Property Name="UnifiedSize" Value="{{0.000000,50.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,106.000000},{0.000000,42.000000}}"/>
+        <Property Name="Text" Value="+10000"/>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_UpTXT8">
+        <Property Name="UnifiedSize" Value="{{0.000000,50.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,106.000000},{0.000000,60.000000}}"/>
+        <Property Name="Text" Value="+10000"/>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_UpTXT9">
+        <Property Name="UnifiedSize" Value="{{0.000000,50.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,106.000000},{0.000000,78.000000}}"/>
+        <Property Name="Text" Value="+10000"/>
+      </Window>
+    </Window>
+    <Window Type="TLBB_SimpleMulitiTextFrame" Name="EquipEffectTargetTips_Down">
+      <Property Name="UnifiedSize" Value="{{1.000000,-10.000000},{0.000000,98.000000}}"/>
+      <Property Name="UnifiedPosition" Value="{{0.000000,5.000000},{0.000000,133.000000}}"/>
+      <Window Type="TLBB_SimpleMulitiTextFrame" Name="EquipEffectTargetTips_DownTXT1">
+        <Property Name="UnifiedSize" Value="{{1.000000,0.000000},{0.000000,24.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,0.000000},{0.000000,0.000000}}"/>
+        <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_DownTXT1_1">
+          <Property Name="UnifiedSize" Value="{{0.000000,90.000000},{0.000000,20.000000}}"/>
+          <Property Name="UnifiedPosition" Value="{{0.000000,4.000000},{0.000000,2.000000}}"/>
+          <Property Name="Text" Value="#{QHTZ_140808_07}"/>
+        </Window>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_DownTXT2">
+        <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,4.000000},{0.000000,24.000000}}"/>
+        <Property Name="Text" Value=""/>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_DownTXT3">
+        <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,4.000000},{0.000000,42.000000}}"/>
+        <Property Name="Text" Value=""/>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_DownTXT4">
+        <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,4.000000},{0.000000,60.000000}}"/>
+        <Property Name="Text" Value=""/>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_DownTXT5">
+        <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,4.000000},{0.000000,78.000000}}"/>
+        <Property Name="Text" Value=""/>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_DownTXT6">
+        <Property Name="UnifiedSize" Value="{{0.000000,50.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,106.000000},{0.000000,24.000000}}"/>
+        <Property Name="Text" Value="+10000"/>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_DownTXT7">
+        <Property Name="UnifiedSize" Value="{{0.000000,50.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,106.000000},{0.000000,42.000000}}"/>
+        <Property Name="Text" Value="+10000"/>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_DownTXT8">
+        <Property Name="UnifiedSize" Value="{{0.000000,50.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,106.000000},{0.000000,60.000000}}"/>
+        <Property Name="Text" Value="+10000"/>
+      </Window>
+      <Window Type="TLBB_SimpleText" Name="EquipEffectTargetTips_DownTXT9">
+        <Property Name="UnifiedSize" Value="{{0.000000,50.000000},{0.000000,18.000000}}"/>
+        <Property Name="UnifiedPosition" Value="{{0.000000,106.000000},{0.000000,78.000000}}"/>
+        <Property Name="Text" Value="+10000"/>
+      </Window>
+    </Window>
+  </Window>
+</GUILayout>

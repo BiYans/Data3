@@ -1,0 +1,327 @@
+<?xml version="1.0" ?>
+<GUILayout>
+	<Window Type="TLBB_MainFrame0" Name="GMTool_Frame">
+		<Property Name="UnifiedSize" Value="{{0.000000,800.000000},{0.000000,400.000000}}"/>
+		<Property Name="UnifiedPosition" Value="{{0.50000,-400.000000},{0.50000,-200.000000}}"/>
+		<Event Name="Hidden" Function="GMTool_OnHidden();"/>
+		<Window Type="TLBB_DragTitle" Name="GMTool_DragTitle">
+			<Property Name="AbsolutePosition" Value="x:30.000000 y:11.000000"/>
+            <Property Name="UnifiedSize" Value="{{1.000000,-80.000000},{0.000000,20.000000}" />
+			<Property Name="DragTarget" Value="GMTool_Frame"/>
+			<Window Type="TLBB_SimpleText" Name="GMTool_Text">
+				<Property Name="RelativePosition" Value="x:0.000000 y:0.000000"/>
+				<Property Name="RelativeSize" Value="w:1.000000 h:1.000000"/>
+				<Property Name="Font" Value="YouYuan11.25"/>
+				<Property Name="HorzFormatting" Value="HorzCentred"/>
+				<Property Name="VertFormatting" Value="VertCentred"/>
+				<Property Name="RiseOnClick" Value="False"/>
+				<Property Name="Text" Value="#GGM Tool (Makute7413)"/>
+			</Window>
+		</Window>
+		<Window Type="TLBB_ButtonHelp" Name="GMTool_Help">
+			<Property Name="UnifiedPosition" Value="{{0.000000,5.000000},{0.000000,14.000000}}" />
+			<Property Name="AbsoluteSize" Value="w:14.000000 h:14.000000" />
+			<Property Name="Text" Value="TLBB_ButtonHelp" />
+			<Event Name="Clicked" Function="GMTool_Help();" />
+		</Window>
+		<Window Type="TLBB_ButtonClose" Name="GMTool_Close">
+			<Property Name="UnifiedPosition" Value="{{1.000000,-19.000000},{0.000000,14.000000}}" />
+			<Property Name="AbsoluteSize" Value="w:14.000000 h:14.000000" />
+			<Property Name="Text" Value="TLBB_ButtonClose" />
+			<Event Name="Clicked" Function="GMTool_OnHidden();" />
+		</Window>
+        <Window Type="DefaultWindow" Name="GMTool_Frame_Client">
+            <Property Name="AbsolutePosition" Value="x:10.000000 y:35.000000" />
+            <Property Name="UnifiedSize" Value="{{1.000000,-14.000000},{1.000000,-60.000000}" />
+			
+            <Window Type="TLBB_SimpleMulitiTextFrame" Name="GMTool_InputIDText">
+                <Property Name="UnifiedPosition" Value="{{0.000000,10.000000},{0.000000,10.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,185.000000},{0.000000,25.000000}" />
+                <Property Name="Text" Value="Nhập Char ID (Hex/Dec):" />
+                <Property Name="TextColor" Value="FFFFF263" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+
+			<Window Type="TLBB_EditBoxNormal" Name="GMTool_InputID">
+                <Property Name="UnifiedPosition" Value="{{0.000000,10.000000},{0.000000,40.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,85.000000},{0.000000,25.000000}" />
+                <Property Name="MaxTextLength" Value="10" />
+                <Property Name="Text" Value="" />
+            </Window>
+			
+			<Window Type="TLBB_SimpleMulitiTextFrame" Name="GMTool_InputID2">
+                <Property Name="UnifiedPosition" Value="{{0.000000,10.000000},{0.000000,40.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,85.000000},{0.000000,25.000000}" />
+                <Property Name="Text" Value="" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+			
+			<Window Type="TLBB_ButtonCommon" Name="GMTool_LockID">
+                <Property Name="UnifiedPosition" Value="{{0.000000,100.000000},{0.000000,40.000000}" />
+                <Property Name="AbsoluteSize" Value="w:45.000000 h:25.000000" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+				<Property Name="Text" Value="Khoá" />
+                <Event Name="Clicked" Function="GMTool_FnLockID();" />
+            </Window>
+			
+			<Window Type="TLBB_ButtonCommon" Name="GMTool_UnlockID">
+                <Property Name="UnifiedPosition" Value="{{0.000000,150.000000},{0.000000,40.000000}" />
+                <Property Name="AbsoluteSize" Value="w:45.000000 h:25.000000" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+				<Property Name="Text" Value="Mở" />
+                <Event Name="Clicked" Function="GMTool_FnUnlockID();" />
+            </Window>
+			
+			<Window Type="TLBB_ButtonCommon" Name="GMTool_RefreshData">
+                <Property Name="UnifiedPosition" Value="{{0.000000,10.000000},{0.000000,70.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,185.000000},{0.000000,25.000000}" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+				<Property Name="Text" Value="Lấy Dữ Liệu Nhân Vật" />
+                <Event Name="Clicked" Function="GMTool_RefreshData();" />
+            </Window>
+			
+			<Window Type="TLBB_SimpleMulitiTextFrame" Name="GMTool_CharName">
+                <Property Name="UnifiedPosition" Value="{{0.000000,10.000000},{0.000000,100.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,185.000000},{0.000000,25.000000}" />
+                <Property Name="Text" Value="Tên:" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+			
+			<Window Type="TLBB_SimpleMulitiTextFrame" Name="GMTool_CharLevel">
+                <Property Name="UnifiedPosition" Value="{{0.000000,10.000000},{0.000000,130.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,185.000000},{0.000000,25.000000}" />
+                <Property Name="Text" Value="Cấp Độ:" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+			
+			<Window Type="TLBB_SimpleMulitiTextFrame" Name="GMTool_CharMenpai">
+                <Property Name="UnifiedPosition" Value="{{0.000000,10.000000},{0.000000,160.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,185.000000},{0.000000,25.000000}" />
+                <Property Name="Text" Value="Môn Phái:" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+			
+			<Window Type="TLBB_SimpleMulitiTextFrame" Name="GMTool_CharLeague">
+                <Property Name="UnifiedPosition" Value="{{0.000000,10.000000},{0.000000,190.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,185.000000},{0.000000,25.000000}" />
+                <Property Name="Text" Value="Bang Hội:" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+
+			<Window Type="TLBB_SimpleMulitiTextFrame" Name="GMTool_Money">
+                <Property Name="UnifiedPosition" Value="{{0.000000,10.000000},{0.000000,220.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,185.000000},{0.000000,25.000000}" />
+                <Property Name="Text" Value="N.Lượng:" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+			
+			<Window Type="TLBB_SimpleMulitiTextFrame" Name="GMTool_BindMoney">
+                <Property Name="UnifiedPosition" Value="{{0.000000,10.000000},{0.000000,250.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,185.000000},{0.000000,25.000000}" />
+                <Property Name="Text" Value="Giao Tử:" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+			
+			<Window Type="TLBB_SimpleMulitiTextFrame" Name="GMTool_Yuanbao">
+                <Property Name="UnifiedPosition" Value="{{0.000000,10.000000},{0.000000,280.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,185.000000},{0.000000,25.000000}" />
+                <Property Name="Text" Value="Nguyên Bảo:" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+			
+			<Window Type="TLBB_SimpleMulitiTextFrame" Name="GMTool_Zengdian">
+                <Property Name="UnifiedPosition" Value="{{0.000000,10.000000},{0.000000,310.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,185.000000},{0.000000,25.000000}" />
+                <Property Name="Text" Value="Điểm Tặng:" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+			
+			<Window Type="TLBB_SimpleMulitiTextFrame" Name="GMTool_DichTram">
+                <Property Name="UnifiedPosition" Value="{{0.000000,205.000000},{0.000000,10.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,205.000000},{0.000000,25.000000}" />
+                <Property Name="Text" Value="Dịch Trạm Lão Bản:" />
+                <Property Name="TextColor" Value="FFFFF263" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+			
+			<Window Type="TLBB_ComboList" Name="GMTool_ChonMap">
+                <Property Name="UnifiedPosition" Value="{{0.000000,205.000000},{0.000000,40.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,205.000000},{0.000000,25.000000}" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+			
+			<Window Type="TLBB_SimpleMulitiTextFrame" Name="GMTool_ToaDo">
+                <Property Name="UnifiedPosition" Value="{{0.000000,205.000000},{0.000000,70.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,60.000000},{0.000000,25.000000}" />
+                <Property Name="Text" Value="#WToạ Độ:" />
+                <Property Name="TextColor" Value="FFFFF263" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+			
+			<Window Type="TLBB_EditBoxNormal" Name="GMTool_ToaDoX">
+                <Property Name="UnifiedPosition" Value="{{0.000000,270.000000},{0.000000,70.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,40.000000},{0.000000,25.000000}" />
+                <Property Name="MaxTextLength" Value="3" />
+				<Property Name="ValidationString" Value="[0-9]*" />
+                <Property Name="Text" Value="" />
+				<Event Name="TextAccepted" Function="GMTool_ToaDoX_Active();" />
+            </Window>
+			
+			<Window Type="TLBB_EditBoxNormal" Name="GMTool_ToaDoZ">
+                <Property Name="UnifiedPosition" Value="{{0.000000,315.000000},{0.000000,70.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,40.000000},{0.000000,25.000000}" />
+                <Property Name="MaxTextLength" Value="3" />
+				<Property Name="ValidationString" Value="[0-9]*" />
+                <Property Name="Text" Value="" />
+				<Event Name="TextAccepted" Function="GMTool_ToaDoZ_Active();" />
+            </Window>
+			
+			<Window Type="TLBB_ButtonCommon" Name="GMTool_DichMap">
+                <Property Name="UnifiedPosition" Value="{{0.000000,360.000000},{0.000000,70.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,50.000000},{0.000000,25.000000}" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+				<Property Name="Text" Value="Dịch" />
+                <Event Name="Clicked" Function="GMTool_DichMap();" />
+            </Window>
+			
+			<Window Type="TLBB_SimpleMulitiTextFrame" Name="GMTool_ThaoTacTrangBi">
+                <Property Name="UnifiedPosition" Value="{{0.000000,205.000000},{0.000000,120.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,205.000000},{0.000000,25.000000}" />
+                <Property Name="Text" Value="Chức Năng Trang Bị:" />
+                <Property Name="TextColor" Value="FFFFF263" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+
+            <Window Type="TLBB_SimpleMulitiTextFrame" Name="GMTool_ItemPushText">
+                <Property Name="UnifiedPosition" Value="{{0.000000,205.000000},{0.000000,150.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,37.000000}" />
+                <Property Name="Text" Value="Định vị Item:" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+			
+            <Window Type="TLBB_ActionButton" Name="GMTool_ObjectItem">
+                <Property Name="UnifiedPosition" Value="{{0.000000,310.000000},{0.000000,151.000000}}"/>
+                <Property Name="AbsoluteSize" Value="w:35 h:35" />
+                <Property Name="DragAcceptName" Value="G73" />
+                <Property Name="DraggingEnabled" Value="True" />
+                <Event Name="RBClicked" Function="GMTool_Clear();" />
+            </Window>
+			
+			<Window Type="TLBB_ButtonCommon" Name="GMTool_DelItem">
+                <Property Name="UnifiedPosition" Value="{{0.000000,350.000000},{0.000000,149.000000}" />
+                <Property Name="AbsoluteSize" Value="w:60.000000 h:39.000000" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+				<Property Name="Text" Value="#GXÓA" />
+                <Event Name="Clicked" Function="GMTool_DelItem();" />
+            </Window>
+			
+			<Window Type="TLBB_ButtonCommon" Name="GMTool_GiamDinh">
+                <Property Name="UnifiedPosition" Value="{{0.000000,205.000000},{0.000000,190.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,25.000000}" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+				<Property Name="Text" Value="Giám Định" />
+                <Event Name="Clicked" Function="GMTool_GiamDinh();" />
+            </Window>
+			
+			<Window Type="TLBB_ButtonCommon" Name="GMTool_CuongHoa">
+                <Property Name="UnifiedPosition" Value="{{0.000000,310.000000},{0.000000,190.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,25.000000}" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+				<Property Name="Text" Value="Cường Hóa" />
+                <Event Name="Clicked" Function="GMTool_CuongHoa();" />
+            </Window>
+			
+			<Window Type="TLBB_ButtonCommon" Name="GMTool_KhacDanh">
+                <Property Name="UnifiedPosition" Value="{{0.000000,205.000000},{0.000000,220.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,25.000000}" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+				<Property Name="Text" Value="Khắc Danh" />
+                <Event Name="Clicked" Function="GMTool_KhacDanh();" />
+            </Window>
+			
+			<Window Type="TLBB_ButtonCommon" Name="GMTool_SuaChua">
+                <Property Name="UnifiedPosition" Value="{{0.000000,310.000000},{0.000000,220.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,25.000000}" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+				<Property Name="Text" Value="Sửa Chữa" />
+                <Event Name="Clicked" Function="GMTool_SuaChua();" />
+            </Window>
+			
+			<Window Type="TLBB_ButtonCommon" Name="GMTool_DucLo">
+                <Property Name="UnifiedPosition" Value="{{0.000000,205.000000},{0.000000,250.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,25.000000}" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+				<Property Name="Text" Value="Đục Lỗ" />
+                <Event Name="Clicked" Function="GMTool_DucLo();" />
+            </Window>
+			
+			<Window Type="TLBB_ButtonCommon" Name="GMTool_ThaoNgoc">
+                <Property Name="UnifiedPosition" Value="{{0.000000,310.000000},{0.000000,250.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,100.000000},{0.000000,25.000000}" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+				<Property Name="Text" Value="Tháo Ngọc" />
+                <Event Name="Clicked" Function="GMTool_ThaoNgoc();" />
+            </Window>
+			
+			<Window Type="TLBB_ComboList" Name="GMTool_ChonLoaiNgoc">
+                <Property Name="UnifiedPosition" Value="{{0.000000,205.000000},{0.000000,280.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,205.000000},{0.000000,25.000000}" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+			
+			<Window Type="TLBB_ComboList" Name="GMTool_ChonCapNgoc">
+                <Property Name="UnifiedPosition" Value="{{0.000000,205.000000},{0.000000,310.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,150.000000},{0.000000,25.000000}" />
+                <Property Name="RiseOnClick" Value="False" />
+            </Window>
+			
+			<Window Type="TLBB_ButtonCommon" Name="GMTool_KhamNgoc">
+                <Property Name="UnifiedPosition" Value="{{0.000000,360.000000},{0.000000,310.000000}}"/>
+                <Property Name="UnifiedSize" Value="{{0.000000,50.000000},{0.000000,25.000000}" />
+                <Property Name="HorzFormatting" Value="LeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+				<Property Name="Text" Value="Khảm" />
+                <Event Name="Clicked" Function="GMTool_KhamNgoc();" />
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>

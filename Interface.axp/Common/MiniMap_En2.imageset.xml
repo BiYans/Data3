@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<Imageset Name="MiniMap_En2" Imagefile="Common/tga_MiniMap_En2.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+
+  <Image Name="Character01" XPos="0" YPos="0" Width="144" Height="210" />
+  <Image Name="Character02" XPos="0" YPos="227" Width="115" Height="29" />
+</Imageset>

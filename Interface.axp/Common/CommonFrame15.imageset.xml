@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Imageset Name="CommonFrame15" Imagefile="Common/tga_CommonFrame15.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+  <Image Name="Yuanbao_00" XPos="0" YPos="0" Width="64" Height="64" />
+  <Image Name="Yuanbao_01" XPos="64" YPos="0" Width="64" Height="64" />
+  <Image Name="Yuanbao_02" XPos="128" YPos="0" Width="64" Height="64" />
+  <Image Name="Yuanbao_03" XPos="192" YPos="0" Width="64" Height="64" />
+  
+  <Image Name="Huoyuehaoli_Normal" XPos="0" YPos="68" Width="31" Height="32" />
+  <Image Name="Huoyuehaoli_Hover" XPos="31" YPos="68" Width="31" Height="32" />
+  <Image Name="Huoyuehaoli_Pushed" XPos="62" YPos="68" Width="31" Height="32" />
+  <Image Name="Huoyuehaoli_Disable" XPos="93" YPos="68" Width="31" Height="32" />
+  
+  <Image Name="Hyhl_animate1" XPos="124" YPos="68" Width="31" Height="32" />
+  <Image Name="Hyhl_animate2" XPos="155" YPos="68" Width="31" Height="32" />
+  
+  <Image Name="murenzhen_head_1" XPos="0" YPos="102" Width="35" Height="35" />
+  <Image Name="murenzhen_head_2" XPos="35" YPos="102" Width="35" Height="35" />
+  <Image Name="murenzhen_head_3" XPos="70" YPos="102" Width="35" Height="35" />
+  <Image Name="murenzhen_head_4" XPos="105" YPos="102" Width="35" Height="35" />
+  
+  
+</Imageset>

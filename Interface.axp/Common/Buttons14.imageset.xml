@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+	<Imageset Name="Button14" Imagefile="Common/tga_Button14.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="false">
+		
+    <Image Name="Fugui_Normal" XPos="0" YPos="0" Width="64" Height="64" />
+    <Image Name="Fugui_Hover" XPos="64" YPos="0" Width="64" Height="64" />
+    <Image Name="Fugui_Pushed" XPos="128" YPos="0" Width="64" Height="64" />
+    <Image Name="Fugui_Disable" XPos="192" YPos="0" Width="64" Height="64" />
+    
+    <Image Name="Huagui_Normal" XPos="0" YPos="64" Width="64" Height="64" />
+    <Image Name="Huagui_Hover" XPos="64" YPos="64" Width="64" Height="64" />
+    <Image Name="Huagui_Pushed" XPos="128" YPos="64" Width="64" Height="64" />
+    <Image Name="Huagui_Disable" XPos="192" YPos="64" Width="64" Height="64" />
+    
+    <Image Name="Xingui_Normal" XPos="0" YPos="128" Width="64" Height="64" />
+    <Image Name="Xingui_Hover" XPos="64" YPos="128" Width="64" Height="64" />
+    <Image Name="Xingui_Pushed" XPos="128" YPos="128" Width="64" Height="64" />
+    <Image Name="Xingui_Disable" XPos="192" YPos="128" Width="64" Height="64" />
+    
+    <Image Name="Zungui_Normal" XPos="0" YPos="192" Width="64" Height="64" />
+    <Image Name="Zungui_Hover" XPos="64" YPos="192" Width="64" Height="64" />
+    <Image Name="Zungui_Pushed" XPos="128" YPos="192" Width="64" Height="64" />
+    <Image Name="Zungui_Disable" XPos="192" YPos="192" Width="64" Height="64" />
+		
+		
+	</Imageset>

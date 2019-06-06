@@ -1,0 +1,7 @@
+<Imageset Name="PayTopListUI3" Imagefile="Common/tga_PayTopListUI3.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+
+  <Image Name="PayTopListUI_Goto4_Normal" XPos="0" YPos="0" Width="160" Height="42" />
+  <Image Name="PayTopListUI_Goto4_Hover" XPos="0" YPos="42" Width="160" Height="42" />
+  <Image Name="PayTopListUI_Goto4_Pushed" XPos="0" YPos="84" Width="160" Height="42" />
+  
+</Imageset>

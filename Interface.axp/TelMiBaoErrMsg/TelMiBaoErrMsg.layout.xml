@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<GUILayout>
+    <Window Type="DefaultWindow" Name="TelMiBaoErrMsg_Frame">
+        <Property Name="AlwaysOnTop" Value="True" />
+        <Property Name="Position" Value="x:0.0 y:0.0" />
+        <Property Name="Size" Value="w:1.0 h:1.0" />
+        <Event Name="Hidden" Function="TelMiBaoErrMsg_Frame_OnHiden();" />
+        <Window Type="TLBB_Frame2" Name="TelMiBaoErrMsg_Frame_sub">
+            <Property Name="UnifiedPosition" Value="{{0.500000,-173.000000},{0.500000,-118.000000}" />
+            <Property Name="UnifiedSize" Value="{{0.000000,346.000000},{0.000000,128.000000}" />
+            <Window Type="TLBB_SelfWindow" Name="TelMiBaoErrMsg_InfoWindow">
+                <Property Name="AbsolutePosition" Value="x:15.000000 y:22.000000" />
+                <Property Name="AbsoluteSize" Value="w:0.000000 h:0.000000" />
+                <Property Name="HorzFormatting" Value="WordWrapLeftAligned" />
+                <Property Name="VertFormatting" Value="VertCentred" />
+                <Property Name="RiseOnClick" Value="False" />
+                <Property Name="MaxWidth" Value="326" />
+                <Property Name="MinHeight" Value="25" />
+                <Property Name="Text" Value="" />
+            </Window>
+            <Window Type="TLBB_ButtonCommon" Name="TelMiBaoErrMsg_Button">
+                <Property Name="UnifiedPosition" Value="{{1.000000,-45.000000},{1.000000,-25.000000}" />
+                <Property Name="AbsoluteSize" Value="w:40.000000 h:20.000000" />
+                <Property Name="Text" Value="#{INTERFACE_XML_557}" />
+                <Event Name="Clicked" Function="TelMiBaoErrMsg_BnClick();" />
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>

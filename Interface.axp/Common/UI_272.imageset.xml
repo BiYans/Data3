@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Imageset Name="UI_272" Imagefile="Common/tga_UI_272.dds" NativeHorzRes="1024" NativeVertRes="1024" AutoScaled="true">
+  <Image Name="BackFrame" XPos="5" YPos="11" Width="326" Height="331" />
+  <Image Name="RedBack" XPos="339" YPos="2" Width="163" Height="33" />
+  <Image Name="UI_272_Take_Hov" XPos="335" YPos="93" Width="108" Height="48" />
+  <Image Name="UI_272_Take_Nor" XPos="335" YPos="43" Width="108" Height="48" />
+  <Image Name="UI_272_Take_Pus" XPos="335" YPos="144" Width="108" Height="48" />
+  <Image Name="UI_272_Take_Dis" XPos="335" YPos="196" Width="108" Height="48" />
+  <Image Name="UI_272_Title" XPos="1" YPos="350" Width="495" Height="162" />
+</Imageset>

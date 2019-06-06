@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Imageset Name="MiniMap_En1" Imagefile="Common/tga_MiniMap_En1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+
+  <Image Name="Server01" XPos="0" YPos="0" Width="190" Height="30" />
+  <Image Name="Server02" XPos="0" YPos="30" Width="190" Height="30" />
+  <Image Name="Server03" XPos="0" YPos="60" Width="190" Height="30" />
+  <Image Name="Server04" XPos="0" YPos="90" Width="190" Height="30" />
+  <Image Name="Server05" XPos="0" YPos="120" Width="14" Height="21" />
+</Imageset>

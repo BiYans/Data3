@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<Imageset Name="UI_226" Imagefile="Common/tga_UI_226.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true">
+
+   <Image Name="biaozhunnv" XPos="1" YPos="1" Width="217" Height="408" />
+
+
+    <Image Name="DoorPlateFrame_LT" XPos="0" YPos="256" Width="115" Height="193" />
+    <Image Name="DoorPlateFrame_T" XPos="150" YPos="256" Width="27" Height="193" />
+    <Image Name="DoorPlateFrame_TR" XPos="209" YPos="256" Width="148" Height="193" />
+    <Image Name="DoorPlateFrame_R" XPos="209" YPos="451" Width="148" Height="6" />
+    <Image Name="DoorPlateFrame_RB" XPos="209" YPos="457" Width="148" Height="10" />
+    <Image Name="DoorPlateFrame_B" XPos="150" YPos="457" Width="27" Height="10" />
+    <Image Name="DoorPlateFrame_LB" XPos="0" YPos="457" Width="115" Height="10" />
+    <Image Name="DoorPlateFrame_L" XPos="0" YPos="451" Width="115" Height="6" />
+    
+    
+    <Image Name="DoorPlateFrame_Button_normal" XPos="327" YPos="1" Width="30" Height="81" />
+    <Image Name="DoorPlateFrame_Button_hover" XPos="360" YPos="1" Width="30" Height="81" />
+    <Image Name="DoorPlateFrame_Button_down" XPos="393" YPos="1" Width="30" Height="81" />
+    <Image Name="DoorPlateFrame_Button_disable" XPos="426" YPos="1" Width="30" Height="81" />
+    
+    <Image Name="DoorPlateFrame_BG" XPos="160" YPos="335" Width="7" Height="19" />
+    
+    <Image Name="DoorPlateFrame_doorbg" XPos="0" YPos="0" Width="250" Height="100" />
+    
+    
+    
+    <Image Name="DoorPlateDetail_LT" XPos="258" YPos="2" Width="20" Height="21" />
+    <Image Name="DoorPlateDetail_T" XPos="285" YPos="2" Width="5" Height="21" />
+    <Image Name="DoorPlateDetail_TR" XPos="304" YPos="2" Width="20" Height="21" />
+    <Image Name="DoorPlateDetail_R" XPos="304" YPos="33" Width="20" Height="4" />
+    <Image Name="DoorPlateDetail_RB" XPos="304" YPos="42" Width="20" Height="23" />
+    <Image Name="DoorPlateDetail_B" XPos="285" YPos="42" Width="5" Height="23" />
+    <Image Name="DoorPlateDetail_LB" XPos="258" YPos="42" Width="20" Height="23" />
+    <Image Name="DoorPlateDetail_L" XPos="258" YPos="33" Width="20" Height="4" />
+    <Image Name="DoorPlateDetail_BACK" XPos="293" YPos="25" Width="6" Height="5" />
+    
+    
+    <Image Name="FoodScore1" XPos="259" YPos="85" Width="94" Height="16" />
+    <Image Name="FoodScore2" XPos="259" YPos="104" Width="94" Height="16" />
+    <Image Name="FoodScore3" XPos="259" YPos="124" Width="94" Height="16" />
+    <Image Name="FoodScore4" XPos="259" YPos="143" Width="94" Height="16" />
+    <Image Name="FoodScore5" XPos="259" YPos="162" Width="94" Height="16" />
+    <Image Name="FoodScore6" XPos="358" YPos="85" Width="94" Height="16" />
+    <Image Name="FoodScore7" XPos="358" YPos="104" Width="94" Height="16" />
+    <Image Name="FoodScore8" XPos="358" YPos="124" Width="94" Height="16" />
+    <Image Name="FoodScore9" XPos="358" YPos="143" Width="94" Height="16" />
+    
+    <Image Name="Constellation_birthday" XPos="6" YPos="479" Width="181" Height="22" />
+
+  <Image Name="LittleButton_Nor" XPos="362" YPos="418" Width="66" Height="19" />
+  <Image Name="LittleButton_Hov" XPos="362" YPos="440" Width="66" Height="19" />
+  <Image Name="LittleButton_Pus" XPos="362" YPos="462" Width="66" Height="19" />
+  <Image Name="LittleButton_Dis" XPos="362" YPos="484" Width="66" Height="19" />
+
+  <Image Name="SNSButton_Nor" XPos="363" YPos="255" Width="52" Height="51" />
+  <Image Name="SNSButton_Hov" XPos="419" YPos="255" Width="52" Height="51" />
+  <Image Name="SNSButton_Pus" XPos="363" YPos="310" Width="52" Height="51" />
+  <Image Name="SNSButton_Dis" XPos="418" YPos="310" Width="52" Height="51" />
+
+  <Image Name="ButtonBack" XPos="264" YPos="191" Width="198" Height="52" />
+  <Image Name="UI_226_Lover_Bank_Dis" XPos="359" YPos="366" Width="36" Height="36" />
+  <Image Name="UI_226_Lover_Bank_Nor" XPos="396" YPos="366" Width="36" Height="36" />
+  <Image Name="UI_226_Lover_Bank_Hov" XPos="433" YPos="366" Width="36" Height="36" />
+  <Image Name="UI_226_Lover_Bank_Pus" XPos="470" YPos="366" Width="36" Height="36" />
+  
+  <Image Name="FaBaoAPic01" XPos="480" YPos="199" Width="25" Height="43" />
+  <Image Name="FaBaoAPic02" XPos="480" YPos="250" Width="25" Height="42" />
+
+
+  <Image Name="YellowBK" XPos="0" YPos="0" Width="256" Height="256" />
+  
+  
+</Imageset>
