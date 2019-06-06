@@ -9,7 +9,7 @@ local g_Object = -1;
 
 local g_ObbpszCost = 2000000;
 local g_Mainitem = {10155003,10155005};
-local g_Othertem = {30008069,30008070};--20310115,20310116};
+local g_Othertem = {30008069,30008070};--20310115,20310116};FFFFFFFFFFFFFFFFFF
 
 local g_Accept_Clicked_Num = 0;
 

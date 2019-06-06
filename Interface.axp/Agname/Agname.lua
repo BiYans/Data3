@@ -6,7 +6,7 @@ end
 function Agname_OnLoad()
 end
 
--- OnEvent
+-- OnEventFFFFFFFFFFFFFFF
 function Agname_OnEvent(event)
 	if ( event == "OPEN_AGNAME" ) then
 		this:TogleShow();
