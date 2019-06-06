@@ -1,4 +1,4 @@
---MisDescBegin
+--MisDescBeginFFFFF
 x600006_g_ScriptId = 600006
 x600006_g_MissionId = 1105
 x600006_g_Name = "Mã ºng Hùng"
