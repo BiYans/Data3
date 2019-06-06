@@ -1,4 +1,4 @@
---MisDescBegin
+--MisDescBegin1
 x224901_g_ScriptId = 224901
 x224901_g_CopySceneName="Chân tháp"
 x224901_g_MissionId = 1081
