@@ -1,6 +1,6 @@
 local g_InitiativeClose = 0;
 
---背包及其编号
+--背包及其编号 BiYan
 local PACK_BUTTONS_NUM = 5;
 local PACK_BUTTONS = {};
 
