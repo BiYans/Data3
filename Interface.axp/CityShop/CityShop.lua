@@ -1,4 +1,4 @@
---UI COMMAND ID 104
+--UI COMMAND ID 104 VVVVVVVVVVVVVVVVVV
 local g_MembersCtl = {};
 local g_clientNpcId = -1;
 local MAX_OBJ_DISTANCE = 3.0;
