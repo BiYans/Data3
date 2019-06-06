@@ -4,7 +4,7 @@ local g_ClickCancel
 
 local PVPFLAG = { ACCEPTDUEL = 205, DuelGUID = "", DuelName = "" }
 --===============================================
--- OnLoad()
+-- OnLoad() Makute
 --===============================================
 function AcceptBox_PreLoad()
     this:RegisterEvent("MSGBOX_ACCEPTDUEL");
